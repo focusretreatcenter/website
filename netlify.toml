@@ -1,0 +1,5 @@
+[Settings]
+ID = "focus-retreat-center"
+[build]
+  # Default build command.
+  command = "./bin/build.sh"
