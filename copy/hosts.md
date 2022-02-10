@@ -1,6 +1,3 @@
-+++
-title="About Your Hosts"
-+++
 Hi! We are Pete Lyons and Christella Kay! We are life partners running this business together. We decided to build our lives with intention and in a way that lets us work for ourselves while helping others. We have a special fondness for Adirondack State Park and are happy to be living here with nature at our doorstep.
 
 Christella is an innovative thinker with a business degree and restaurant experience. She enjoys the company of nerds and is excited to be fostering community and creating a curated ‘focus intensive vibe’ at our facility.

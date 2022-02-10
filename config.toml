@@ -15,3 +15,6 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 blog_title = "Focus Retreat Center Blog"
+company_name = "Focus Retreat Center"
+tag_line = "A place to focus with supportive peers, without distractions."
+

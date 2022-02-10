@@ -1,6 +1,3 @@
-+++
-title="Imagine how much you can achieve"
-+++
 Totally immerse in your project, sharing supportive work and living spaces with a select group of peers, away from daily responsibilities - located in beautiful Upstate New York, close to Canada, the Adirondacks and the Saint Lawrence River.
 
 We offer retreats focused on individual projects that benefit from a community of peers doing similar work and substantial focused time.

@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Focus Retreat Center</title>
+  <title>{{ config.extra.company_name }}</title>
   <meta name="description" content="">
   <meta name="author" content="">
 
@@ -22,16 +22,16 @@
 <!-- Linking ---->
     <!-- Twitter -->
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Focus Retreat Center is a space for personal growth, surrounded by supportive peers, free from distractions."/>
-    <meta name="twitter:title" content="Focus Retreat Center - Immersive work/focus retreats in Upstate New York"/>
+    <meta name="twitter:description" content="{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions."/>
+    <meta name="twitter:title" content="{{ config.extra.company_name }} - Immersive work/focus retreats in Upstate New York"/>
     <meta name="twitter:image" content="https://frc.emphasiscreative.net/images/frc-logo.jpg"/><meta name="twitter:site" content="@focusretreats"/>
     
     <!-- Facebook -->
     <meta property="og:url" content="https://focusretreat.center/" />
  <meta property="fb:app_id" content="183367818463165" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Focus Retreat Center - Immersive work/focus retreats in Upstate New York" />
-<meta property="og:description" content="Focus Retreat Center is a space for personal growth, surrounded by supportive peers, free from distractions." />
+<meta property="og:title" content="{{ config.extra.company_name }} - Immersive work/focus retreats in Upstate New York" />
+<meta property="og:description" content="{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions." />
 <meta property="og:image" content="https://frc.emphasiscreative.net/images/FocusRetreat-cover-1200.jpg" />
 
 
@@ -108,13 +108,13 @@ function closeNav() {
     <div class="hamburger"><span onclick="openNav()"><img src="images/hamburger.png" alt="menu"></span></div>
     
       <section class="hero">
-          <h1><img src="images/frc-logo@2x.png" alt="Focus Retreat Center" /></h1>
-          <h2>A place to focus with supportive peers, without distractions.</h2>
+        <h1><img src="images/frc-logo@2x.png" alt="{{ config.extra.company_name }}" /></h1>
+        <h2>{{ config.extra.tag_line }}</h2>
         </section>
 
     <section class="callout-text blue lesswide" id="intro">
          <div class="row">
-            <h4>Focus Retreat Center runs retreats for coding, writing, learning new skills, or working groups. Free yourself from distractions and work with like-minded people. This is the perfect place to focus.<br><span class="gold">Now planning for soft opening in Spring 2022.</span></h4>
+           <h4>{{ config.extra.company_name }} runs retreats for coding, writing, learning new skills, or working groups. Free yourself from distractions and work with like-minded people. This is the perfect place to focus.<br><span class="gold">Now planning for soft opening in Spring 2022.</span></h4>
          </div>
     </section>
     
@@ -122,9 +122,8 @@ function closeNav() {
          <div class="row">
              <div class="row">
                 <div class="six columns">
-                  {% set page = get_page(path="_copy/imagine.md") %}
-                  <h2 style="color: #01286e;">{{ page.title | safe}}</h2>
-                    {{ page.content | safe }}
+                  <h2 style="color: #01286e;">Image how much you can achieve</h2>
+                    {{ load_data(path="copy/imagine.md") | markdown | safe }}
                  </div>
                  <div class="six columns">
                       <img src="images/frc-at-night-1600.jpg" style="width:100%;" alt="Our building at night in winter"/>
@@ -135,17 +134,16 @@ function closeNav() {
     
      <section class="callout-text lightblue">
          <div class="row">
-             <h3>Get away from your daily grind, and accelerate your project or learning to the next level.</h3>     
+           <h3>{{ load_data(path="copy/grind.md") | markdown | safe }}</h3>
         </div>
     </section>
     
     <section class="contents blue" id="about">
          <div class="row">
-                  {% set page = get_page(path="_copy/hosts.md") %}
-                  <h2>{{ page.title }}</h2>
+                  <h2>About Your Hosts</h2>
              <div class="row">
                  <div class="six columns text">
-                    {{ page.content | safe }}
+                   {{ load_data(path="copy/hosts.md") | markdown | safe }}
                      <p><a href="https://twitter.com/focusretreats" target="_blank"><img src="images/twitter-icon.png" alt="twitter link"></a> <a href="https://twitter.com/focusretreats" target="_blank" style="color:#67bffd;text-decoration: none;margin-left:5px;">Follow us on Twitter</a></p>
                  </div>
                  <div class="six columns">
@@ -158,8 +156,9 @@ function closeNav() {
     <section class="contents pic1">
          <div class="row">
              <h2>The retreat experience</h2>
-             <p>Focus Retreat Center offers a quiet environment to focus on deep, self-directed project work. There are common areas where idea sharing and team work will be encouraged, as well as private quarters for solitary work. There are about 15 guests per retreat, usually for 4 weeks. An online community connects you during and after the retreat... Friendships and connections made here can last a lifetime.
-            </p>
+             <p>
+                   {{ load_data(path="copy/experience.md") | markdown | safe }}
+             </p>
             </div>
     </section>
 
@@ -178,7 +177,7 @@ function closeNav() {
                     </ul>
                 </div>
                 <div class="five columns">
-                   <p style="margin-top:1em;"><img src="images/frc-building-side.jpg" style="width:100%;" alt="Focus Retreat Center Building"/></p>
+                  <p style="margin-top:1em;"><img src="images/frc-building-side.jpg" style="width:100%;" alt="{{ config.extra.company_name }} Building"/></p>
                 </div>    
        </div><!-- row -->
    </section>
