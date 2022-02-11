@@ -24,15 +24,15 @@
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:description" content="{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions."/>
     <meta name="twitter:title" content="{{ config.extra.company_name }} - Immersive work/focus retreats in Upstate New York"/>
-    <meta name="twitter:image" content="https://frc.emphasiscreative.net/images/frc-logo.jpg"/><meta name="twitter:site" content="@focusretreats"/>
+    <meta name="twitter:image" content="images/frc-logo.jpg"/><meta name="twitter:site" content="@focusretreats"/>
     
     <!-- Facebook -->
-    <meta property="og:url" content="https://focusretreat.center/" />
- <meta property="fb:app_id" content="183367818463165" />
+    <meta property="og:url" content="https://focusretreatcenter.com" />
+ <meta property="fb:app_id" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="{{ config.extra.company_name }} - Immersive work/focus retreats in Upstate New York" />
 <meta property="og:description" content="{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions." />
-<meta property="og:image" content="https://frc.emphasiscreative.net/images/FocusRetreat-cover-1200.jpg" />
+<meta property="og:image" content="images/FocusRetreat-cover-1200.jpg" />
 
 
   <!-- CSS
@@ -80,8 +80,8 @@ function closeNav() {
 				}
 			}
 			preload(
-				"https://frc.emphasiscreative.net/images/FocusRetreat-topimage-1600.jpg",
-                "https://frc.emphasiscreative.net/images/frc-logo@2x.png"
+				"images/FocusRetreat-topimage-1600.jpg",
+                "images/frc-logo@2x.png"
 			)
 		//--><!]]>
 	</script>
@@ -95,7 +95,7 @@ function closeNav() {
   <a href="#about" onclick="closeNav()">About Us</a>
   <a href="#place" onclick="closeNav()">The Place</a>
   <a href="#program" onclick="closeNav()">The Program</a>
-    <a href="#pricing" onclick="closeNav()">Pricing</a>
+  <a href="#pricing" onclick="closeNav()">Pricing</a>
 </div>
 
   <!-- Primary Page Layout
@@ -114,7 +114,7 @@ function closeNav() {
 
     <section class="callout-text blue lesswide" id="intro">
          <div class="row">
-           <h4>{{ config.extra.company_name }} runs retreats for coding, writing, learning new skills, or working groups. Free yourself from distractions and work with like-minded people. This is the perfect place to focus.<br><span class="gold">Now planning for soft opening in Spring 2022.</span></h4>
+           {{ load_data(path="copy/intro.md") | markdown | safe }}
          </div>
     </section>
     
@@ -140,7 +140,6 @@ function closeNav() {
     
     <section class="contents blue" id="about">
          <div class="row">
-                  <h2>About Your Hosts</h2>
              <div class="row">
                  <div class="six columns text">
                    {{ load_data(path="copy/hosts.md") | markdown | safe }}
@@ -155,26 +154,14 @@ function closeNav() {
     
     <section class="contents pic1">
          <div class="row">
-             <h2>The retreat experience</h2>
-             <p>
-                   {{ load_data(path="copy/experience.md") | markdown | safe }}
-             </p>
+               {{ load_data(path="copy/experience.md") | markdown | safe }}
             </div>
     </section>
 
     <section class="contents pic2" id="place">
         <div class="row">
                 <div class="seven columns">
-                   <h2>About Our Center:</h2>
-                   <p style="font-weight:600; font-style: italic;">Our brick and stone buildings were built in the 1930's as a school, and have had several renovations and uses.</p>       
-                   <ul>
-                       <li>Located in the heart of the village of Malone, across from a park and a public library</li>
-                       <li>Two large common areas, a dining hall, and a commercial kitchen</li>
-                       <li>Thermostats in every room</li>
-                       <li>Central air conditioning</li>
-                       <li>Wheelchair accessible</li>
-                       <li>New laundry appliances for guest use</li>
-                    </ul>
+               {{ load_data(path="copy/about-our-center.md") | markdown | safe }}
                 </div>
                 <div class="five columns">
                   <p style="margin-top:1em;"><img src="images/frc-building-side.jpg" style="width:100%;" alt="{{ config.extra.company_name }} Building"/></p>
@@ -188,23 +175,7 @@ function closeNav() {
             <p><img src="images/frc-building-rear.jpg" style="width:100%;" alt="Our Building, rear view with lot"/></p>
         </div>
         <div class="six columns">
-            <h2>What we offer:</h2>
-            <ul style="line-height:1.1;">
-                <li>Curated space in which to focus on a specific topic or project</li>
-                <li>Accommodation for 15 in single rooms with private or shared bath</li>
-                <li>Meals and snacks prepared on-site in our commercial kitchen and enjoyed in our community dining room</li>
-                <li>Walkable small town with shops and services nearby</li>
-                <li>Each guest has a rolling desk and locking toolbox for flexible workstation setup</li>
-                <li>Accommodations for the needs of neuroatypical guests:
-                    <ul>
-                        <li>Clearly organized and labeled items in common areas</li>
-                        <li>Clear visual boundaries between private spaces, shared spaces, and employee-only spaces</li>
-                        <li>Quiet and free from TV, radio, distracting lighting, etc.</li>
-                        <li>Reduction of any strong odors from fragranced cleaning products, perfumes, etc.</li>
-                    </ul>
-                </li>
-                <li>Round trip transportation to/from the retreat center from central transit hubs for city-based groups</li>
-            </ul>
+          {{ load_data(path="copy/what-we-offer.md") | markdown | safe }}
         </div>
     </div>
 </section>
@@ -212,19 +183,7 @@ function closeNav() {
     <section class="contents honey">
         <div class="row">
             <div class="six columns">
-                <h2>Amenities</h2>
-                <ul style="line-height:1.1;">
-                    <li>Adirondack State Park: Lakes, mountains, forest; Swimming, boating, &amp; hiking</li>
-                    <li>Walkable small town</li>
-                    <li>940Mbps down/40Mbps up Internet service</li>
-                    <li>Ethernet LAN and fast WiFi throughout the property</li>
-                    <li>Customizable experiences ranging from solitary retreats to fully immersive meetings</li>
-                    <li>Two simple hot meals per day prepeared for you onsite with fresh, locally-sourced ingredients</li>
-                    <li>Fresh fruit and baked goods, coffee and tea service, as well as other kitchen amenities</li>
-                    <li>Hassle-free accommodations</li>
-                    <li>On-site laundry facilities</li>
-                    <li>Board games, lawn games, and some recreational equipment to borrow</li>
-                </ul>
+               {{ load_data(path="copy/amenities.md") | markdown | safe }}
             </div>
                  <div class="six columns">
                      <p><img src="images/coffee-and-rolls.jpg" style="width:100%;margin-top:15px;" alt="Fresh baked goods and coffee"/></p>
@@ -234,27 +193,21 @@ function closeNav() {
     
     <section class="contents sage">
         <div class="row">
-                <h4>What we don't offer:</h4>
-                <ul style="line-height:1.1;">
-                    <li>Hotel-style laundry services or dry cleaning. Guests are welcome to make use of in-house facilities.</li>
-                    <li>We do not sell alcohol, but guests are welcome to bring alcohol to consume on premises in moderation.</li>
-                    <li>Meals are chef's choice each day, based on local fresh ingredients, not cooked to order. We do accomodate any reasonable dietary needs in our meal planning.</li>
-                    <li>We do not clean private bathrooms during a guest's stay, but we thoroughly clean between guests. Shared baths will be cleaned more frequently as needed.</li>
-                    <li>"Tourist" sight-seeing excursions. Transportation may be offered in a limited way during your stay, based on our availability.</li>
-                </ul>
+               {{ load_data(path="copy/what-we-dont-offer.md") | markdown | safe }}
         </div>
     </section> 
     
     <section id="gallery">
         <div class="row">
-            <div class="four columns"><img src="images/gallery/boating2.jpg" alt="hottub"></div>
-            <div class="four columns"><img src="images/gallery/lake-placid-fall.jpg" alt="hottub"></div>
-            <div class="four columns"><img src="images/gallery/mountaintop.jpg" alt="hottub"></div>
+            <div class="four columns"><img src="images/gallery/boating2.jpg" alt=""></div>
+            <div class="four columns"><img src="images/gallery/lake-placid-fall.jpg" alt=""></div>
+            <div class="four columns"><img src="images/gallery/mountaintop.jpg" alt=""></div>
         </div>
          <div class="row">
-            <div class="four columns"><img src="images/gallery/mountain-lake.jpg" alt="hottub"></div>
-            <div class="four columns"><img src="images/gallery/pie.jpg" alt="hottub"></div>
-            <div class="four columns"><img src="images/gallery/river.jpg" alt="hottub"></div>
+            <div class="four columns"><img src="images/gallery/mountain-lake.jpg" alt=""></div>
+            <div class="four columns"><img src="images/gallery/pie.jpg" alt=""></div>
+            <div class="four columns"><img src="images/gallery/river.jpg" alt=""></div>
+
         </div>
     </section>
     

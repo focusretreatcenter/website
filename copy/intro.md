@@ -1,0 +1,3 @@
+#### Focus Retreat Center runs retreats for coding, writing, learning new skills, or working groups. Free yourself from distractions and work with like-minded people. This is the perfect place to focus.
+
+<span class="gold">Now planning for soft opening in Spring 2022.</span>
