@@ -1,5 +1,7 @@
-Totally immerse in your project, sharing supportive work and living spaces with a select group of peers, away from daily responsibilities - located in beautiful Upstate New York, close to Canada, the Adirondacks and the Saint Lawrence River.
+Launch that project you've been dreaming about. Build your startup's MVP. Learn a new coding discipline. Take your open source project to 1.0. Give yourself a chance to focus on your most important work.
 
-We offer retreats focused on individual projects that benefit from a community of peers doing similar work and substantial focused time.
-                    
-We provide room, board, a curated environment, carefully screened peers, and light-touch facilitation. Guests get a level of depth of focus that is exceedingly rare in modern life's hustle and bustle. The retreat center offers a reprieve from the appointments, obligations, chores, routines and distractions of everyday life. We provide a space tailored for personal development and a right-sized group of peers to enrich and support each other’s experiences and develop life-long friendships.
+Totally immerse in your project, sharing supportive work and living spaces with a select group of peers. Leave your distractions and daily responsibilities behind.
+
+Put in the time for deep work that is increasingly difficult to achieve in our normal environment of distractions and reactionary busywork.
+
+Here you can flourish in your most creative, most effective, most productive form. You'll build lifelong friendships and connections to a network of interesting and creative people.

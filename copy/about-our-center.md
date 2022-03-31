@@ -6,5 +6,4 @@
 * Two large common areas, a dining hall, and a commercial kitchen
 * Thermostats in every room
 * Central air conditioning
-* Wheelchair accessible
 * New laundry appliances for guest use
