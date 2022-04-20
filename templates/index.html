@@ -1,48 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+{% include "_head.html" %}
 
-  <!-- Basic Page Needs
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <meta charset="utf-8">
-  <title>{{ config.extra.company_name }}</title>
-  <meta name="description" content="">
-  <meta name="author" content="">
-
-  <!-- Mobile Specific Metas
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <!-- FONT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap" rel="stylesheet">
-    
-<!-- Linking ---->
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions."/>
-    <meta name="twitter:title" content="{{ config.extra.company_name }} - Immersive work/focus retreats in Upstate New York"/>
-    <meta name="twitter:image" content="images/frc-logo.jpg"/><meta name="twitter:site" content="@focusretreats"/>
-    
-    <!-- Facebook -->
-    <meta property="og:url" content="https://focusretreatcenter.com" />
- <meta property="fb:app_id" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="{{ config.extra.company_name }} - Immersive work/focus retreats in Upstate New York" />
-<meta property="og:description" content="{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions." />
-<meta property="og:image" content="images/FocusRetreat-cover-1200.jpg" />
-
-
-  <!-- CSS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/skeleton.css">
-  <link rel="stylesheet" href="css/custom.css">
-
-  <!-- Mailchimp
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<title>{{ config.extra.company_name }}</title>
+<!-- Mailchimp -->
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -54,32 +13,11 @@
         }
 </style>
 
-  <!-- Favicon
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
-    
-<!-- Menu -->
-<script>
-function openNav() {
-  document.getElementById("mySidenav").style.width = "300px";
-}
-
-function closeNav() {
-  document.getElementById("mySidenav").style.width = "0";
-}
-</script>
 
 </head>
 <body>
 
-      <!-- Image preload
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<!-- Image preload -->
 <div class="hidden">
 	<script type="text/javascript">
 		<!--//--><![CDATA[//><!--
@@ -98,8 +36,7 @@ function closeNav() {
 	</script>
 </div>
 
-    <!-- fly-in nav 
----------------------------------  -->
+    <!-- fly-in nav ---------------------------------  -->
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <a href="#intro" onclick="closeNav()">Introduction</a>

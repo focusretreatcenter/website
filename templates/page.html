@@ -1,9 +1,9 @@
-<!doctype html>
-<html>
-<head>
+{% include "_head.html" %}
   <title>{{ page.title }}</title>
 </head>
   <body>
-    {{ page.content | markdown | safe }} 
+    <div class="container">
+    {{ page.content | markdown | safe }}
+    </div>
   </body>
 </html>
