@@ -2,4 +2,4 @@
 
 Located in Malone, NY just north of Adirondack State Park.
 
-<span class="gold">Now planning for soft opening in summer 2022.</span>
+<span class="gold">Our inaugural program of retreats starts summer of 2022.</span>
