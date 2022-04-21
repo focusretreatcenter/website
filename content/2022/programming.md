@@ -32,7 +32,13 @@ This retreat provides a substantial block of time to work on projects where you 
 We will be hosting online info/Q&A sessions at the following times
 
 * Thursday May 12th 12:00 PM Eastern
+  * [Zoom Link](https://zoom.us/j/94021568342?pwd=RjM5czg5eW5EbnpQZHFLUkcxRFhQUT09)
+  * Meeting ID: 940 2156 8342
+  * Passcode: focus
 * Saturday May 14th 3:00 PM Eastern
+  * [Zoom Link](https://zoom.us/j/99852480698?pwd=eW9IMXlCcnFkOGd3ZmdMOVJkQkZTZz09)
+  * Meeting ID: 998 5248 0698
+  * Passcode: focus
 
 ## Summer in the Adirondacks
 
