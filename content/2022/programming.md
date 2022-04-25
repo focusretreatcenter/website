@@ -8,6 +8,8 @@ This is an immersive project/learning retreat for software developers. You will 
 
 We are running 2 separate retreats that are each 6 weeks in length this year.
 
+![](/images/gallery/retreat0-hike.jpg)
+
 ## June Retreat Dates
 
 This is a 6-week retreat.
@@ -45,7 +47,6 @@ We will be hosting online info/Q&A sessions at the following times
 
 Adirondack State Park is the largest publicly protected area in the contiguous United States. It constitues 6 million acres of forest, rivers, lakes, mountains, and trails. Summertime here is glorious: warm enough to swim in the fresh water lakes but never uncomfortably hot. Most activities are either free or very low cost.
 
-![](/images/gallery/retreat0-hike.jpg)
 
 ## Food
 
