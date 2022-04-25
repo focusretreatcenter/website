@@ -47,7 +47,6 @@ We will be hosting online info/Q&A sessions at the following times
 
 Adirondack State Park is the largest publicly protected area in the contiguous United States. It constitues 6 million acres of forest, rivers, lakes, mountains, and trails. Summertime here is glorious: warm enough to swim in the fresh water lakes but never uncomfortably hot. Most activities are either free or very low cost.
 
-
 ## Food
 
 All meals are freshly prepared with in-season, locally-sourced ingredients by our in-house chef and Director of Operations Christella Kay. Coffee, tea, soft drinks and snacks are provided. All meals, snacks, and non-alcoholic beverages are included in the price of your retreat. Alcohol is not included or provided but guests may purchase and consume alcoholic beverages in accordance with our retreat handbook guidelines.
@@ -55,6 +54,10 @@ All meals are freshly prepared with in-season, locally-sourced ingredients by ou
 ## Equipment
 
 Each guest will have a sit/stand adjustable desk and ergonomic office chair. Our facility has high-speed (940 Mbps) Internet and WiFi6 access points throughout the property as well as ethernet jacks and power outlets always nearby.
+
+## How to apply
+
+Please fill out [this application form](https://forms.gle/7aL9MjzP3VK7Mhdz9) if you might be interested in attending.
 
 ## How do I get there?
 
