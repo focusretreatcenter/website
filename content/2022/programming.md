@@ -26,7 +26,8 @@ This is a 6-week retreat.
 
 **Depart:** Friday September 30, 2022
 
-![](/images/gallery/retreat0-hike.jpg)
+![](/images/gallery/mountain-lake.jpg)
+
 ## What is a self-directed programming retreat?
 
 This retreat provides a substantial block of time to work on projects where you are fully in control of your own time. You choose what to work on or what to learn and how to go about it. There are deliberately no formal classes, curricula, teachers, or instruction.
