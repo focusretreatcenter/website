@@ -1,5 +1,8 @@
 # The URL the site will be built for
-base_url = "https://focusretreat.center"
+base_url = "https://focusretreatcenter.com"
+
+# Enable blog atom feed atom.xml
+generate_feed = true
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -14,7 +17,6 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
-blog_title = "Focus Retreat Center Blog"
 company_name = "Focus Retreat Center"
 tag_line = "A place to focus with supportive peers, without distractions."
 

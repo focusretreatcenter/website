@@ -2,8 +2,6 @@
 title = "Programming Retreats for 2022"
 +++
 
-# Programming Retreats for 2022
-
 This is an immersive project/learning retreat for software developers. You will spend your time on retreat working on a specific project or learning a particular subject. You will be surrounded by a community of supportive peers doing similar work.
 
 We are running 2 separate retreats that are each 6 weeks in length this year.
