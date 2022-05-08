@@ -29,23 +29,24 @@ slug() {
 
 cd "$(dirname "${BASH_SOURCE[0]}")/.."
 
+dest_dir="content/blog"
+mkdir -p "${dest_dir}"
+
 title="$@"
 # read -r -p "Title: " title
 name=$(slug "${title}")
 
 publish_date=$(date -u +%Y-%m-%dT%H:%M:%SZ)
 # 2018-01-03T17:32:11Z
-year=$(echo "${publish_date}" | cut -d - -f 1)
-# month=$(echo "${publish_date}" | cut -d - -f 2)
-dest_dir="content/blog/${year}"
-mkdir -p "${dest_dir}"
+prefix=$(echo "${publish_date}" | cut -d T -f 1 | tr -d -)
 
-dest_path="${dest_dir}/${name}.md"
+dest_path="${dest_dir}/${prefix}-${name}.md"
 cat <<EOF >"${dest_path}"
 +++
 title = "${title}"
-slug = "/blog/${year}/${name}"
+slug = "/${name}"
 date = ${publish_date}
+author = "Pete Lyons"
 +++
 EOF
 "${EDITOR}" "${dest_path}"

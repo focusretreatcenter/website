@@ -222,6 +222,10 @@ footer {
 footer > .navigation > a {
   display: block;
 }
+ 
+.post-date {
+  text-align: right;
+}
 
 /* mobile flow */
 
