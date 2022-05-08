@@ -1,12 +1,19 @@
-{% include "_head.html" %}
-  <title>{{ page.title }}</title>
-</head>
-  <body>
-    {% include "_nav.html" %}
-    {% include "_hamburger.html" %}
-    <div class="container">
-    {% include "_hamburger.html" %}
-    {{ page.content | markdown | safe }}
-    </div>
-  </body>
-</html>
+{% extends "layout.html" %}
+{% block body -%}
+{{ super() }}
+<h1>{{ page.title }}</h1>
+{% if page.date %}
+<div class="row">
+  <div class="nine columns">
+    {% if page.extra.author %}
+    {{ page.extra.author }}
+    {% endif %}
+  </div>
+  <div class="two columns">
+    {{ page.date | date(format="%B %e, %Y", timezone="America/New_York") }}
+  </div>
+</div>
+<hr>
+{% endif %}
+{{ page.content | markdown | safe }}
+{% endblock -%}
