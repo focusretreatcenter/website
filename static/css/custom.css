@@ -182,7 +182,7 @@ _________________________ */
 }
 
 /* The navigation menu links */
-.sidenav a {
+.sidenav a, .sidenav button {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
@@ -192,11 +192,12 @@ _________________________ */
 }
 
 /* When you mouse over the navigation links, change their color */
-.sidenav a:hover {color: #2bc6ff;}
+.sidenav :hover {color: #2bc6ff;}
 
 /* Position and style the close button (top right corner) */
 .sidenav .closebtn {
   position: absolute;
+  border: 0;
   top: 0;
   right: 25px;
   font-size: 36px;
@@ -213,6 +214,14 @@ img {
   .sidenav a {font-size: 18px;}
 }
 
+footer {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+footer > .navigation > a {
+  display: block;
+}
 
 /* mobile flow */
 

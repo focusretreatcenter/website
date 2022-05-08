@@ -86,14 +86,8 @@
 
 <!-- fly-in nav -->
 <div id="mySidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="/#intro" onclick="closeNav()">Introduction</a>
-  <a href="/#about" onclick="closeNav()">About Us</a>
-  <a href="/#place" onclick="closeNav()">Our Center</a>
-  <a href="/#program" onclick="closeNav()">The Program</a>
-  <a href="/#retreats" onclick="closeNav()">Upcoming Retreats</a>
-  <a href="/blog" onclick="closeNav()">Blog</a>
-  <!-- <a href="/#pricing" onclick="closeNav()">Pricing</a> -->
+<button class="closebtn" onclick="closeNav()">&times;</button>
+{% include "partials/nav.html" -%}
 </div>
 {% set wide = false -%}
 
@@ -104,7 +98,17 @@
   <div class="hamburger"><span onclick="openNav()"><img src="/images/hamburger.png" alt="menu"></span></div>
 
   {% block body -%}
-  {% endblock body -%}
+  {% endblock -%}
+  <footer class="row offset-by-one column">
+    <hr>
+    {% block footer -%}
+    <div class="navigation">
+      {% include "partials/nav.html" -%}
+    </div>
+    {% endblock -%}
+  </footer>
 </div>
+
+
 </body>
 </html>
