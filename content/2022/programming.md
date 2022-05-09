@@ -6,6 +6,8 @@ This is an immersive project/learning retreat for software developers. You will 
 
 We are running 2 separate retreats that are each 6 weeks in length this year.
 
+[Apply now!](https://forms.gle/7aL9MjzP3VK7Mhdz9)
+
 ![](/images/gallery/retreat0-hike.jpg)
 
 ## June Retreat Dates
