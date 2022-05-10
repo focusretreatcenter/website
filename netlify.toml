@@ -30,7 +30,7 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
   force = true
 
 [[redirects]]
-  from = "https://focusretreatcenter.com/2022/programming/apply"
+  from = "https://focusretreatcenter.com/apply"
   to = "https://forms.gle/7aL9MjzP3VK7Mhdz9"
   status = 307
 
