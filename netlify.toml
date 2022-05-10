@@ -28,3 +28,9 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
   to = "https://focusretreatcenter.com"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://focusretreatcenter.com/2022/programming/apply"
+  to = "https://forms.gle/7aL9MjzP3VK7Mhdz9"
+  status = 307
+
