@@ -70,7 +70,3 @@ Please fill out [this application form](https://forms.gle/7aL9MjzP3VK7Mhdz9) if 
 **Train:** Amtrack to Albany will get you about half way to FRC but still 3.5 hours to drive from there. You can also take a bus from Albany to Plattsburgh which is much closer to FRC.
 
 **Plane:** Flying into Albany, NY is your best option. If you can take rideshare/taxi to the Albany Greyhound bus station, you can take the bus on to Plattsburgh, NY and we can coordinate a ride from Plattsburgh to Malone for you.
-
-----
-
-[Home](/)
