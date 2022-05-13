@@ -7,7 +7,7 @@
   <title>
     {% block title -%}
     {% if page.title is defined -%}{{ page.title }}{%- endif -%}
-    {% if section.title is defined -%}{{ section.title }}{% endif %} | {{config.extra.company_name }}
+    {% if section.title is defined -%}{{ section.title }}{% endif %} | {{ config.extra.company_name }}
     {% endblock title -%}
   </title>
 
