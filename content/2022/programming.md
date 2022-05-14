@@ -4,46 +4,13 @@ title = "Programming Retreats for 2022"
 
 This is an immersive project/learning retreat for software developers. You will spend your time on retreat working on a specific project or learning a particular subject. You will be surrounded by a community of supportive peers doing similar work.
 
-We are running 2 separate retreats that are each 6 weeks in length this year.
-
-[Apply now!](https://forms.gle/7aL9MjzP3VK7Mhdz9)
+For our opening season we are offering flexible retreat schedules so as many people get to experience a retreat this season as possible. Retreats are available on a weekly basis and we recommend at least two weeks so you can realistically advance your project and justify the travel time.
 
 ![](/images/gallery/retreat0-hike.jpg)
-
-## June Retreat Dates
-
-This is a 6-week retreat.
-
-**Travel/arrival:** Monday June 20, 2022
-
-**Depart:** Friday July 29, 2022
-
-## August Retreat Dates
-
-This is a 6-week retreat.
-
-**Travel/arrival:** Monday August 15, 2022
-
-**Depart:** Friday September 30, 2022
-
-![](/images/gallery/mountain-lake.jpg)
 
 ## What is a self-directed programming retreat?
 
 This retreat provides a substantial block of time to work on projects where you are fully in control of your own time. You choose what to work on or what to learn and how to go about it. There are deliberately no formal classes, curricula, teachers, or instruction.
-
-## Info sessions
-
-We will be hosting online info/Q&A sessions at the following times
-
-* Thursday May 12th 12:00 PM Eastern
-  * [Zoom Link](https://zoom.us/j/94021568342?pwd=RjM5czg5eW5EbnpQZHFLUkcxRFhQUT09)
-  * Meeting ID: 940 2156 8342
-  * Passcode: focus
-* Saturday May 14th 3:00 PM Eastern
-  * [Zoom Link](https://zoom.us/j/99852480698?pwd=eW9IMXlCcnFkOGd3ZmdMOVJkQkZTZz09)
-  * Meeting ID: 998 5248 0698
-  * Passcode: focus
 
 ## Summer in the Adirondacks
 
@@ -59,7 +26,11 @@ Each guest will have a sit/stand adjustable desk and ergonomic office chair. Our
 
 ## How to apply
 
-Please fill out [this application form](https://forms.gle/7aL9MjzP3VK7Mhdz9) if you might be interested in attending.
+Please send us an email at <a href="mailto:info@focusretreatcenter.com">info@focusretreatcenter.com</a> and we'll work with you to plan a fantasic retreat for you.
+
+## How much does it cost?
+
+Retreats are priced with our discounted grand opening rate of $700 per week which includes lodging and all meals.
 
 ## How do I get there?
 
