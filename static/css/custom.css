@@ -227,6 +227,11 @@ footer > .navigation > a {
   text-align: right;
 }
 
+.logo-inline {
+  margin-top: 2rem;
+  max-width: 80vw;
+}
+
 /* mobile flow */
 
 /* For devices smaller than 1075px */

@@ -1,18 +1,39 @@
 {% extends "layout.html" %}
 {% block body %}
 {{ super() }}
-<h1>{{ config.extra.company_name }} Blog</h1>
-<div class="posts">
-  {% for page in section.pages -%}
-  <div class="row">
-    <div class="one column"></div>
-    <a class="nine columns" href="/{{ page.components[0] | safe }}/{{ page.slug | safe }}">{{ page.title }}</a>
-    <div class="two columns">{{ page.date | date(format="%B %e, %Y") }} </div>
-  </div>
-  {% endfor -%}
+<div class="row">
+  <img
+    class="logo-inline offset-by-three six columns"
+    src="/images/frc-logo-inline-color-500.png"
+    alt="Focus Retreat Center Logo"
+  />
 </div>
-<hr/>
-<a class="button" id="subscribe" href="/atom.xml">
-  <img class="icon" src='/images/feed.png' height="24" alt='Subscribe to our blog' title='Subscribe to our blog' />
-</a>
-{% endblock -%}
+<div class="row">
+  <h1 class="ten columns">Blog</h1>
+  <a class="blog-subscribe" href="/atom.xml">
+    <img
+      class="icon"
+      src="/images/feed.png"
+      height="24"
+      alt="Subscribe to our blog"
+      title="Subscribe to our blog"
+    />
+  </a>
+</div>
+<div class="row">
+  <div class="posts">
+    {% for page in section.pages -%}
+    <div class="row">
+      <div class="one column"></div>
+      <a
+        class="nine columns"
+        href="/{{ page.components[0] | safe }}/{{ page.slug | safe }}"
+        >{{ page.title }}</a
+      >
+      <div class="two columns">{{ page.date | date(format="%B %e, %Y") }}</div>
+    </div>
+    {% endfor -%}
+  </div>
+  <hr />
+  {% endblock -%}
+</div>
