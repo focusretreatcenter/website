@@ -6,7 +6,7 @@ This is an immersive project/learning retreat for software developers. You will 
 
 We are running 2 separate retreats that are each 6 weeks in length this year.
 
-[Apply now!](https://forms.gle/7aL9MjzP3VK7Mhdz9)
+[Interested? Contact us for more information!](mailto:info@focusretreatcenter.com?subject=2022 Programming Retreat)
 
 ![](/images/gallery/retreat0-hike.jpg)
 
@@ -32,19 +32,6 @@ This is a 6-week retreat.
 
 This retreat provides a substantial block of time to work on projects where you are fully in control of your own time. You choose what to work on or what to learn and how to go about it. There are deliberately no formal classes, curricula, teachers, or instruction.
 
-## Info sessions
-
-We will be hosting online info/Q&A sessions at the following times
-
-* Thursday May 12th 12:00 PM Eastern
-  * [Zoom Link](https://zoom.us/j/94021568342?pwd=RjM5czg5eW5EbnpQZHFLUkcxRFhQUT09)
-  * Meeting ID: 940 2156 8342
-  * Passcode: focus
-* Saturday May 14th 3:00 PM Eastern
-  * [Zoom Link](https://zoom.us/j/99852480698?pwd=eW9IMXlCcnFkOGd3ZmdMOVJkQkZTZz09)
-  * Meeting ID: 998 5248 0698
-  * Passcode: focus
-
 ## Summer in the Adirondacks
 
 Adirondack State Park is the largest publicly protected area in the contiguous United States. It constitues 6 million acres of forest, rivers, lakes, mountains, and trails. Summertime here is glorious: warm enough to swim in the fresh water lakes but never uncomfortably hot. Most activities are either free or very low cost.
@@ -59,7 +46,7 @@ Each guest will have a sit/stand adjustable desk and ergonomic office chair. Our
 
 ## How to apply
 
-Please fill out [this application form](https://forms.gle/7aL9MjzP3VK7Mhdz9) if you might be interested in attending.
+[Interested? Send us a note and we'll get in touch!](mailto:info@focusretreatcenter.com?subject=2022 Programming Retreat)
 
 ## How do I get there?
 
