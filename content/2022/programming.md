@@ -6,6 +6,8 @@ This is an immersive project/learning retreat for software developers. You will 
 
 For our opening season we are offering flexible retreat schedules so as many people get to experience a retreat this season as possible. Retreats are available on a weekly basis and we recommend at least two weeks so you can realistically advance your project and justify the travel time.
 
+[Interested? Contact us for more information!](mailto:info@focusretreatcenter.com?subject=2022 Programming Retreat)
+
 ![](/images/gallery/retreat0-hike.jpg)
 
 ## What is a self-directed programming retreat?
@@ -26,11 +28,12 @@ Each guest will have a sit/stand adjustable desk and ergonomic office chair. Our
 
 ## How to apply
 
-Please send us an email at <a href="mailto:info@focusretreatcenter.com">info@focusretreatcenter.com</a> and we'll work with you to plan a fantasic retreat for you.
+[Interested? Send us a note and we'll get in touch!](mailto:info@focusretreatcenter.com?subject=2022 Programming Retreat)
 
 ## How much does it cost?
 
-Retreats are priced with our discounted grand opening rate of $700 per week which includes lodging and all meals.
+Retreats are priced with our discounted grand opening rate of $700 per week which 
+includes lodging and all meals.
 
 ## How do I get there?
 
