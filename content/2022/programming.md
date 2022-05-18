@@ -4,29 +4,11 @@ title = "Programming Retreats for 2022"
 
 This is an immersive project/learning retreat for software developers. You will spend your time on retreat working on a specific project or learning a particular subject. You will be surrounded by a community of supportive peers doing similar work.
 
-We are running 2 separate retreats that are each 6 weeks in length this year.
+For our opening season we are offering flexible retreat schedules so as many people get to experience a retreat this season as possible. Retreats are available on a weekly basis and we recommend at least two weeks so you can realistically advance your project and justify the travel time.
 
-[Interested? Contact us for more information!](mailto:info@focusretreatcenter.com?subject=2022 Programming Retreat)
+Interested? <a href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more information!</a>
 
 ![](/images/gallery/retreat0-hike.jpg)
-
-## June Retreat Dates
-
-This is a 6-week retreat.
-
-**Travel/arrival:** Monday June 20, 2022
-
-**Depart:** Friday July 29, 2022
-
-## August Retreat Dates
-
-This is a 6-week retreat.
-
-**Travel/arrival:** Monday August 15, 2022
-
-**Depart:** Friday September 30, 2022
-
-![](/images/gallery/mountain-lake.jpg)
 
 ## What is a self-directed programming retreat?
 
@@ -46,7 +28,12 @@ Each guest will have a sit/stand adjustable desk and ergonomic office chair. Our
 
 ## How to apply
 
-[Interested? Send us a note and we'll get in touch!](mailto:info@focusretreatcenter.com?subject=2022 Programming Retreat)
+Interested? <a href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more information!</a>
+
+## How much does it cost?
+
+Retreats are priced with our discounted grand opening rate of $700 per week which 
+includes lodging and all meals.
 
 ## How do I get there?
 
