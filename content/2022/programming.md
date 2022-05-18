@@ -6,7 +6,7 @@ This is an immersive project/learning retreat for software developers. You will 
 
 For our opening season we are offering flexible retreat schedules so as many people get to experience a retreat this season as possible. Retreats are available on a weekly basis and we recommend at least two weeks so you can realistically advance your project and justify the travel time.
 
-Interested? <a href="mailto:info@focusretreatcenter.com?subject=2022 programming retreat">Contact us for more information!</a>
+Interested? <a href="mailto:info@focusretreatcenter.com?subject=2022%20programming%20retreat">Contact us for more information!</a>
 
 ![](/images/gallery/retreat0-hike.jpg)
 
