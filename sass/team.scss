@@ -1,0 +1,13 @@
+@import "colors";
+.team-member {
+  h2 {
+    font-size: 3rem;
+    color: $brand-dark-blue; 
+  }
+
+  h3 {
+    color: $brand-charcoal-grey;
+    font-size: 2.5rem;
+    line-height: 80%;
+  }
+}
