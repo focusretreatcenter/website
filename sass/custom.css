@@ -208,6 +208,11 @@ img {
   max-width: 100%;
 }
 
+/* Fix mailchimp signup on small screens */
+#mc_embed_signup {
+  max-width: 100vw;
+}
+
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
@@ -230,6 +235,11 @@ footer > .navigation > a {
 .logo-inline {
   margin-top: 2rem;
   max-width: 500px;
+}
+
+img.screenshot {
+  border: 2px dashed grey;
+  opacity: 0.5;
 }
 
 /* mobile flow */

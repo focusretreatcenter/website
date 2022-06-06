@@ -1,19 +1,33 @@
 +++
-title = "Programming Retreats for 2022"
+title = "Bar Exam Study Retreat"
 +++
 
-This is an immersive project/learning retreat for software developers. You will spend your time on retreat working on a specific project or learning a particular subject. You will be surrounded by a community of supportive peers doing similar work.
+Are you buckling down for the Bar Exam? This will be an intensive study retreat so you are ready and confident going into the July 2022 Bar Exam. You'll have the dedicated time to study on your own as well as a group of other recent law school graduates to do group work.
 
-For our opening season we are offering flexible retreat schedules so as many people get to experience a retreat this season as possible. Retreats are available on a weekly basis and we recommend at least two weeks so you can realistically advance your project and justify the travel time.
+You'll also have time to de-stress from school and enjoy the outdoors by hiking, swimming, boating, and relaxing. You'll be nourished by healthy meals prepared with fresh local ingredients. When it comes time for the exam, you'll be at your best.
+
+![Law Library Reading Room](/images/gallery/law-library.jpg)
+
+*Photo by [Timothy Vollmer](https://flickr.com/photos/sixteenmilesofstring/) <a href="https://creativecommons.org/licenses/by/2.0/legalcode">(CC BY 2.0)</a>*
+
+## Retreat Schedule and Pricing
+
+We will be running programs in the two weeks prior to the exam. These are our discounted grand opening rates. Prices include lodging and all meals.
+
+* **2-week retreat**
+  * Monday July 11 to Sunday July 24
+  * $1300
+
+* **1-week retreat**
+  * Monday July 18 to Sunday July 24
+  * $700
 
 Interested? <a href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more information!</a>
 
-![](/images/gallery/retreat0-hike.jpg)
+## Study facilities
 
-## What is a self-directed programming retreat?
-
-This retreat provides a substantial block of time to work on projects where you are fully in control of your own time. You choose what to work on or what to learn and how to go about it. There are deliberately no formal classes, curricula, teachers, or instruction.
-
+We have 2 large common rooms for studying together in small groups in a more library/cafe setting. Individual bedrooms are also large enough for private study. Our front yard is a lovely public park with big trees for shade and plenty of benches if you want to do some reading outdoors. 
+ 
 ## Summer in the Adirondacks
 
 Adirondack State Park is the largest publicly protected area in the contiguous United States. It constitues 6 million acres of forest, rivers, lakes, mountains, and trails. Summertime here is glorious: warm enough to swim in the fresh water lakes but never uncomfortably hot. Most activities are either free or very low cost.
@@ -29,11 +43,6 @@ Each guest will have a sit/stand adjustable desk and ergonomic office chair. Our
 ## How to apply
 
 Interested? <a href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more information!</a>
-
-## How much does it cost?
-
-Retreats are priced with our discounted grand opening rate of $700 per week which 
-includes lodging and all meals.
 
 ## How do I get there?
 
