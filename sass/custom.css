@@ -232,6 +232,11 @@ footer > .navigation > a {
   max-width: 500px;
 }
 
+img.screenshot {
+  border: 2px dashed grey;
+  opacity: 0.5;
+}
+
 /* mobile flow */
 
 /* For devices smaller than 1075px */
