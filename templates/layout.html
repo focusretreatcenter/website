@@ -55,7 +55,9 @@
 
   {% block opengraph -%}
   <!-- Twitter -->
-  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:site" content="@focusretreats" />
+  <meta name="twitter:creator" content="@focusretreats" />
+  <meta name="twitter:card" content="summary_image_large"/>
   {# Formatting is weird here to avoid leading/trailing whitespace within tags #}
   <meta name="twitter:title" content="{% if page.title is defined
     -%}{{ page.title }}|{{ config.extra.company_name }}{%
