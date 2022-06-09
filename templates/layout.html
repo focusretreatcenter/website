@@ -4,12 +4,15 @@
 
   <!-- Basic Page Needs -->
   <meta charset="utf-8">
-  <title>
-    {% block title -%}
-    {% if page.title is defined -%}{{ page.title }}{%- endif -%}
-    {% if section.title is defined -%}{{ section.title }}{% endif %} | {{ config.extra.company_name }}
-    {% endblock title -%}
-  </title>
+  {# Formatting is weird here to avoid leading/trailing whitespace within tags #}
+  <title>{% block title -%}{%
+    if page.title is defined
+    -%}{{ page.title }}{%-
+    endif -%}{%
+    if section.title is defined
+    -%}{{ section.title }}{%
+    endif -%}|{{ config.extra.company_name }}{%
+    endblock title -%}</title>
 
   {% block style -%}
   <!-- FONT -->
@@ -53,15 +56,32 @@
   {% block opengraph -%}
   <!-- Twitter -->
   <meta name="twitter:card" content="summary"/>
-  <meta name="twitter:description" content="{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions."/>
-  <meta name="twitter:title" content="{{ config.extra.company_name }} - Immersive project/learning retreats in northern New York"/>
+  {# Formatting is weird here to avoid leading/trailing whitespace within tags #}
+  <meta name="twitter:title" content="{% if page.title is defined
+    -%}{{ page.title }}|{{ config.extra.company_name }}{%
+    else
+    -%}{{ config.extra.company_name }} - Immersive project/learning retreats in northern New York{%
+    endif -%}"/>
+  <meta name="twitter:description" content="{% if page.description is defined
+    -%}{{ page.description }}{%
+    else
+    -%}{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions.{%
+    endif -%}"/>
   <meta name="twitter:image" content="/images/frc-logo.jpg"/><meta name="twitter:site" content="@focusretreats"/>
 
   <!-- Facebook -->
   <meta property="og:url" content="https://focusretreatcenter.com" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="{{ config.extra.company_name }} - Immersive project/learning retreats in northern New York" />
-  <meta property="og:description" content="{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions." />
+  <meta property="og:title" content="{% if page.title is defined
+    -%}{{ page.title }}|{{ config.extra.company_name }}{%
+    else
+    -%}{{ config.extra.company_name }} - Immersive project/learning retreats in northern New York{%
+    endif -%}"/>
+  <meta property="og:description" content="{% if page.description is defined
+    -%}{{ page.description }}{%
+    else
+    -%}{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions.{%
+    endif -%}"/>
   <meta property="og:image" content="{{ config.base_url| safe }}/images/frc-building-front-20220504.jpg" />
   {% endblock opengraph -%}
 

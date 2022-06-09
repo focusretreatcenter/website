@@ -1,5 +1,6 @@
 +++
 title = "Bar Exam Study Retreat"
+description = "An intensive study retreat so you are ready and confident going into the July 2022 Bar Exam"
 +++
 
 Are you buckling down for the Bar Exam? This will be an intensive study retreat so you are ready and confident going into the July 2022 Bar Exam. You'll have the dedicated time to study on your own as well as a group of other recent law school graduates to do group work.
