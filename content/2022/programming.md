@@ -6,7 +6,9 @@ This is an immersive project/learning retreat for software developers. You will 
 
 For our opening season we are offering flexible retreat schedules so as many people get to experience a retreat this season as possible. Retreats are available on a weekly basis and we recommend at least two weeks so you can realistically advance your project and justify the travel time.
 
-Interested? <a href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more information!</a>
+Interested?
+
+<a class="button button-primary myButton" href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more info!</a>
 
 ![](/images/gallery/retreat0-hike.jpg)
 
@@ -28,7 +30,9 @@ Each guest will have a sit/stand adjustable desk and ergonomic office chair. Our
 
 ## How to apply
 
-Interested? <a href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more information!</a>
+Interested?
+
+<a class="button button-primary myButton" href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more info!</a>
 
 ## How much does it cost?
 
@@ -63,3 +67,5 @@ Here is a screenshot of the details of this route from the Trailways site for re
 * Burlington, VT is just over 2 hours drive from Malone and has some flights landing there.
 * Albany, NY is the nearest large international airport with many flights, but it is still a 3.5 hour drive to Malone.
   * From the Albany airport if you can take rideshare/taxi to Albany Greyhound bus station, you can take the bus on to Plattsburgh, NY and we can coordinate a ride from Plattsburgh to Malone for you.
+
+<a class="button button-primary myButton" href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more info!</a>

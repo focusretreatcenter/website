@@ -101,6 +101,7 @@ section.hero {
 	background:linear-gradient(to bottom, #ddae2c 5%, #925d0d 100%);
   text-shadow:0px 1px 0px #70441b;
   border: 0px;
+  text-transform: none; /* override skeleton */
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #925d0d 5%, #dec247 100%);
