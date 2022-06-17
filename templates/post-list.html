@@ -24,13 +24,13 @@
   <div class="posts">
     {% for page in section.pages -%}
     <div class="row">
-      <div class="one column"></div>
+      <div class="title one column"></div>
       <a
-        class="nine columns"
+        class="eight columns"
         href="/{{ page.components[0] | safe }}/{{ page.slug | safe }}"
         >{{ page.title }}</a
       >
-      <div class="two columns">{{ page.date | date(format="%B %e, %Y") }}</div>
+      <div class="date three columns">{{ page.date | date(format="%B %e, %Y") }}</div>
     </div>
     {% endfor -%}
   </div>
