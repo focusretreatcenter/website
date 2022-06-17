@@ -5,7 +5,7 @@ date = 2022-06-16T19:30:40Z
 author = "Pete Lyons"
 +++
 
-We are excited to announce our inaugural program of Residencies!
+We are excited to announce our inaugural Residency program!
 
 ## What is a Residency?
 
