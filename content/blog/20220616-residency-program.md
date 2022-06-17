@@ -43,5 +43,5 @@ Yes, absolutely please do!
 
 ## How do I apply or make a nomination?
 
-Email us at **team@focusretreatcenter.com** or <a  href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us here</a>. Tell us your name, a good email where we can reach you, and what you or your nominee would work on during a Residency.
+Email us at **team@focusretreatcenter.com** or <a  href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us here</a>. Tell us your name, a good email where we can reach you, and what you or your nominee would work on during a Residency. Share any websites or links to previous work that might help us get to know you better!
 
