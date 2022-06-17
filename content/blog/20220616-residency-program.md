@@ -2,6 +2,7 @@
 title = "Residency Program"
 slug = "/residency-program"
 date = 2022-06-16T19:30:40Z
+[extra]
 author = "Pete Lyons"
 +++
 
