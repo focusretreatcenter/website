@@ -14,6 +14,8 @@ A Residency at Focus Retreat Center is a period of time to work on a creative co
 
 ## Who is eligible to apply for a Residency?
 
+If you do creative work with a computer, you're a candidate! Some ideas of the kinds of folks we're looking for:
+
 **Creative Coders**
 
 People working on visual art powered by programming as well as other tech-powered creative projects.
