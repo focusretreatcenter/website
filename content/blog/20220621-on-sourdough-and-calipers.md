@@ -6,7 +6,7 @@ date = 2022-06-21T18:06:16Z
 author = "Stella Kay"
 +++
 
-Pete and Stella often describe themselves as *Calipers* and *Curves*.  They have very different approaches to problems and projects but have discovered that by combining these two points of view they often come up with unique and interesting solutions that neither of them would be capable of on their own.  
+Pete and Stella often describe themselves as *Calipers* and *Curves*.  They have very different approaches to problems and projects. But they have discovered that by combining these two points of view they often come up with unique and interesting solutions. These solutions tend to be something that neither of them would be capable of on their own.  
 
 Pete's *Calipers* approach is all about precision.  He measures every angle and calculates clearances, edges and tries to account for the width of the saw blade.   This approach allows for excellent documentation and reproducible results.  Without calipers, we would not have bridges that can span long distances or the machines that make our lives so much easier.
 
