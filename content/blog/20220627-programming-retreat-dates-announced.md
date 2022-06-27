@@ -6,7 +6,7 @@ date = 2022-06-27T14:20:30Z
 author = "Pete Lyons"
 +++
 
-We are pleased to announce the dates for our inagural Programming Retreat this year:
+We are pleased to announce the dates for our inaugural Programming Retreat this year:
 
 ### August 1 through 21
 
