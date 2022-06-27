@@ -1,3 +1,5 @@
+@import "colors";
+
 body {
   font-family: 'Mulish', sans-serif;
   font-size: 1.8em;
@@ -241,6 +243,13 @@ footer > .navigation > a {
 img.screenshot {
   border: 2px dashed grey;
   opacity: 0.5;
+}
+
+blockquote {
+  background-color: $brand-light-blue;
+  font-style: italic;
+  color: white;
+  padding-left: 1em;
 }
 
 /* mobile flow */

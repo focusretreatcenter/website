@@ -4,7 +4,9 @@ title = "Programming Retreats for 2022"
 
 This is an immersive project/learning retreat for software developers. You will spend your time on retreat working on a specific project or learning a particular subject. You will be surrounded by a community of supportive peers doing similar work.
 
-For our opening season we are offering flexible retreat schedules so as many people get to experience a retreat this season as possible. Retreats are available on a weekly basis and we recommend at least two weeks so you can realistically advance your project and justify the travel time.
+## Dates: August 1 to 21
+
+The retreat will run for 3 weeks. Monday August 1 will be a travel/arrival day. Sunday August 21 will be departure and travel home.
 
 Interested?
 
@@ -57,7 +59,7 @@ Here is a screenshot of the details of this route from the Trailways site for re
 
 <img class="screenshot" alt="Screenshot with details of bus route" src="/images/trailways-bus.png">
 
-**Bus: Greyhound to Plattsburg**: runs from Port Authority to Plattsburg, NY departing 8:30 AM and arriving at 3:30 PM for $69. We can shuttle groups from Plattsburgh to FRC.
+**Bus: Greyhound to Plattsburgh**: runs from Port Authority to Plattsburgh, NY departing 8:30 AM and arriving at 3:30 PM for $69. We can shuttle groups from Plattsburgh to FRC.
 
 **Train:** Amtrack to Albany will get you about half way to FRC but it's still 3.5 hours to drive from there. You can also take a bus from Albany to Plattsburgh which is much closer to FRC.
 
