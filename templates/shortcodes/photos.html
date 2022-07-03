@@ -1,0 +1,13 @@
+<div>
+{% for asset in page.assets | sort -%}
+  {%- if asset is matching("[.](jpg|png)$") -%}
+    {% set image = resize_image(path=asset, width=800, height=800, op="fit") %}
+    {% set caption = load_data(path=asset ~ ".txt", required=false) %}
+    {% if caption is not string %}{% set caption="" %}{% endif%}
+    <figure class="photo">
+      <img src="{{ image.url }}" alt="{{caption | trim }}" />
+      <figcaption>{{caption | trim }}</figcaption>
+    </figure>
+    {%- endif %}
+{%- endfor %}
+</div>
