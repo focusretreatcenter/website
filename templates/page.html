@@ -1,6 +1,9 @@
 {% extends "layout.html" %}
 {% block body -%}
 {{ super() }}
+<a href="/">
+<img class="logo-inline" src="/images/frc-logo-inline-color-500.png" alt="Focus Retreat Center Logo">
+</a>
 <h1>{{ page.title }}</h1>
 {% if page.date %}
 <div class="row">
@@ -15,5 +18,5 @@
 </div>
 <hr>
 {% endif %}
-{{ page.content | markdown | safe }}
+{{ page.content | safe }}
 {% endblock -%}

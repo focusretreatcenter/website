@@ -1,14 +1,11 @@
-{% extends "layout.html" -%} {% block title -%} {{ page.title }} {% endblock
-title -%} {% block scripts -%} {{ super() }} {% endblock -%} {% block container
--%}
-<div class="container">
-  {% endblock -%} {% block body -%} {{ super() }}
-  <h1>{{ config.extra.company_name }} Team </h1>
++++
+title = "Our Team"
++++
 
-  <section class="team-member row">
+<section class="team-member row">
     <img
       class="four columns"
-      src="/images/team/pl-hex-01-crop.jpg"
+      src="/team/pl-hex-01-crop.jpg"
       alt="Peter Lyons"
     />
     <div class="eight columns">
@@ -43,7 +40,7 @@ title -%} {% block scripts -%} {{ super() }} {% endblock -%} {% block container
     </div>
     <img
       class="four columns"
-      src="/images/team/ck-hex-01-crop.jpg"
+      src="/team/ck-hex-01-crop.jpg"
       alt="Christella Kay"
     />
   </section>
@@ -51,7 +48,7 @@ title -%} {% block scripts -%} {{ super() }} {% endblock -%} {% block container
   <section class="team-member row">
     <img
       class="four columns"
-      src="/images/team/percin.jpg"
+      src="/team/percin.jpg"
       alt="Perçin İmrek"
     />
     <div class="eight columns">
@@ -91,7 +88,6 @@ title -%} {% block scripts -%} {{ super() }} {% endblock -%} {% block container
         on retreat), and after (when they become alumni of the retreat).
       </p>
     </div>
-    <img class="four columns" src="/images/team/pam-400x400.png" alt="Pam Selle" />
+    <img class="four columns" src="/team/pam-400x400.png" alt="Pam Selle" />
   </section>
-  {% endblock -%}
-</div>
+
