@@ -227,7 +227,7 @@ footer {
   padding-bottom: 2rem;
 }
 
-footer > .navigation > a {
+footer .navigation a {
   display: block;
 }
  
