@@ -1,10 +1,10 @@
 +++
-title = "Programming Retreats for 2022"
+title = "Programming Retreat"
 +++
 
-This is an immersive project/learning retreat for software developers. You will spend your time on retreat working on a specific project or learning a particular subject. You will be surrounded by a community of supportive peers doing similar work.
+This is an immersive project/learning retreat for software developers, game developers, creative coders, generative artists. You will spend your time on retreat working on a specific project or learning a particular subject. You will be surrounded by a community of supportive peers doing similar work.
 
-## Dates: August 1 to 21
+## Dates: August 1 to 21, 2022
 
 The retreat will run for 3 weeks. Monday August 1 will be a travel/arrival day. Sunday August 21 will be departure and travel home.
 
