@@ -18,7 +18,9 @@ Here is a screenshot of the details of this route from the Trailways site for re
 
 **Bus: Greyhound NYC to Plattsburgh**: runs from Port Authority to Plattsburgh, NY departing 8:30 AM and arriving at 3:30 PM for $69. We can shuttle groups from Plattsburgh to FRC.
 
-**Train from NYC: Amtrack to Albany** will get you about half way to FRC but it's still 3.5 hours to drive from there. You can also take a bus from Albany to Plattsburgh which is much closer to FRC.
+**Train: Amtrak NYC to Burlington,VT:** Amtrak's [Ethan Allen Express Service](https://www.amtrak.com/ethan-allen-express-train) runs from NYC to Burlington, VT. We can shuttle groups from Burlington to FRC.
+
+**Train from NYC: Amtrak to Albany** will get you about half way to FRC but it's still 3.5 hours to drive from there. You can also take a bus from Albany to Plattsburgh which is much closer to FRC.
 
 **Plane:**
 
