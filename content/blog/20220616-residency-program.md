@@ -6,7 +6,7 @@ date = 2022-06-16T19:30:40Z
 author = "Pete Lyons"
 +++
 
-We are excited to announce our inaugural Residency program!
+We are excited to announce our inaugural Residency program! The following applies to an upcoming retreat from August 1st-21st (dates negotiable if you need!).
 
 ## What is a Residency?
 
