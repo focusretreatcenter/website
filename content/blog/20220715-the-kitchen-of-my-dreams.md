@@ -11,7 +11,7 @@ There is a huge disconnect in our culture between loving to cook and working in 
 
 Part of my issue with traditional restaurants is that the cooks HAVE to cook what the guests want even if it is unhealthy or out of season.  There is often no seasonal variation or even acknowledgement of the seasons in a restaurant menu.  In most restaurants, the same food is delivered by a truck every week and is already over-processed as soon as it arrives.  The ‘recipes’ are inflexible and often use the least healthy, but cheapest, methods available.  I have always dreamed of doing it better somehow.
 
-![FRC Kitchen](./kitchen.jpg)
+![FRC Kitchen](/blog/kitchen.jpg)
 
 And now, because of the Focus Retreat Center, I am getting my chance to do it better!  I now have a fully licensed commercial kitchen that is free of meanness and stress and full of fresh seasonal food that is lovingly prepared.  I am so excited to cook for our guests.  I am looking forward to getting to know their likes and dislikes and to search for dishes that will be healthy, fresh and delicious!  
 
