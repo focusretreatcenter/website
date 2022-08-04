@@ -225,12 +225,21 @@ img {
 footer {
   padding-top: 2rem;
   padding-bottom: 2rem;
+  padding-left: 2rem;
+}
+
+footer .logo-inline {
+  padding-bottom: 2rem;
+  margin: 0 auto;
+  display: block;
 }
 
 footer .navigation a {
-  display: block;
+  display: inline;
+  margin-right: 1rem;
+  text-decoration: none;
 }
- 
+
 .post-date {
   text-align: right;
 }
