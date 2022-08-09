@@ -8,7 +8,9 @@ body {
 #topbar img, .hamburger img {width:30px;}
 .topbar { padding: 2rem 4rem;}
 .container {
-  max-width: 800px; }
+  // Sigh. RegPack iframe will show horizontal scrollbar
+  // if narrower than 816 pixels
+  max-width: 820px; }
 .container-wide {width:100%;margin: 0; padding:0;}
 
 section.hero {
