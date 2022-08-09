@@ -12,8 +12,8 @@ This is a private quilting retreat. If you are a member of this group, click the
   * Doors open 9AM.
   * Lunch is first meal.
 * Sunday, September 25, 2022
-  * Checkout 4PM
-  * Lunch is last meal.
+  * Checkout 12PM
+  * Breakfast is last meal.
 
 ## What to expect: facilities
 
@@ -43,7 +43,7 @@ Our dining hall has three meals per day. Two meals are prepared by our chef and 
 
 There is plenty of coffee, tea, water, and snacks available at all times in the dining room.
 
-**Alcohol is BYOB**. The Retreat Center does not provide or serve alcohol but guests are welcome to bring their own drinks to enjoy and share.
+**Alcohol is BYOB**. The Retreat Center does not provide or serve alcohol but guests are welcome to bring their own drinks to enjoy and share. There is a limited amount of refrigerator space for guest use.
 
 ## Ticket Options
 
@@ -56,6 +56,6 @@ Retreat event ticket, all meals, and lodging in a private bedroom. Price is $100
 
 ### Quilting Retreat Day Pass
 
-Retreat event ticket, all meals, no overnight lodging. Price is $50 per day plus tax.
+Retreat event ticket, all meals, no overnight lodging. Price is $50 per day plus tax. Please purchase one ticket for each day you will attend.
 
 <a class="button button-primary myButton" href="https://www.eventbee.com/v/quilting-retreat/event?eid=216204845">Reserve Your Spot</a>
