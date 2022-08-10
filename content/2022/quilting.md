@@ -51,7 +51,7 @@ There are two available ticket options
 
 ### Quilting Retreat With Lodging
 
-Retreat event ticket, all meals, and lodging in a private bedroom. Price is $100 per night plus tax.
+Retreat event ticket, all meals, and lodging in a private bedroom. Price is $100 per night plus tax. The ticket is for the entire retreat so just purchase one ticket.
 
 
 ### Quilting Retreat Day Pass
