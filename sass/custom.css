@@ -294,3 +294,7 @@ blockquote {
   section.hero {padding-top:14rem;}
   .hero h1 img {width: 85%}
 }
+
+.phone {
+  font-size: 150%;
+}
