@@ -8,6 +8,6 @@
   * Our on site chef prepares meals daily with fresh, locally-sourced ingredients
   * Breakfast and lunch are continental style
   * Dinners are hot meals eaten together in our dining room
-* Fresh fruit and baked goods, coffee and tea service
+* Fresh fruit and baked goods, coffee and tea
 * Hassle-free accommodations
 * On-site laundry facilities
