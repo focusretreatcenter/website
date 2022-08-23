@@ -74,20 +74,3 @@ title = "Our Team"
     </div>
   </section>
 
-  <section class="team-member row">
-    <div class="eight columns">
-      <h2>Pam Selle</h2>
-      <h3>Director of Programs</h3>
-      <p>
-        Pam Selle cares about community design and helping people gather. She's
-        scaled communities from twenty people in a room to 1k+ community
-        members, founded a tech conference that ran for 5+ years, and helped
-        design a fellowship program for emerging technologists to contribute to
-        civic tech. She is excited to help Focus Retreat Center participants on
-        their journey before (as they decide to come to retreat), during (while
-        on retreat), and after (when they become alumni of the retreat).
-      </p>
-    </div>
-    <img class="four columns" src="/team/pam-400x400.png" alt="Pam Selle" />
-  </section>
-
