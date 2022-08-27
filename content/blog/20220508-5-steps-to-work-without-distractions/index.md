@@ -3,7 +3,7 @@ title = "5 Steps To Work Without Distractions"
 slug = "/5-steps-to-work-without-distractions"
 date = 2022-05-08T15:07:00Z
 [extra]
-author = "Perçin Imrek"
+author = "Perçin İmrek"
 +++
 Being distracted is the ‘’plague’’ of our time. Especially with our little friends, smartphones, it has become unavoidable. To add further salt to the wound, our smart watches, bluetooth earphones, Ipads, are all potential focus fatigue factors.
 
