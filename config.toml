@@ -3,6 +3,7 @@ base_url = "https://focusretreatcenter.com"
 
 # Enable blog atom feed atom.xml
 generate_feed = true
+trailing_slash = true
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true

@@ -27,7 +27,7 @@
       <div class="title one column"></div>
       <a
         class="eight columns"
-        href="/{{ page.components[0] | safe }}/{{ page.slug | safe }}"
+        href="{{ page.path }}"
         >{{ page.title }}</a
       >
       <div class="date three columns">{{ page.date | date(format="%B %e, %Y") }}</div>
