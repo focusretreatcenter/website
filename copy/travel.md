@@ -1,11 +1,17 @@
 Our address is:
 
+<div class="row">
+<p class="six columns address">
 16 Wheeler Ave
 <br>
 Malone, NY 12953-1603
+</p>
+</div>
 
-<a href="https://goo.gl/maps/XgLmXRzcfcAmZUuL7">
-<img alt="Map showing Malone in NY" src="/images/map1.png">
+<a href="https://goo.gl/maps/4GvniRYNAE1gHtSg9">Directions via Google Maps</a>
+
+<a href="https://goo.gl/maps/4GvniRYNAE1gHtSg9">
+<img alt="Map showing FRC and transit details" src="/images/map2.png" style="border: 2px solid #0044b4;">
 </a>
 
 **Car:** Malone, NY is drive-able in a day  or less from NYC, Philadelphia, Boston, Montreal, or Toronto. If you plan to drive a private car just let us know. We have private off-street parking available for a limited number of guests. If you are willing to offer carpool rides to other guests, that's fantastic. Let us know and we can help coordinate.
@@ -24,7 +30,8 @@ Here is a screenshot of the details of this route from the Trailways site for re
 
 **Plane:**
 
-* Adirondack Regional Airport (SLK) in Saranac Lake, NY is about 45 minutes south of Malone and the nearest airport. There are daily flights on Cape Air from JFK airport in New York City. Jet Blue also has some flights.
-* Burlington, VT (BTV) is just over 2 hours drive from Malone and has some flights landing there.
-* Albany International Airport (ALB) in NY is the nearest large international airport with many flights, but it is still a 3.5 hour drive to Malone.
+* **Adirondack Regional Airport** (SLK) in Saranac Lake, NY is about 45 minutes south of Malone and the nearest airport. There are daily flights on Cape Air from JFK airport in New York City. Jet Blue also has some flights.
+* **Burlington, VT** (BTV) is just over 2 hours drive from Malone and has some flights landing there.
+* **Albany International Airport** (ALB) in NY is the nearest large international airport with many flights, but it is still a 3.5 hour drive to Malone.
   * From the Albany airport if you can take rideshare/taxi to Albany Greyhound bus station, you can take the bus on to Plattsburgh, NY and we can coordinate a ride from Plattsburgh to Malone for you.
+* **Montréal-Trudeau International Airport** (YUL) is about 1.5 hours drive from Malone, but you will need to plan for crossing the border between Canada and the US. Be sure to bring your passport and allow extra time for customs.
