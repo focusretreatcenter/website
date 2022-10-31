@@ -259,7 +259,8 @@ blockquote {
   background-color: $brand-light-blue;
   font-style: italic;
   color: white;
-  padding-left: 1em;
+  padding: 1em;
+  border-radius: 1em;
 }
 
 /* mobile flow */
