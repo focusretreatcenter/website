@@ -85,7 +85,7 @@ section.hero {
   background-size:cover;
   background-blend-mode: overlay;
 }
-#place {
+.pic2 {
   color:black;
   font-weight:400;
   text-shadow:0px 0px 10px #ffffff;
@@ -303,4 +303,9 @@ blockquote {
 
 .phone {
   font-size: 150%;
+}
+
+.programs  {
+  font-size: 200%;
+  line-height: 200%;
 }
