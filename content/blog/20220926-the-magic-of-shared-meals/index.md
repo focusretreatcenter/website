@@ -1,6 +1,7 @@
 +++
 title = "The Magic of Shared Meals"
 slug = "/the-magic-of-shared-meals"
+date = 2022-09-26
 [extra]
 author = "Pete Lyons"
 +++
