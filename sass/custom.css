@@ -236,6 +236,11 @@ footer .logo-inline {
   display: block;
 }
 
+
+footer .navigation {
+  text-align: center;
+}
+
 footer .navigation a {
   display: inline;
   margin-right: 1rem;
