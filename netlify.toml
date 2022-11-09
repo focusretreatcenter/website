@@ -17,27 +17,21 @@ ZOLA_VERSION = "0.15.3"
 [context.deploy-preview]
 command = "zola build --base-url $DEPLOY_PRIME_URL"
 
+# Do these specific first then generic lower down
 [[redirects]]
-  from = "http://focusretreat.center"
+  from = "https://focusretreatcenter.com/2022/bar-exam/"
   to = "https://focusretreatcenter.com"
   status = 301
-  force = true
-
-[[redirects]]
-  from = "https://focusretreat.center"
-  to = "https://focusretreatcenter.com"
-  status = 301
-  force = true
-
-# [[redirects]]
-#   from = "https://focusretreatcenter.com/apply"
-#   to = "https://forms.gle/7aL9MjzP3VK7Mhdz9"
-#   status = 302
 
 [[redirects]]
   from = "https://focusretreatcenter.com/contact"
   to = "https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689"
   status = 302
+
+# [[redirects]]
+#   from = "https://focusretreatcenter.com/apply"
+#   to = "https://forms.gle/7aL9MjzP3VK7Mhdz9"
+#   status = 302
 
 [[redirects]]
   from = "http://ink.focusretreat.center/*"
@@ -60,6 +54,13 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
   status = 302
 
 [[redirects]]
-  from = "https://focusretreatcenter.com/2022/bar-exam/"
+  from = "http://focusretreat.center"
   to = "https://focusretreatcenter.com"
   status = 301
+  force = true
+
+[[redirects]]
+  from = "https://focusretreat.center"
+  to = "https://focusretreatcenter.com"
+  status = 301
+  force = true
