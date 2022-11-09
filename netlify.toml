@@ -34,22 +34,22 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
 #   status = 302
 
 [[redirects]]
-  from = "http://ink.focusretreat.center/*"
+  from = "http://ink.focusretreat.center*"
   to = "https://focusretreatcenter.com/2023/inktober/"
   status = 302
 
 [[redirects]]
-  from = "https://ink.focusretreat.center/*"
+  from = "https://ink.focusretreat.center*"
   to = "https://focusretreatcenter.com/2023/inktober/"
   status = 302
 
 [[redirects]]
-  from = "http://code.focusretreat.center/*"
+  from = "http://code.focusretreat.center*"
   to = "https://focusretreatcenter.com/2023/programming/"
   status = 302
 
 [[redirects]]
-  from = "https://code.focusretreat.center/*"
+  from = "https://code.focusretreat.center*"
   to = "https://focusretreatcenter.com/2023/programming/"
   status = 302
 
