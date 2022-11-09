@@ -2,8 +2,13 @@
 title = "Inktober 2023 Retreat"
 +++
 
-<img src="chloe-desk.jpg" height="400">
+<div class="row" style="padding-bottom: 1em;">
+  <img class="six columns" src="chloe-desk.jpg" />
 
-We are currently in the planning phase for our 2023 season and gathering schedule data from our community. If you are interested in an artists/illustrators retreat in 2023, plese let us know by completing the short survey below.
+  <div class="six columns">
 
-{{ survey2023() }}
+  We are currently in the planning phase for our 2023 season and gathering schedule data from our community. If you are interested in an artists/illustrators retreat in 2023, plese let us know by completing the short survey below.
+
+  {{ survey2023() }}
+  </div>
+</div>
