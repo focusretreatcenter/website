@@ -32,24 +32,34 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
 # [[redirects]]
 #   from = "https://focusretreatcenter.com/apply"
 #   to = "https://forms.gle/7aL9MjzP3VK7Mhdz9"
-#   status = 307
+#   status = 302
 
 [[redirects]]
   from = "https://focusretreatcenter.com/contact"
   to = "https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689"
-  status = 307
+  status = 302
 
 [[redirects]]
-  from = "https://ink.focusretreat.center*"
+  from = "http://ink.focusretreat.center/*"
   to = "https://focusretreatcenter.com/2023/inktober/"
-  status = 307
+  status = 302
 
 [[redirects]]
-  from = "https://code.focusretreat.center*"
+  from = "https://ink.focusretreat.center/*"
+  to = "https://focusretreatcenter.com/2023/inktober/"
+  status = 302
+
+[[redirects]]
+  from = "http://code.focusretreat.center/*"
   to = "https://focusretreatcenter.com/2023/programming/"
-  status = 307
+  status = 302
 
 [[redirects]]
-  from = "https://focusretreatcenter.com/2022/bar-exam"
+  from = "https://code.focusretreat.center/*"
+  to = "https://focusretreatcenter.com/2023/programming/"
+  status = 302
+
+[[redirects]]
+  from = "https://focusretreatcenter.com/2022/bar-exam/"
   to = "https://focusretreatcenter.com"
   status = 301
