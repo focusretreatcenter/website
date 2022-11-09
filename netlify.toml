@@ -40,12 +40,12 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
   status = 307
 
 [[redirects]]
-  from = "https://ink.focusretreat.center/*"
+  from = "https://ink.focusretreat.center*"
   to = "https://focusretreatcenter.com/2023/inktober/"
   status = 307
 
 [[redirects]]
-  from = "https://code.focusretreat.center/*"
+  from = "https://code.focusretreat.center*"
   to = "https://focusretreatcenter.com/2023/programming/"
   status = 307
 
@@ -53,5 +53,3 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
   from = "https://focusretreatcenter.com/2022/bar-exam"
   to = "https://focusretreatcenter.com"
   status = 301
-
-
