@@ -32,18 +32,17 @@ cd "$(dirname "${BASH_SOURCE[0]}")/.."
 dest_dir="content/blog"
 mkdir -p "${dest_dir}"
 
-title="$*"
 # read -r -p "Title: " title
-name=$(slug "${title}")
+name=$(slug "$@")
 
 publish_date=$(date -u +%Y-%m-%d)
 prefix=$(echo "${publish_date}" | tr -d -)
 
-dest_path="${dest_dir}/${publish_date}-${name}/index.md"
+dest_path="${dest_dir}/${prefix}-${name}/index.md"
 mkdir -p "$(dirname "${dest_path}")"
 cat <<EOF >"${dest_path}"
 +++
-title = "${title}"
+title = "$@"
 slug = "/${name}"
 date = ${publish_date}
 [extra]
