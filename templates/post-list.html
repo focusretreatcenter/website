@@ -20,20 +20,13 @@
     />
   </a>
 </div>
-<div class="row">
-  <div class="posts">
-    {% for page in section.pages -%}
-    <div class="row">
-      <div class="title one column"></div>
-      <a
-        class="eight columns"
-        href="{{ page.path }}"
-        >{{ page.title }}</a
-      >
-      <div class="date three columns">{{ page.date | date(format="%B %e, %Y") }}</div>
-    </div>
-    {% endfor -%}
+<div class="posts">
+  {% for page in section.pages -%}
+  <div class="row">
+    <a class="eight columns" href="{{ page.path }}" >{{ page.title }}</a >
+    <div class="date four columns">{{ page.date | date(format="%B %e, %Y") }}</div>
   </div>
-  <hr />
-  {% endblock -%}
+  {% endfor -%}
 </div>
+<hr />
+{% endblock -%}
