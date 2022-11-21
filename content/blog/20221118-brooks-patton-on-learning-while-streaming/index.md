@@ -2,7 +2,7 @@
 title = "Brooks Patton on Learning While Streaming"
 slug = "/brooks-patton-on-learning-while-streaming"
 date = 2022-11-22
-draft = true
+draft = false
 [extra]
 author = "Pete Lyons"
 +++
