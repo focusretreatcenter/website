@@ -18,6 +18,10 @@ It seems a certainty that the huge exodus from twitter to mastodon is enough to 
 
 Hiring in tech, especially engineers but really most roles, has been a huge struggle and pain point throughout recent memory. If you have a ready-made team that could be the initial employees for a startup, that is a huge opportunity.
 
+Here's a salient twitter thread relevant to the Twitter layoffs.
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">9 uncomfortable truths about engineering and tech right now. <br><br>How Twitter might play out, the ramifications, and what Elon’s calculus might be.<br><br>Disclaimer: Don’t shoot the messenger. I’m relaying observations through a lens of engineering for over a decade &amp; managing engineers.</p>&mdash; Louie Bacaj (@LBacaj) <a href="https://twitter.com/LBacaj/status/1593705261939802112?ref_src=twsrc%5Etfw">November 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 We here at Focus Retreat Center want to see if there's interest in doing an immersive incubation retreat for new startups in 2023. If you have thoughts about that, please take a moment and fill out this brief survey so we can best align our offerings next year to fit your needs.
 
 {{ survey2023() }}

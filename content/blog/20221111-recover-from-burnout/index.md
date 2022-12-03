@@ -19,6 +19,14 @@ If you were laid off from your tech job, we're sorry you have to experience that
 
 ![Coffee mug on a park bench with leafy trees in the background](coffee-mug-on-park-bench.jpg)
 
+Louie Bacaj expressed this in a tweet recently:
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">There is no better feeling than being able to:<br><br>– work on what you want to work on<br>– chase what you want to chase<br>– write what you want to write<br>– build what you want to build<br><br>I’m thankful that the majority of my time this year was spent that way.</p>&mdash; Louie Bacaj (@LBacaj) <a href="https://twitter.com/LBacaj/status/1595488098426798092?ref_src=twsrc%5Etfw">November 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Here's a tweet with some companies hiring now.
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">BREAKING: companies are hiring software engineers and engineering managers.<br><br>More than 750 of them! Thanks to everyone who contributed to this list. See the full one here:<a href="https://t.co/4cHeharzeH">https://t.co/4cHeharzeH</a><br><br>(Using the &#39;breaking&#39; part to highlight some good news for a change!) <a href="https://t.co/3pc0LPdPHx">pic.twitter.com/3pc0LPdPHx</a></p>&mdash; Gergely Orosz (@GergelyOrosz) <a href="https://twitter.com/GergelyOrosz/status/1593536296965865473?ref_src=twsrc%5Etfw">November 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 If you are curious about a retreat or might be interested, we want to directly factor your personal situation into our 2023 schedule of retreats. If you take 2 minutes to fill out this short survey, it will help us match our plans to the needs of our community.
 
 {{ survey2023() }}
