@@ -1,0 +1,209 @@
+{% extends "layout.html" -%}
+{% set wide = true %}
+{% block title -%}
+{{ config.extra.company_name }}
+{% endblock title -%}
+
+{% block scripts -%}
+{{ super() }}
+<!-- Image preload -->
+var images = new Array()
+function preload() {
+for (i = 0; i < preload.arguments.length; i++) {
+images[i] = new Image()
+images[i].src = preload.arguments[i]
+}
+}
+preload( "images/FocusRetreat-topimage-1600.jpg", "images/frc-logo@2x.png")
+{% endblock -%}
+
+{% block container -%}
+<div class="container-wide">
+{% endblock -%}
+{% block body -%}
+{{ super() }}
+
+<section class="hero">
+   <h1><img src="/images/frc-logo@2x.png" alt="{{ config.extra.company_name }}" /></h1>
+   <h2>{{ config.extra.tag_line }}</h2>
+</section>
+
+<section class="callout-text blue lesswide" id="intro">
+   <div class="row">
+      {{ load_data(path="copy/intro.md") | markdown | safe }}
+   </div>
+</section>
+
+<section class="contents">
+   <div class="row">
+      <div class="row">
+         <div class="six columns">
+            <h2 style="color: #01286e;">Imagine how much you can achieve</h2>
+            {{ load_data(path="copy/imagine.md") | markdown | safe }}
+         </div>
+         <div class="six columns">
+            <img src="/images/frc-building-front-20220504.jpg" style="width:100%;" alt="Our building in May 2022"/>
+         </div>
+      </div><!-- row -->      
+   </div><!-- row -->
+</section>
+
+<section class="contents pic2">
+   <div class="row">
+         <h2 id="program">2023 Retreat Programs</h2>
+<ul class="programs">
+   <li><a href="/2023/programming/">Programming Retreats for 2023</a></li>
+   <li><a href="/2023/inktober/">InkTober Retreats for 2023</a></li>
+</ul>
+
+<h3>Winter Residencies</h3>
+
+<p>
+We don't run retreats in the winter off season, but we do have residencies available if you are interested in a change of scene and coliving with other creative people for a few weeks/months during the 2022/2023 winter. Email us at <a href="mailto:info@focusretreatcenter.com?subject=Winter Residency Inquiry">info@focusretreatcenter.com</a> if you might be interested.
+</p>
+   </div><!-- row -->
+</section>    
+<section class="callout-text lightblue">
+   <div class="row">
+      <h3>{{ load_data(path="copy/grind.md") | markdown | safe }}</h3>
+   </div>
+</section>
+
+<section class="contents blue" id="about">
+   <div class="row">
+      <div class="row">
+         <div class="six columns text">
+            {{ load_data(path="copy/hosts.md") | markdown | safe }}
+            <p>
+            <a href="https://twitter.com/focusretreats" target="_blank">
+               <img src="/images/twitter-icon.png" alt="twitter link">
+               &nbsp;Follow us on Twitter
+            </a>
+            </p>
+            <p>
+            <a href="https://www.instagram.com/focusretreat.center" target="_blank">
+               <img src="/images/instagram.png" alt="instagram link">
+               &nbsp;Follow us on Instagram
+            </a>
+            </p>
+            <p>
+            <a href="https://www.facebook.com/Focus-Retreat-Center-110276811571971" target="_blank">
+               <img src="/images/facebook.png" alt="facebook link">
+               &nbsp;Like us on Facebook
+            </a>
+            </p>
+            <p>
+            <a href="https://www.linkedin.com/company/focusretreatcenter" target="_blank">
+               <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" class="global-nav__logo">
+                  <title>LinkedIn</title>
+
+                  <g>
+                  <path d="M34,2.5v29A2.5,2.5,0,0,1,31.5,34H2.5A2.5,2.5,0,0,1,0,31.5V2.5A2.5,2.5,0,0,1,2.5,0h29A2.5,2.5,0,0,1,34,2.5ZM10,13H5V29h5Zm.45-5.5A2.88,2.88,0,0,0,7.59,4.6H7.5a2.9,2.9,0,0,0,0,5.8h0a2.88,2.88,0,0,0,2.95-2.81ZM29,19.28c0-4.81-3.06-6.68-6.1-6.68a5.7,5.7,0,0,0-5.06,2.58H17.7V13H13V29h5V20.49a3.32,3.32,0,0,1,3-3.58h.19c1.59,0,2.77,1,2.77,3.52V29h5Z" fill="currentColor"></path>
+                  </g>
+               </svg>
+               LinkedIn</a>
+            </p>
+         </div>
+         <div class="six columns">
+            <img src="/images/photoshoot-202205/ck-pl-hex01-crop.jpg" style="width:100%;" alt="Pete and Stella"/>
+         </div>
+      </div><!-- row -->      
+   </div><!-- row -->
+</section>
+
+<section class="contents pic1">
+   <div class="row">
+      {{ load_data(path="copy/experience.md") | markdown | safe }}
+   </div>
+</section>
+
+<section class="contents pic2" id="place">
+   <div class="row">
+      <div class="seven columns">
+         {{ load_data(path="copy/about-our-center.md") | markdown | safe }}
+      </div>
+      <div class="five columns">
+         <p style="margin-top:1em;"><img src="/images/frc-building-side.jpg" style="width:100%;" alt="{{ config.extra.company_name }} Building"/></p>
+      </div>    
+   </div><!-- row -->
+</section>
+
+<section class="contents pine"  id="offer">
+   <div class="row">
+      <div class="six columns">
+         <p><img src="/images/frc-building-rear.jpg" style="width:100%;" alt="Our Building, rear view with lot"/></p>
+      </div>
+      <div class="six columns">
+         {{ load_data(path="copy/what-we-offer.md") | markdown | safe }}
+      </div>
+   </div>
+</section>
+
+
+<section class="contents honey">
+   <div class="row">
+      <div class="six columns">
+         {{ load_data(path="copy/amenities.md") | markdown | safe }}
+      </div>
+      <div class="six columns">
+         <p><img src="/images/coffee-and-rolls.jpg" style="width:100%;margin-top:15px;" alt="Fresh baked goods and coffee"/></p>
+      </div>
+   </div><!-- row -->
+</section>
+
+<section class="contents sage">
+   <div class="row">
+      {{ load_data(path="copy/what-we-dont-offer.md") | markdown | safe }}
+   </div>
+</section> 
+
+<section id="gallery">
+   <div class="row">
+      <div class="four columns"><img src="/images/gallery/boating2.jpg" alt=""></div>
+      <div class="four columns"><img src="/images/gallery/hike-selfie.jpg" alt=""></div>
+      <div class="four columns"><img src="/images/gallery/mountaintop.jpg" alt=""></div>
+   </div>
+   <div class="row">
+      <div class="four columns"><img src="/images/gallery/mountain-lake.jpg" alt=""></div>
+      <div class="four columns"><img src="/images/gallery/pie.jpg" alt=""></div>
+      <div class="four columns"><img src="/images/gallery/river.jpg" alt=""></div>
+
+   </div>
+</section>
+
+<section> 
+   <!-- landscape picture -->
+   <div class="row">
+      {% include "mailchimp.html" %}
+   </div>
+</section>
+
+<section class="contents pic3">
+   <div class="row"></div>
+</section>
+
+<section class="contents charcoal" id="pricing">
+   <div class="row myTitle">
+      <div class="four columns">
+         <h2>More Info</h2>
+      </div>
+      <div class="four columns" style="text-align: center;">
+         <a class="button button-primary myButton" href="mailto:info@focusretreatcenter.com?subject=Website Retreat Inquiry">Contact us for more info</a>
+      </div>
+      <div class="four columns phone">
+         <a href="tel:+15183108879">518-310-8879</a>
+      </div>
+   </div>
+</section>
+
+<section class="contents brick" id="signin">
+   <h2>Need to...?</h2>
+   <ul>
+      <li>Make a payment</li>
+      <li>Set up automatic payments</li>
+      <li>Update your profile</li>
+   </ul>
+   <a class="button button-primary myButton" href="/signin">Sign In</a>
+</section>
+
+{% endblock -%}

@@ -1,0 +1,21 @@
+@import "normalize";
+@import "fonts";
+@import "frc";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main > section {
+  padding: 1em 1em;
+}
+
+main > section * {
+  max-width: 40em;
+}
+
+p {
+  margin-top: 1.5em;
+}
+
