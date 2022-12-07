@@ -1,5 +1,9 @@
-@import "normalize";
+@import "core-normalize";
+@import "core-layout";
+@import "layout";
+@import "images";
 @import "fonts";
+@import "index";
 @import "frc";
 
 * {
@@ -12,7 +16,7 @@ main > section {
 }
 
 main > section * {
-  max-width: 40em;
+  max-width: unquote("min(100%, 40rem)");
 }
 
 p {

@@ -4,6 +4,7 @@
 
   <meta charset="utf-8">
   {# Formatting is weird here to avoid leading/trailing whitespace within tags #}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% block title -%}{%
     if page.title is defined
     -%}{{ page.title }}{%-
@@ -14,12 +15,11 @@
     endblock title -%}</title>
 
   {% block style -%}
+  {% include "partials/google-fonts.html" %}
   <link rel="stylesheet" href="/screen2.css">
   {% endblock style -%}
 
   {% block meta -%}
-  <!-- Mobile Specific Metas -->
-    <meta name="viewport" content="width=device-width,initial-scale=1">
   {% endblock meta -%}
 
   <script>

@@ -5,8 +5,20 @@
 
 {% block main -%}
 {{ super() }}
-<section>
+<section class="hero">
+      <img src="/images/frc-logo@2x.png" alt="{{ config.extra.company_name }}" />
+   <h2>{{ config.extra.tag_line }}</h2>
+</section>
+<section class="blue callout-text">
 {{ load_data(path="copy/intro.md") | markdown | safe }}
+</section>
+<section>
+            <h1>Heading One</h1> <p>some text here</p>
+            <h2>Heading Two</h2> <p>some text here</p>
+            <h3>Heading Three</h3> <p>some text here</p>
+            <h4>Heading Four</h4> <p>some text here</p>
+            <h5>Heading Five</h5> <p>some text here</p>
+            <h6>Heading Six</h6> <p>some text here</p>
 </section>
 <section class="blue">
 {{ load_data(path="copy/imagine.md") | markdown | safe }}
