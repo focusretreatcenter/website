@@ -1,28 +1,180 @@
-{% extends "layout2.html" -%}
-{% block title -%}
-{{ config.extra.company_name }}
-{% endblock title -%}
+{% extends "layout2.html" -%} {% block title -%} {{ config.extra.company_name }}
+{% endblock title -%} {% block main -%} {{ super() }}
 
-{% block main -%}
-{{ super() }}
 <section class="hero">
-      <img src="/images/frc-logo@2x.png" alt="{{ config.extra.company_name }}" />
-   <h2>{{ config.extra.tag_line }}</h2>
+  <img src="/images/frc-logo@2x.png" alt="{{ config.extra.company_name }}" />
+  <h2>{{ config.extra.tag_line }}</h2>
 </section>
-<section class="blue callout-text">
-{{ load_data(path="copy/intro.md") | markdown | safe }}
+
+<section class="bg-dark-blue callout-text">
+  {{ load_data(path="copy/intro.md") | markdown | safe }}
+</section>
+
+<section class="imagine">
+  <h2>Imagine how much you can achieve</h2>
+  {{ load_data(path="copy/imagine.md") | markdown | safe }}
+  <img
+    src="/images/frc-building-front-20220504.jpg"
+    alt="Our building in May 2022"
+  />
+</section>
+
+<section class="bg-img-hills">
+  <h2 id="program">2023 Retreat Programs</h2>
+  <ul class="programs">
+    <li><a href="/2023/programming/">Programming Retreats for 2023</a></li>
+    <li><a href="/2023/inktober/">InkTober Retreats for 2023</a></li>
+  </ul>
+
+  <h3>Winter Residencies</h3>
+
+  <p>
+    We don't run retreats in the winter off season, but we do have residencies
+    available if you are interested in a change of scene and coliving with other
+    creative people for a few weeks/months during the 2022/2023 winter.
+  </p>
+  <p>
+    Email us at
+    <a
+      href="mailto:info@focusretreatcenter.com?subject=Winter Residency Inquiry"
+      >info@focusretreatcenter.com</a
+    >
+    if you might be interested.
+  </p>
+</section>
+
+<section class="callout-text bg-light-blue">
+  <div class="row">
+    <h3>{{ load_data(path="copy/grind.md") | markdown | safe }}</h3>
+  </div>
+</section>
+
+<section class="bg-dark-blue" id="about">
+  <div class="cols-AAB">
+    <div class="social">
+      {{ load_data(path="copy/hosts.md") | markdown | safe }}
+      <p>
+        <a href="https://twitter.com/focusretreats" target="_blank">
+          <img src="/images/twitter-icon.png" alt="twitter link" />
+          &nbsp;Follow us on Twitter
+        </a>
+      </p>
+      <p>
+        <a href="https://www.instagram.com/focusretreat.center" target="_blank">
+          <img src="/images/instagram.png" alt="instagram link" />
+          &nbsp;Follow us on Instagram
+        </a>
+      </p>
+      <p>
+        <a
+          href="https://www.facebook.com/Focus-Retreat-Center-110276811571971"
+          target="_blank"
+        >
+          <img src="/images/facebook.png" alt="facebook link" />
+          &nbsp;Like us on Facebook
+        </a>
+      </p>
+      <p>
+        <a
+          href="https://www.linkedin.com/company/focusretreatcenter"
+          target="_blank"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="34"
+            height="34"
+            viewBox="0 0 34 34"
+            class="global-nav__logo"
+          >
+            <title>LinkedIn</title>
+
+            <g>
+              <path
+                d="M34,2.5v29A2.5,2.5,0,0,1,31.5,34H2.5A2.5,2.5,0,0,1,0,31.5V2.5A2.5,2.5,0,0,1,2.5,0h29A2.5,2.5,0,0,1,34,2.5ZM10,13H5V29h5Zm.45-5.5A2.88,2.88,0,0,0,7.59,4.6H7.5a2.9,2.9,0,0,0,0,5.8h0a2.88,2.88,0,0,0,2.95-2.81ZM29,19.28c0-4.81-3.06-6.68-6.1-6.68a5.7,5.7,0,0,0-5.06,2.58H17.7V13H13V29h5V20.49a3.32,3.32,0,0,1,3-3.58h.19c1.59,0,2.77,1,2.77,3.52V29h5Z"
+                fill="currentColor"
+              ></path>
+            </g>
+          </svg>
+          LinkedIn</a
+        >
+      </p>
+    </div>
+    <img
+      src="/images/photoshoot-202205/ck-pl-hex01-crop.jpg"
+      style="width: 100%"
+      alt="Pete and Stella"
+    />
+  </div>
+</section>
+
+<section class="bg-img-forest">
+  {{ load_data(path="copy/experience.md") | markdown | safe }}
+</section>
+
+<section class="bg-img-hills" id="place">
+  <div class="cols-ABB">
+    <div>
+      {{ load_data(path="copy/about-our-center.md") | markdown | safe }}
+    </div>
+    <img
+      src="/images/frc-building-side.jpg"
+      style="width: 100%"
+      alt="{{ config.extra.company_name }} Building"
+    />
+  </div>
+</section>
+
+<section class="bg-pine" id="offer">
+  <div class="cols-AB">
+    <img
+      src="/images/frc-building-rear.jpg"
+      style="width: 100%"
+      alt="Our Building, rear view with lot"
+    />
+    <div>{{ load_data(path="copy/what-we-offer.md") | markdown | safe }}</div>
+  </div>
+</section>
+
+<section class="bg-honey">
+  <div class="cols-AB">
+    <div>{{ load_data(path="copy/amenities.md") | markdown | safe }}</div>
+    <img
+      src="/images/coffee-and-rolls.jpg"
+      style="width: 100%; margin-top: 15px"
+      alt="Fresh baked goods and coffee"
+    />
+  </div>
+</section>
+
+<section class="bg-sage">
+  {{ load_data(path="copy/what-we-dont-offer.md") | markdown | safe }}
+</section>
+<section class="gallery">
+  <img src="/images/gallery/boating2.jpg" alt="" />
+  <img src="/images/gallery/hike-selfie.jpg" alt="" />
+  <img src="/images/gallery/mountaintop.jpg" alt="" />
+  <img src="/images/gallery/mountain-lake.jpg" alt="" />
+  <img src="/images/gallery/pie.jpg" alt="" />
+  <img src="/images/gallery/river.jpg" alt="" />
 </section>
 <section>
-            <h1>Heading One</h1> <p>some text here</p>
-            <h2>Heading Two</h2> <p>some text here</p>
-            <h3>Heading Three</h3> <p>some text here</p>
-            <h4>Heading Four</h4> <p>some text here</p>
-            <h5>Heading Five</h5> <p>some text here</p>
-            <h6>Heading Six</h6> <p>some text here</p>
+  <h1>Heading One</h1>
+  <p>some text here</p>
+  <h2>Heading Two</h2>
+  <p>some text here</p>
+  <h3>Heading Three</h3>
+  <p>some text here</p>
+  <h4>Heading Four</h4>
+  <p>some text here</p>
+  <h5>Heading Five</h5>
+  <p>some text here</p>
+  <h6>Heading Six</h6>
+  <p>some text here</p>
 </section>
-<section class="blue">
-{{ load_data(path="copy/imagine.md") | markdown | safe }}
-</section><section class="green">
-            {{ load_data(path="copy/hosts.md") | markdown | safe }}
+<section class="bg-dark-blue">
+  {{ load_data(path="copy/imagine.md") | markdown | safe }}
+</section>
+<section class="bg-green">
+  {{ load_data(path="copy/hosts.md") | markdown | safe }}
 </section>
 {% endblock -%}
