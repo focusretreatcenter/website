@@ -117,11 +117,11 @@ section.about-our-center {
   background-blend-mode: overlay;
 }
 
-.bg-img-sunset {
+main > section.bg-img-sunset {
   background: url("../images/sunset.jpg");
   background-size: cover;
   background-position: center;
-  padding: 18rem;
+  padding: 300px;
 }
 
 .programs {
