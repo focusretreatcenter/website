@@ -61,6 +61,25 @@ $pad: 1em;
   }
 }
 
-img, video {
-  max-width: 95vw;
+// .cols-ABC {
+//   display: grid;
+//   align-items: center;
+//   justify-items: center;
+//   grid-template-columns: 100%;
+//   @media (min-width: $breakpoint) {
+//     grid-template-columns: repeat(3, 1fr);
+//   }
+//   column-gap: $pad;
+//   padding: $pad 0;
+//   h2,
+//   h3,
+//   h4,
+//   h5,
+//   h6 {
+//     margin-top: 0;
+//   }
+// }
+//
+img, video, svg {
+  max-width: 100%;
 }
