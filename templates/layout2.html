@@ -1,43 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
+    {% block meta -%}
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {% endblock meta -%}
+    {# Formatting is weird here to avoid leading/trailing
+    whitespace within tags #}
+    <title>{% block title -%}{% if page.title is defined -%}{{ page.title }}{%- endif
+      -%}{% if section.title is defined -%}{{ section.title }}{% endif -%}|{{
+      config.extra.company_name }}{% endblock title -%}
+    </title>
 
-  <meta charset="utf-8">
-  {# Formatting is weird here to avoid leading/trailing whitespace within tags #}
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% block title -%}{%
-    if page.title is defined
-    -%}{{ page.title }}{%-
-    endif -%}{%
-    if section.title is defined
-    -%}{{ section.title }}{%
-    endif -%}|{{ config.extra.company_name }}{%
-    endblock title -%}</title>
+    {% block style -%} {% include "partials/google-fonts.html" %}
+    <link rel="stylesheet" href="/screen2.css" />
+    <!-- Mailchimp -->
+    <link
+      href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <style type="text/css">
+      #mc_embed_signup {
+        background: #fff;
+        clear: left;
+        font: 14px Helvetica, Arial, sans-serif;
+        width: 600px;
+      }
+      /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+      #mc_embed_signup {
+        margin: auto;
+      }
+    </style>
+    {% endblock style -%}
 
-  {% block style -%}
-  {% include "partials/google-fonts.html" %}
-  <link rel="stylesheet" href="/screen2.css">
-  {% endblock style -%}
-
-  {% block meta -%}
-  {% endblock meta -%}
-
-  <script>
-  {% block scripts -%}
-  {% endblock scripts -%}
-  </script>
-</head>
-<body>
-
-<!-- Primary Page Layout -->
-<main>
-  {% block main -%}
-  {% endblock -%}
-</main>
-<footer>
-  {% block footer -%}
-  {% endblock -%}
-</footer>
-
-</body>
+    <script>
+      {% block scripts -%}
+      {% endblock scripts -%}
+    </script>
+  </head>
+  <body>
+    <!-- Primary Page Layout -->
+    <main>{% block main -%} {% endblock -%}</main>
+    <footer>{% block footer -%} {% endblock -%}</footer>
+  </body>
 </html>
