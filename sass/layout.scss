@@ -1,15 +1,37 @@
 // Primary page layout is a single column with content centered horizontally.
 // It is mobile-first and as screen size allows, additional columns are introduced side by side
-section {
+// This is necessary to prevent gaps between main > section
+// tags
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main > section.grid {
+  padding: 1em 1em;
+  ul {
+    padding-left: 1em;
+  }
+
+  * {
+    max-width: unquote("min(100%, 40em)");
+  }
+}
+
+p {
+  margin-bottom: 1.5em;
+}
+
+section.grid {
   display: grid;
   grid-template-columns: calc(min(90vw, 40em));
   justify-content: center; // unclear if this is needed/correct
   justify-items: center;
 }
 
-main > section > div {
-  max-width: 40em;
-}
+// main > section > div {
+//   max-width: 40em;
+// }
 
 section.gallery {
   display: grid;
