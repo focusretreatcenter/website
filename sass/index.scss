@@ -1,6 +1,15 @@
 @import "colors";
 @import "core-layout";
 
+section.grid {
+  @include centered-column;
+}
+
+section.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+}
+
 section.hero {
   padding: 1em 0;
   background-color: #d4e8f6;
@@ -116,6 +125,7 @@ section.offer {
   padding: 3rem 0;
   line-height: 1.1;
 }
+
 .bg-img-hills {
   text-shadow: 0px 0px 10px #ffffff;
   background: url("../images/hills2.jpg") rgba(255, 255, 255, 0.4);
@@ -130,11 +140,11 @@ section.offer {
   background-blend-mode: overlay;
 }
 
-main > section.bg-img-sunset {
-  background: url("../images/sunset.jpg");
+section.bg-img-sunset {
+  background: url("../images/sunset.jpg") $brand-honey-yellow;
   background-size: cover;
   background-position: center;
-  padding: 300px;
+  padding: unquote("min(150px, 100vw)");
 }
 
 .programs {

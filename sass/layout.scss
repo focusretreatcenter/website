@@ -1,32 +1,7 @@
-// Primary page layout is a single column with content centered horizontally.
-// It is mobile-first and as screen size allows additional columns are introduced side by side
+@import "core-layout";
 
-p {
-  margin-bottom: 1.5em;
-}
-
-section.grid,
 footer.grid {
-  display: grid;
-  grid-template-columns: calc(min(90vw, 40em));
-  justify-content: center; // unclear if this is needed/correct
-  justify-items: center;
-  padding: 1em 1em;
-  ul {
-    // Necessary because list bullets are laid out weird
-    padding-left: 1em;
-  }
-  // I don't like this but it's necessary to keep stuff like
-  // the mailchimp div from overflowing the grid and forcing
-  // horizontal scrollbars
-  * {
-    max-width: unquote("min(100%, 40em)");
-  }
-}
-
-section.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  @include centered-column;
 }
 
 footer nav {
