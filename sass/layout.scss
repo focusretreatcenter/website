@@ -1,5 +1,9 @@
 @import "core-layout";
 
+p {
+  margin: 0.6em;
+}
+
 footer.grid {
   @include centered-column;
 }
