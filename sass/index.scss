@@ -48,6 +48,19 @@ section.about-our-center {
   }
 }
 
+section.offer {
+  img {
+    display: block;
+    margin: auto;
+    @media (min-width: $breakpoint) {
+      display: inline;
+      float: left;
+      margin-right: 2em;
+      max-width: 50%;
+    }
+  }
+}
+
 .imagine {
   h2 {
     color: #01286e;

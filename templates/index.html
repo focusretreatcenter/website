@@ -119,13 +119,13 @@
   <div>
 </section>
 
-<section class="grid bg-pine" id="offer">
-  <div class="cols-AB">
+<section class="offer grid bg-pine" id="offer">
+  <div>
     <img
       src="/images/frc-building-rear.jpg"
       alt="Our Building, rear view with lot"
     />
-    <div>{{ load_data(path="copy/what-we-offer.md") | markdown | safe }}</div>
+    {{ load_data(path="copy/what-we-offer.md") | markdown | safe }}
   </div>
 </section>
 
