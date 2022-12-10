@@ -6,7 +6,7 @@
   <h2>{{ config.extra.tag_line }}</h2>
 </section>
 
-<section class="grid bg-dark-blue callout-text">
+<section class="grid bg-dark-blue callout-text" id="intro">
   {{ load_data(path="copy/intro.md") | markdown | safe }}
 </section>
 
@@ -19,7 +19,7 @@
   />
 </section>
 
-<section class="grid bg-img-hills">
+<section class="grid bg-img-hills" id="program">
   <h2 id="program">2023 Retreat Programs</h2>
   <ul class="programs">
     <li><a href="/2023/programming/">Programming Retreats for 2023</a></li>
@@ -47,7 +47,7 @@
   <h3>Get away from your daily grind, and accelerate your project or learning to the next level.</h3>
 </section>
 
-<section class="hosts grid bg-dark-blue">
+<section class="hosts grid bg-dark-blue" id="hosts">
   <div>
     <img
       class="hosts"
@@ -109,7 +109,7 @@
   {{ load_data(path="copy/experience.md") | markdown | safe }}
 </section>
 
-<section class="grid about-our-center grid bg-img-hills">
+<section class="grid about-our-center grid bg-img-hills" id="center">
   <div>
   <img
     src="/images/frc-building-side.jpg"

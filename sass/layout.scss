@@ -7,33 +7,41 @@
   padding: 0;
 }
 
-main > section.grid {
+p {
+  margin-bottom: 1.5em;
+}
+
+section.grid,
+footer.grid {
+  display: grid;
+  grid-template-columns: calc(min(90vw, 40em));
+  justify-content: center; // unclear if this is needed/correct
+  justify-items: center;
   padding: 1em 1em;
   ul {
     padding-left: 1em;
   }
-
+  // I don't like this but it's necessary to keep stuff like
+  // the mailchimp div from overflowing the grid and forcing
+  // horizontal scrollbars
   * {
     max-width: unquote("min(100%, 40em)");
   }
 }
 
-p {
-  margin-bottom: 1.5em;
-}
-
-section.grid {
-  display: grid;
-  grid-template-columns: calc(min(90vw, 40em));
-  justify-content: center; // unclear if this is needed/correct
-  justify-items: center;
-}
-
-// main > section > div {
-//   max-width: 40em;
-// }
-
 section.gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+}
+
+footer nav {
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  a + a {
+    &:before {
+      content: " | ";
+    }
+  }
 }

@@ -43,6 +43,11 @@
   <body>
     <!-- Primary Page Layout -->
     <main>{% block main -%} {% endblock -%}</main>
-    <footer>{% block footer -%} {% endblock -%}</footer>
+    <footer class="grid bg-light-blue">{% block footer -%}
+      <img class="logo-inline" src="/images/frc-logo-inline-color-500.png" alt="Focus Retreat Center Logo"/>
+      <nav>
+      {% include "partials/nav.html" -%}
+      </nav>
+      {% endblock -%}</footer>
   </body>
 </html>

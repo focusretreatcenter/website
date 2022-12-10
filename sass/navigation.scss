@@ -1,0 +1,8 @@
+footer {
+  display: grid;
+  grid-template-columns:1fr;
+
+  img.logo-inline {
+    max-width: calc(min(300px, 95vw));
+  }
+}
