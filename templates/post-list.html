@@ -1,32 +1,30 @@
-{% extends "layout.html" %}
-{% block body %}
-{{ super() }}
-<div class="row">
+{% extends "layout2.html" %} {% block main %} {{ super() }}
+<section class="grid">
   <img
-    class="logo-inline offset-by-three six columns"
+    class="logo-inline"
     src="/images/frc-logo-inline-color-500.png"
     alt="Focus Retreat Center Logo"
   />
-</div>
-<div class="row">
-  <h1 class="ten columns">Blog</h1>
-  <a class="blog-subscribe" href="/atom.xml">
-    <img
-      class="icon"
-      src="/images/feed.png"
-      height="24"
-      alt="Subscribe to our blog"
-      title="Subscribe to our blog"
-    />
-  </a>
-</div>
-<div class="posts">
+</section>
+
+<section class="blog-post-list">
+  <h1>
+    Blog
+    <a class="blog-subscribe" href="/atom.xml">
+      <img
+        class="icon"
+        src="/images/feed.png"
+        height="24"
+        alt="Subscribe to our blog"
+        title="Subscribe to our blog"
+      />
+    </a>
+  </h1>
   {% for page in section.pages -%}
-  <div class="row">
-    <a class="eight columns" href="{{ page.path }}" >{{ page.title }}</a >
-    <div class="date four columns">{{ page.date | date(format="%B %e, %Y") }}</div>
+  <div class="blog-post-link">
+    <a class="" href="{{ page.path }}">{{ page.title }}</a>
+    <div class="date">{{ page.date | date(format="%B %e, %Y") }}</div>
   </div>
   {% endfor -%}
-</div>
-<hr />
+</section>
 {% endblock -%}
