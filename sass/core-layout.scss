@@ -21,6 +21,18 @@ $pad: 1em;
   }
 }
 
-img, video, svg {
+canvas,
+iframe,
+select,
+textarea,
+img,
+video,
+svg {
   max-width: 100%;
+}
+
+@mixin top-right() {
+  position: absolute;
+  top: 0;
+  right: 0;
 }
