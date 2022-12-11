@@ -11,7 +11,9 @@
   background: transparent;
   line-height: 0.8em;
   text-decoration: none;
-  color: black;
+  color: $brand-charcoal-grey;
+  // Necessary to be above the mailchimp signup form inputs
+  z-index: 1;
   &:visited {
     color: black;
   }
