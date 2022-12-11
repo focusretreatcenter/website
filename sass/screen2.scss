@@ -7,6 +7,7 @@
 @import "navigation";
 @import "post-list";
 @import "team";
+@import "videos";
 
 // * {
 //   border: 1px solid red;
@@ -33,5 +34,18 @@
   &:active {
     position: relative;
     top: 1px;
+  }
+}
+
+blockquote {
+  background-color: $brand-light-blue;
+  font-style: italic;
+  color: white;
+  padding: 0.8em;
+  border-radius: $pad;
+  margin: 0;
+  margin-bottom: $pad;
+  p {
+    margin: 0;
   }
 }

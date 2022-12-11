@@ -13,6 +13,15 @@ $pad: 1em;
     // Necessary because list bullets are laid out weird
     padding-left: $pad;
   }
+
+
+  p, blockquote {
+    // This only applies for tiny paragraphs that don't even
+    // fill their first line. They look a bit weird, so
+    // left align them.
+    justify-self: left;
+  }
+
   // I don't like this but it's necessary to keep stuff like
   // the mailchimp div from overflowing the grid and forcing
   // horizontal scrollbars
