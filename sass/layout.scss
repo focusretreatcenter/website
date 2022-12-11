@@ -1,7 +1,15 @@
 @import "core-layout";
 
 p {
-  margin-top: 0.6em;
+  margin: 0;
+  margin-bottom: 0.6em;
+}
+
+section.grid {
+  @include centered-column;
+  img {
+    margin-bottom: $pad;
+  }
 }
 
 footer.grid {
