@@ -44,12 +44,14 @@
     </script>
   </head>
   <body>
-    <a href="#nav" class="open-nav">≡</a>
-    {# <nav class="full"> #}
-    {#   <button class="close-nav">×</button> #}
-    {#   {% include "partials/nav.html" -%} #}
-    {# </nav> #}
+    <button class="open-nav">&equiv;</button>
+    <nav class="menu">
+      <button class="close-nav">&times;</button>
+      {% include "partials/nav.html" -%}
+    </nav>
+
     <main>{% block main -%} {% endblock -%}</main>
+
     <footer class="grid bg-light-blue">
       {% block footer -%}
       <img
@@ -57,9 +59,9 @@
         src="/images/frc-logo-inline-color-500.png"
         alt="Focus Retreat Center Logo"
       />
-      <nav id="nav">{% include "partials/nav.html" -%}</nav>
+      <nav>{% include "partials/nav.html" -%}</nav>
       {% endblock -%}
     </footer>
-    {# <script type="text/javascript" src="/navigation.js" /> #}
+    <script type="text/javascript" src="/navigation.js" />
   </body>
 </html>

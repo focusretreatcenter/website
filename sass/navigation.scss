@@ -1,7 +1,7 @@
 @import "core-layout";
 @import "colors";
 
-.open-nav  {
+.open-nav {
   position: fixed;
   top: 0;
   right: 0;
@@ -20,28 +20,48 @@
   }
 }
 
-// nav.full {
-//   @include top-right;
-//   display: none;
-//   height: 100vh;
-//   width: 100vw;
-//   grid-template-columns: 1fr;
-//   justify-items: center;
-//   background-color: $brand-light-blue;
-//
-//   button.close-nav {
-//     @include top-right;
-//   }
-//
-//   a {
-//     text-decoration: none;
-//   }
-//
-//   &.open {
-//     display: grid;
-//   }
-// }
-//
+nav.menu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  display: none;
+  background-color: $brand-light-blue;
+  z-index: 1;
+  opacity: 95%;
+
+  button.close-nav {
+    position: absolute;
+    top: 0;
+    right: 5px;
+    line-height: 0.8em;
+    border: none;
+    background: transparent;
+    font-size: 48px;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    &:hover {
+      background-color: $brand-dark-blue;
+    }
+  }
+
+  &.open {
+    display: grid;
+    height: 100vh;
+    width: 100vw;
+    grid-template-columns: 1fr;
+    place-items: stretch;
+  }
+}
+
 footer {
   display: grid;
   grid-template-columns: 1fr;
