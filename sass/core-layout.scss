@@ -21,6 +21,20 @@ $pad: 1em;
   }
 }
 
+@mixin float($side) {
+  display: block;
+  @media (min-width: $breakpoint) {
+    display: initial;
+    float: $side;
+    @if $side == right {
+      margin-left: $pad;
+    } @else {
+      margin-right: $pad * 2;
+    }
+    max-width: 50%;
+  }
+}
+
 canvas,
 iframe,
 select,
@@ -29,10 +43,4 @@ img,
 video,
 svg {
   max-width: 100%;
-}
-
-@mixin top-right() {
-  position: absolute;
-  top: 0;
-  right: 0;
 }

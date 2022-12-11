@@ -32,42 +32,16 @@ section.hero {
   }
 }
 
-section.hosts {
-  img.hosts {
-    display: block;
-    @media (min-width: $breakpoint) {
-      display: inline;
-      float: right;
-      margin-left: 1em;
-      max-width: 50%;
-    }
-  }
+section.hosts img.hosts {
+  @include float(right);
 }
 
-section.about-our-center {
-  img {
-    display: block;
-    margin: auto;
-    @media (min-width: $breakpoint) {
-      display: inline;
-      float: right;
-      margin-left: 1em;
-      max-width: 50%;
-    }
-  }
+section.about-our-center img {
+  @include float(right);
 }
 
-section.offer {
-  img {
-    display: block;
-    margin: auto;
-    @media (min-width: $breakpoint) {
-      display: inline;
-      float: left;
-      margin-right: 2em;
-      max-width: 50%;
-    }
-  }
+section.offer img {
+  @include float(left);
 }
 
 .imagine {
