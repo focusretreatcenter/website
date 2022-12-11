@@ -4,16 +4,19 @@
     {% block meta -%}
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    {% endblock meta -%}
-    {# Formatting is weird here to avoid leading/trailing
+    {% endblock meta -%} {# Formatting is weird here to avoid leading/trailing
     whitespace within tags #}
-    <title>{% block title -%}{% if page.title is defined -%}{{ page.title }}{%- endif
+    <title>
+      {% block title -%}{% if page.title is defined -%}{{ page.title }}{%- endif
       -%}{% if section.title is defined -%}{{ section.title }}{% endif -%}|{{
       config.extra.company_name }}{% endblock title -%}
     </title>
 
     {% block style -%} {% include "partials/google-fonts.html" %}
     <link rel="stylesheet" href="/screen2.css" />
+    {#
+    <link rel="preload" href="/navigation.js" as="script" />
+    #}
     <!-- Mailchimp -->
     <link
       href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css"
@@ -41,13 +44,22 @@
     </script>
   </head>
   <body>
-    <!-- Primary Page Layout -->
+    <a href="#nav" class="open-nav">≡</a>
+    {# <nav class="full"> #}
+    {#   <button class="close-nav">×</button> #}
+    {#   {% include "partials/nav.html" -%} #}
+    {# </nav> #}
     <main>{% block main -%} {% endblock -%}</main>
-    <footer class="grid bg-light-blue">{% block footer -%}
-      <img class="logo-inline" src="/images/frc-logo-inline-color-500.png" alt="Focus Retreat Center Logo"/>
-      <nav>
-      {% include "partials/nav.html" -%}
-      </nav>
-      {% endblock -%}</footer>
+    <footer class="grid bg-light-blue">
+      {% block footer -%}
+      <img
+        class="logo-inline"
+        src="/images/frc-logo-inline-color-500.png"
+        alt="Focus Retreat Center Logo"
+      />
+      <nav id="nav">{% include "partials/nav.html" -%}</nav>
+      {% endblock -%}
+    </footer>
+    {# <script type="text/javascript" src="/navigation.js" /> #}
   </body>
 </html>
