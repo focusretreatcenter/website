@@ -20,45 +20,25 @@ The vibe at FRC during our InkTober retreats was really fantastic. Everyone work
 
 ## Reflections from our guests
 
-<blockquote>
-"This has been a big deal for me, to actually do something for me, for my art and then besides meeting y'all to come away from this week with two art friends - I've never had art friends before." &mdash;George
-</blockquote>
+> "This has been a big deal for me, to actually do something for me, for my art and then besides meeting y'all to come away from this week with two art friends - I've never had art friends before." &mdash;George
 
-<blockquote>
-"You've also just taught me so much in terms of not just art technique but almost like life in general." &mdash;Audrey
-</blockquote>
+> "You've also just taught me so much in terms of not just art technique but almost like life in general." &mdash;Audrey
 
-<blockquote>
-"I had this project in my head for years and I really am glad that I could implement it here even if it's not over. Even if it's not perfect...I'm not sad that it's over, I'm happy that it's happened." &mdash;Lucas
-</blockquote>
+> "I had this project in my head for years and I really am glad that I could implement it here even if it's not over. Even if it's not perfect...I'm not sad that it's over, I'm happy that it's happened." &mdash;Lucas
 
-<blockquote>
-"I needed a rest or I needed something; I needed a reboot and I needed to meet people and I wanted to meet artists, especially people who like ink." &mdash;Chloe
-</blockquote>
+> "I needed a rest or I needed something; I needed a reboot and I needed to meet people and I wanted to meet artists, especially people who like ink." &mdash;Chloe
 
-<blockquote>
-"I've learned so much about color, about work, about paying attention and not giving up, about doing better, about how much more there is to know from the two of you. I get to keep that the rest of my life." &mdash;George
-</blockquote>
+> "I've learned so much about color, about work, about paying attention and not giving up, about doing better, about how much more there is to know from the two of you. I get to keep that the rest of my life." &mdash;George
 
-<blockquote>
-"It's been so amazing and I feel so happy because it's not just I got the goal done, but you were all supporting me. I've been doing InkTober since at least 2016 and I've never gotten 31 drawings done before." &mdash;Denise
-</blockquote>
+> "It's been so amazing and I feel so happy because it's not just I got the goal done, but you were all supporting me. I've been doing InkTober since at least 2016 and I've never gotten 31 drawings done before." &mdash;Denise
 
-<blockquote>
-"I learned a lot from everybody. A little thing here, a little thing there. I'll never forget any of you guys or any of this experience. It's so frickin' cool. My soul thanks you." &mdash;Mike S
-</blockquote>
+> "I learned a lot from everybody. A little thing here, a little thing there. I'll never forget any of you guys or any of this experience. It's so frickin' cool. My soul thanks you." &mdash;Mike S
 
-<blockquote>
-"I just felt really at home and really welcomed and it was really cool." &mdash;Gina
-</blockquote>
+> "I just felt really at home and really welcomed and it was really cool." &mdash;Gina
 
-<blockquote>
-"I have been starting InkTober for five years, but I stop after a week. This time I got through it - only here." &mdash;Hanna
-</blockquote>
+> "I have been starting InkTober for five years, but I stop after a week. This time I got through it - only here." &mdash;Hanna
 
-<blockquote>
-"I am so grateful to have met each and every one of you. I'm so happy that I took that leap of faith." &mdash;Megan
-</blockquote>
+> "I am so grateful to have met each and every one of you. I'm so happy that I took that leap of faith." &mdash;Megan
 
 ## Some Retreat Photo Highlights
 

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% block meta -%}
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions."
+    />
+    <meta
+      name="keywords"
+      content="retreats programming adirondacks coding illustration drawing writing immersive malone ny"
+    />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="theme-color" content="#ffffff" />
+
+    {% endblock meta -%} {# Formatting is weird here to avoid leading/trailing
+    whitespace within tags #}
+    <title>
+      {% block title -%}{% if page.title is defined -%}{{ page.title }}{%- endif
+      -%}{% if section.title is defined -%}{{ section.title }}{% endif -%}|{{
+      config.extra.company_name }}{% endblock title -%}
+    </title>
+
+    {% include "partials/google-fonts.html" %}
+    <link rel="stylesheet" href="/screen2.css" />
+    <link
+      rel="preload"
+      as="image"
+      href="images/FocusRetreat-topimage-1600.jpg"
+    />
+    <link rel="preload" as="image" href="images/frc-logo@2x.png" />
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    {% include "partials/mailchimp-head.html" %}
+    <script>
+      {% block scripts -%}
+      {% endblock scripts -%}
+    </script>
+    {% block opengraph -%}
+
+    <!-- Twitter -->
+    <meta name="twitter:site" content="@focusretreats" />
+    <meta name="twitter:creator" content="@focusretreats" />
+    <meta name="twitter:card" content="summary_image_large" />
+    {# Formatting is weird here to avoid leading/trailing whitespace within tags
+    #}
+    <meta
+      name="twitter:title"
+      content="{% if page.title is defined
+    -%}{{ page.title }}|{{ config.extra.company_name }}{%
+    else
+    -%}{{ config.extra.company_name }} - Immersive project/learning retreats in northern New York{%
+    endif -%}"
+    />
+    <meta
+      name="twitter:description"
+      content="{% if page.description is defined
+    -%}{{ page.description }}{%
+    else
+    -%}{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions.{%
+    endif -%}"
+    />
+    <meta name="twitter:image" content="/images/frc-logo.jpg" />
+    <meta name="twitter:site" content="@focusretreats" />
+
+    <!-- Facebook -->
+    <meta property="og:url" content="https://focusretreatcenter.com" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="{% if page.title is defined
+    -%}{{ page.title }}|{{ config.extra.company_name }}{%
+    else
+    -%}{{ config.extra.company_name }} - Immersive project/learning retreats in northern New York{%
+    endif -%}"
+    />
+    <meta
+      property="og:description"
+      content="{% if page.description is defined
+    -%}{{ page.description }}{%
+    else
+    -%}{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions.{%
+    endif -%}"
+    />
+    <meta
+      property="og:image"
+      content="{{ config.base_url| safe }}/images/frc-logo.jpg"
+    />
+    {% endblock opengraph -%}
+  </head>
+  <body>
+    <button class="open-nav">&equiv;</button>
+    <nav class="menu">
+      <button class="close-nav">&times;</button>
+      {% include "partials/nav.html" -%}
+    </nav>
+
+    <main>{% block main -%} {% endblock -%}</main>
+
+    <footer class="grid bg-light-blue">
+      {% block footer -%}
+      <img
+        class="logo-inline"
+        src="/images/frc-logo-inline-color-500.png"
+        alt="Focus Retreat Center Logo"
+      />
+      <nav>{% include "partials/nav.html" -%}</nav>
+      {% endblock -%}
+    </footer>
+    <script type="text/javascript" src="/navigation.js"></script>
+  </body>
+</html>

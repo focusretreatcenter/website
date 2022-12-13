@@ -6,5 +6,5 @@ title = "Inktober Challenge Retreat"
 
 We are so excited to be sponsoring the Inktober Challenge for 2022 and working directly with Inktober creator Jake Parker to run the **first ever** intensive retreat specifically designed for artists tackling the Inktober Challenge.
 
-<button class="myButton">Details Here</button>
+<button class="brand-button">Details Here</button>
 

@@ -1,0 +1,51 @@
+@import "core-normalize";
+@import "core-layout";
+@import "layout";
+@import "images";
+@import "fonts";
+@import "index";
+@import "navigation";
+@import "post-list";
+@import "team";
+@import "videos";
+
+// * {
+//   border: 1px solid red;
+// }
+
+.brand-button {
+  display: inline-block;
+  padding: 0.5em;
+  margin-top: 1em;
+  border-radius: 8px;
+  color: white;
+  text-decoration: none;
+  font-weight: bolder;
+  box-shadow: 0px 10px 14px -7px #000000;
+  background-color: #ddae2c;
+  background: linear-gradient(to bottom, #ddae2c 5%, #925d0d 100%);
+  text-shadow: 0px 1px 0px #70441b;
+  border: 0px;
+  text-transform: none; /* override skeleton */
+  &:hover {
+    background: linear-gradient(to bottom, #925d0d 5%, #dec247 100%);
+    background-color: #925d0d;
+  }
+  &:active {
+    position: relative;
+    top: 1px;
+  }
+}
+
+blockquote {
+  background-color: $brand-light-blue;
+  font-style: italic;
+  color: white;
+  padding: 0.8em;
+  border-radius: $pad;
+  margin: 0;
+  margin-bottom: $pad;
+  p {
+    margin: 0;
+  }
+}

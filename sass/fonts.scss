@@ -1,0 +1,58 @@
+// $min-font-size: 18px;
+// $max-font-size: 32px;
+// $scaler: 10vw;
+$breakpoint: 42em;
+// https://css-tricks.com/simplified-fluid-typography/
+html {
+  // font-size: unquote("min(max(1rem, 4vw), 22px)");
+  // font-size: clamp( $min-font-size, $scaler, $max-font-size );
+  font-size: 18px;
+  // @media (min-width: $breakpoint) {
+  //   font-size: 18px;
+  // }
+}
+
+h1 {
+  // font-size: 5.9vw;
+  font-size: 1.5rem;
+}
+h2 {
+  // font-size: 3.0vh;
+  font-size: 1.4rem;
+}
+h3 {
+  // font-size: 2.5vh;
+  font-size: 1.3rem;
+}
+h4 {
+  // font-size: 2vh;
+  font-size: 1.2rem;
+}
+h5 {
+  // font-size: 1.5vh;
+  font-size: 1.1rem;
+}
+h6 {
+  // font-size: 1vh;
+  font-size: 1.1rem;
+}
+p {
+  // font-size: 2vmin;
+}
+
+body {
+  // font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-family: "Mulish", sans-serif;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-weight: 300;
+}

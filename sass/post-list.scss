@@ -1,3 +1,16 @@
-.posts .date {
-  text-align: right;
+@import "core-layout";
+
+.blog-post-list {
+  @include centered-column;
+  justify-items: initial;
+  .blog-post-link {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    .date {
+      text-align: right;
+    }
+  }
+  .blog-subscribe {
+    margin-left: 1em;
+  }
 }

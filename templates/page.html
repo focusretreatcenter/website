@@ -1,22 +1,21 @@
-{% extends "layout.html" %}
-{% block body -%}
-{{ super() }}
-<a href="/">
-<img class="logo-inline" src="/images/frc-logo-inline-color-500.png" alt="Focus Retreat Center Logo">
-</a>
-<h1>{{ page.title }}</h1>
-{% if page.date %}
-<div class="row">
-  <div class="nine columns">
-    {% if page.extra.author %}
-    {{ page.extra.author }}
-    {% endif %}
+{% extends "layout2.html" %} {% block main -%} {{ super() }}
+<section class="grid">
+  <a href="/">
+    <img
+      class="logo-inline"
+      src="/images/frc-logo-inline-color-500.png"
+      alt="Focus Retreat Center Logo"
+    />
+  </a>
+  <h1>{{ page.title }}</h1>
+  {% if page.date %}
+  <div class="author">
+    {% if page.extra.author %} {{ page.extra.author }}{% endif %}
   </div>
-  <div class="post-date three columns">
+  <div class="post-date">
     {{ page.date | date(format="%B %e, %Y", timezone="America/New_York") }}
   </div>
-</div>
-<hr>
-{% endif %}
-{{ page.content | safe }}
+  <hr />
+  {% endif %} {{ page.content | safe }}
+</section>
 {% endblock -%}

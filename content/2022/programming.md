@@ -10,7 +10,7 @@ The retreat will run for 3 weeks. Monday August 1 will be a travel/arrival day. 
 
 Interested?
 
-<a class="button button-primary myButton" href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more info!</a>
+<a class="brand-button" href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more info!</a>
 
 ![](/images/gallery/retreat0-hike.jpg)
 
@@ -32,9 +32,9 @@ Each guest will have a sit/stand adjustable desk and ergonomic office chair. Our
 
 ## How to apply
 
-Interested?
+### Interested?
 
-<a class="button button-primary myButton" href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more info!</a>
+<a class="brand-button" href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more info!</a>
 
 ## How much does it cost?
 
@@ -44,4 +44,4 @@ Retreats are priced with our discounted grand opening rate of $700 per week whic
 
 {{ travel() }}
 
-<a class="button button-primary myButton" href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more info!</a>
+<a class="brand-button" href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more info!</a>

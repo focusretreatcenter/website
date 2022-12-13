@@ -1,4 +1,4 @@
-## The retreat experience
+## The Retreat Experience
 
 Focus Retreat Center offers a quiet environment to focus on deep, self-directed project work. There are common areas suitable for idea sharing and team work as well as private rooms for solitary work. There are about 14 guests per retreat, usually for 3 weeks. An online community connects you during and after the retreat. Friendships and connections made here can last a lifetime.
 
