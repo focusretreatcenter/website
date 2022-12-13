@@ -21,10 +21,12 @@
     </a>
   </h1>
   {% for page in section.pages -%}
-  <div class="blog-post-link">
-    <a class="" href="{{ page.path }}">{{ page.title }}</a>
-    <div class="date">{{ page.date | date(format="%B %e, %Y") }}</div>
-  </div>
+  <article class="blog-post-link">
+    <a class="title" href="{{ page.path }}">
+      <h4>{{ page.title }}</h4>
+      <date class="date">{{ page.date | date(format="%b %e, %Y") }}</date>
+    </a>
+  </article>
   {% endfor -%}
 </section>
 {% endblock -%}

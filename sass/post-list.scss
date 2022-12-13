@@ -1,15 +1,35 @@
 @import "core-layout";
+@import "colors";
 
 .blog-post-list {
   @include centered-column;
   justify-items: initial;
-  .blog-post-link {
-    display: grid;
-    grid-template-columns: 3fr 1fr;
-    .date {
-      text-align: right;
-    }
+
+  .date {
+    color: $brand-light-blue;
+    font-size: 80%;
   }
+
+  .title {
+    font-size: 120%;
+    text-decoration: none;
+    display: block;
+    color: $brand-dark-blue;
+  }
+
+  .blog-post-link {
+    &:hover {
+      background-color: #eeeeee;
+    }
+
+    h4 {
+      margin-bottom: 0;
+      line-height: 1;
+    }
+
+    margin-bottom: $pad;
+  }
+
   .blog-subscribe {
     margin-left: 1em;
   }
