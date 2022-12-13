@@ -23,6 +23,10 @@ This is a static website generated with the [zola](https://getzola.org) static s
 
 **static/** has assorted other files and images that get copied into the website root directory.
 
+## Code Formatting
+
+We format HTML/tera, SCSS, and JavaScript source files with [prettier](https://prettier.io/). It doesn't understand tera so the template markup often looks wonky, but the autoformatting is more valuable so for now we deal with it.
+
 ## Hosting
 
 Hosted by [netlify](https://app.netlify.com/). This integrates with github. Code that lands in the _main_ branch will be automatically deployed to production.
