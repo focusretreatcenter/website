@@ -2,9 +2,7 @@
 title = "Quilting Retreat"
 +++
 
-This is a private quilting retreat. If you are a member of this group, click the button below to reserve your spot.
-
-<a class="brand-button" href="https://www.eventbee.com/v/quilting-retreat/event?eid=216204845">Reserve Your Spot</a>
+This is a private quilting retreat.
 
 ## Retreat Dates
 
@@ -53,9 +51,7 @@ There are two available ticket options
 
 Retreat event ticket, all meals, and lodging in a private bedroom. Price is $100 per night plus tax. The ticket is for the entire retreat so just purchase one ticket.
 
-
 ### Quilting Retreat Day Pass
 
-Retreat event ticket, all meals, no overnight lodging. Price is $50 per day plus tax. Please purchase one ticket for each day you will attend.
+Retreat event ticket, all meals, no overnight lodging. Price is $50 per day plus tax.
 
-<a class="brand-button" href="https://www.eventbee.com/v/quilting-retreat/event?eid=216204845">Reserve Your Spot</a>
