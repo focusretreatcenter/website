@@ -1,136 +1,118 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
+    {% block meta -%}
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions."
+    />
+    <meta
+      name="keywords"
+      content="retreats programming adirondacks coding illustration drawing writing immersive malone ny"
+    />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="theme-color" content="#ffffff" />
 
-  <!-- Basic Page Needs -->
-  <meta charset="utf-8">
-  {# Formatting is weird here to avoid leading/trailing whitespace within tags #}
-  <title>{% block title -%}{%
-    if page.title is defined
-    -%}{{ page.title }}{%-
-    endif -%}{%
-    if section.title is defined
-    -%}{{ section.title }}{%
-    endif -%}|{{ config.extra.company_name }}{%
-    endblock title -%}</title>
+    {% endblock meta -%} {# Formatting is weird here to avoid leading/trailing
+    whitespace within tags #}
+    <title>
+      {% block title -%}{% if page.title is defined -%}{{ page.title }}{%- endif
+      -%}{% if section.title is defined -%}{{ section.title }}{% endif -%}|{{
+      config.extra.company_name }}{% endblock title -%}
+    </title>
 
-  {% block style -%}
-  <!-- FONT -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap" rel="stylesheet">
- 
-  <link rel="stylesheet" href="/screen.css">
+    {% include "partials/google-fonts.html" %}
+    <link rel="stylesheet" href="/screen2.css" />
+    <link
+      rel="preload"
+      as="image"
+      href="images/FocusRetreat-topimage-1600.jpg"
+    />
+    <link rel="preload" as="image" href="images/frc-logo@2x.png" />
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
 
-  <!-- Favicon -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    {% include "partials/mailchimp-head.html" %}
+    <script>
+      {% block scripts -%}
+      {% endblock scripts -%}
+    </script>
+    {% block opengraph -%}
 
-  <!-- Mailchimp -->
-
-  <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
-  <style type="text/css">
-#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
-/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-#mc_embed_signup {
-  margin: auto;
-}
-  </style>
-
-  {% endblock style -%}
-
-  {% block meta -%}
-  <!-- Mobile Specific Metas -->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <meta name="description" content="{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions.">
-  <meta name="keywords" content="retreats programming adirondacks coding illustration drawing writing immersive malone ny">
-  <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="theme-color" content="#ffffff">
-  {% endblock meta -%}
-
-  {% block opengraph -%}
-  <!-- Twitter -->
-  <meta name="twitter:site" content="@focusretreats" />
-  <meta name="twitter:creator" content="@focusretreats" />
-  <meta name="twitter:card" content="summary_image_large"/>
-  {# Formatting is weird here to avoid leading/trailing whitespace within tags #}
-  <meta name="twitter:title" content="{% if page.title is defined
+    <!-- Twitter -->
+    <meta name="twitter:site" content="@focusretreats" />
+    <meta name="twitter:creator" content="@focusretreats" />
+    <meta name="twitter:card" content="summary_image_large" />
+    {# Formatting is weird here to avoid leading/trailing whitespace within tags
+    #}
+    <meta
+      name="twitter:title"
+      content="{% if page.title is defined
     -%}{{ page.title }}|{{ config.extra.company_name }}{%
     else
     -%}{{ config.extra.company_name }} - Immersive project/learning retreats in northern New York{%
-    endif -%}"/>
-  <meta name="twitter:description" content="{% if page.description is defined
+    endif -%}"
+    />
+    <meta
+      name="twitter:description"
+      content="{% if page.description is defined
     -%}{{ page.description }}{%
     else
     -%}{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions.{%
-    endif -%}"/>
-  <meta name="twitter:image" content="/images/frc-logo.jpg"/><meta name="twitter:site" content="@focusretreats"/>
+    endif -%}"
+    />
+    <meta name="twitter:image" content="/images/frc-logo.jpg" />
+    <meta name="twitter:site" content="@focusretreats" />
 
-  <!-- Facebook -->
-  <meta property="og:url" content="https://focusretreatcenter.com" />
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="{% if page.title is defined
+    <!-- Facebook -->
+    <meta property="og:url" content="https://focusretreatcenter.com" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="{% if page.title is defined
     -%}{{ page.title }}|{{ config.extra.company_name }}{%
     else
     -%}{{ config.extra.company_name }} - Immersive project/learning retreats in northern New York{%
-    endif -%}"/>
-  <meta property="og:description" content="{% if page.description is defined
+    endif -%}"
+    />
+    <meta
+      property="og:description"
+      content="{% if page.description is defined
     -%}{{ page.description }}{%
     else
     -%}{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions.{%
-    endif -%}"/>
-  <meta property="og:image" content="{{ config.base_url| safe }}/images/frc-building-front-20220504.jpg" />
-  {% endblock opengraph -%}
-
-  <script>
-  {% block scripts -%}
-
-    // nav
-    function openNav() {
-          document.getElementById("mySidenav").style.width = "300px";
-        }
-
-    function closeNav() {
-          document.getElementById("mySidenav").style.width = "0";
-        }
-  {% endblock scripts -%}
-  </script>
-  {% include "partials/reddit.html" -%}
-</head>
-<body>
-
-<!-- fly-in nav -->
-<div id="mySidenav" class="sidenav">
-<button class="closebtn" onclick="closeNav()">&times;</button>
-{% include "partials/nav.html" -%}
-</div>
-{% set wide = false -%}
-
-<!-- Primary Page Layout -->
-{% block container -%}
-<div class="container">
-{% endblock -%}
-  <div class="hamburger"><span onclick="openNav()"><img src="/images/hamburger.png" alt="menu"></span></div>
-
-  {% block body -%}
-  {% endblock -%}
-  <footer>
-  <img style="max-width: 300px" class="logo-inline" src="/images/frc-logo-inline-color-500.png" alt="Focus Retreat Center Logo"/>
-    {% block footer -%}
-    <div class="navigation row">
-      <div class="twelve columns">
+    endif -%}"
+    />
+    <meta
+      property="og:image"
+      content="{{ config.base_url| safe }}/images/frc-logo.jpg"
+    />
+    {% endblock opengraph -%}
+  </head>
+  <body>
+    <button class="open-nav">&equiv;</button>
+    <nav class="menu">
+      <button class="close-nav">&times;</button>
       {% include "partials/nav.html" -%}
-      </div>
-    </div>
-    {% endblock -%}
-  </footer>
-</div>
+    </nav>
 
+    <main>{% block main -%} {% endblock -%}</main>
 
-</body>
+    <footer class="grid bg-light-blue">
+      {% block footer -%}
+      <img
+        class="logo-inline"
+        src="/images/frc-logo-inline-color-500.png"
+        alt="Focus Retreat Center Logo"
+      />
+      <nav>{% include "partials/nav.html" -%}</nav>
+      {% endblock -%}
+    </footer>
+    <script type="text/javascript" src="/navigation.js"></script>
+  </body>
 </html>
