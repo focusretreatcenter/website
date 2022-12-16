@@ -33,6 +33,12 @@ A group of like-minded peers with similar interests creates a fun atmosphere and
 
 The energy of a group working together is palpable and powerful. Your retreat cohort will help hold you accountable for the systems and habits you choose as you work. You'll find connections to each others' projects and ways to collaborate and help each other.
 
+## 4. Fun!
+
+Hey, we're modeled kind of like a kid's summer camp after all! We work hard, and play hard too.
+
+{{ youtube(id="heeVSrrWo9c" orientation="portrait") }}
+
 ## Considering a Retreat?
 
 {{ mailchimp() }}
