@@ -1,10 +1,12 @@
-# The Retreat Recipe
++++
+title = "The Retreat Recipe"
++++
 
 The following three ingredients are the core essence of what we combine together to produce the noursishing experience of a Focus Retreat.
 
-(TODO image of baking/recipe)
+![Stella preparing home made pizzas on pizza night](recipe.jpg)
 
-## 1 Part Personal Wellness
+## 1. Personal Wellness
 
 Personal wellness is a foundational value for both happiness and creativity. While we appreciate the great works of music, art, and literature, we reject the self-destructive lifestyle that is far too common among brilliantly creative people. At FRC, self-care and personal wellness take first priority.
 
@@ -15,14 +17,22 @@ Personal wellness is a foundational value for both happiness and creativity. Whi
 * Tune your body with yoga and exercise
 * Break unhealthy relationship patterns by taking time away from home
 
-## 1 Part Deep Creative Work
+![2 guests sitting on a rock outcropping during an autumn hike](hike.jpg)
+
+## 2. Deep Creative Work
 
 We think the most valuable thing creative people can do is put their best energy into their work in a focused way. Creative work takes second priority at FRC. Your project is prioritized for many hours a day and many days in a row. Your internal motivations can shine through and provide direction to your work.
 
-## 1 Part Inspiring Peers
+![Guest working on illustrations](chloe-desk.jpg)
+
+## 3. Inspiring Peers
 
 A group of like-minded peers with similar interests creates a fun atmosphere and fosters collaboration, inspiration, and friendship.You'll meet wonderful people and get to know them at the dinner table, on the hiking trail, and around the fire pit. Sharing meals and adventures builds a sense of belonging and community. We hope to form many long-lasting friendships at FRC.
 
+![FRC Cohort on the front steps](inktober-cohort.jpg)
+
 The energy of a group working together is palpable and powerful. Your retreat cohort will help hold you accountable for the systems and habits you choose as you work. You'll find connections to each others' projects and ways to collaborate and help each other.
 
-(TODO: Lead magnet for email list with the Retreat Handbook)
+## Considering a Retreat?
+
+{{ mailchimp() }}
