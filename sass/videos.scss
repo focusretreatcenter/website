@@ -6,9 +6,9 @@
   &:after {
     display: block;
     content: "";
+    // 9/16 aspect ratio (landscape/horizontal orientation)
     padding-top: 56.25%;
   }
-
 
   iframe {
     position: absolute;
@@ -17,4 +17,11 @@
     width: 100%;
     height: 100%;
   }
+}
+
+// The syntax to nest this with SCSS is pretty confusing,
+// so fall back to unnested CSS
+.youtube-video-container.portrait:after {
+  // 16/9 aspect ratio (portrait/vertical orientation)
+  padding-top: 177.78%;
 }
