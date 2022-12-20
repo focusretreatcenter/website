@@ -1,4 +1,5 @@
 <figure class="photo">
-   <img src="{{src}}" alt="{{caption | trim}}">
+{% set image = resize_image(path=page.path ~ src, op="fit_width", width=800) %}
+<img src="{{ image.url }}" alt="{{caption | trim}}"/>
    <figcaption>{{caption | trim}}</figcaption>
 </figure>
