@@ -32,6 +32,14 @@ There are 2 larger common rooms where guests are encouraged to work in a collabo
 
 {{ photo(src="common-room.jpg" caption="Common room first floor") }}
 
+### Media Room
+
+There is a media room with smart TV and home theater speakers for watching movies and listening to music in small groups.
+
+### Hobby Rooms
+
+Spare rooms can be set up for hobbies like music, sewing, crafting, etc as fits the interests of each group.
+
 ## Shared Bathrooms
 
 The main building has 6 total guest bathrooms that are shared. 4 are off the common rooms, and 2 are semi-private situated between 2 bedrooms. There's plenty of hot water and with so many bathrooms available it's unlikely that you will ever need to wait to use one.
