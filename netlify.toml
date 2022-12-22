@@ -24,7 +24,12 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
   status = 302
 
 [[redirects]]
-  from = "https://focusretreatcenter.com/2022/bar-exam/"
+  from = "https://focusretreatcenter.com/2023/survey"
+  to = "https://us14.list-manage.com/survey?u=a54483dfc73731ced2ff35a04&id=535dbf9df4&attribution=false"
+  status = 302
+
+[[redirects]]
+  from = "https://focusretreatcenter.com/2022/bar-exam"
   to = "https://focusretreatcenter.com"
   status = 301
 
