@@ -1,0 +1,4 @@
++++
+title = "Our Rooms"
++++
+{{ photos()  }}

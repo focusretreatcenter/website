@@ -1,6 +1,26 @@
+@import "colors";
+
 section.gallery {
   padding: 0;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 }
 
+section.photo-galleries {
+  a {
+    text-decoration: none;
+    color: $brand-dark-blue;
+    &:visited {color: $brand-dark-blue;}
+  }
+  figure.photo {
+    border: 6px solid white;
+    &:hover {
+      opacity: 60%;
+      border: 6px solid $brand-dark-blue;
+    }
+    figcaption {
+      text-align: center;
+      font-size: 150%;
+    }
+  }
+}
