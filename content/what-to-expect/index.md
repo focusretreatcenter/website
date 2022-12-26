@@ -21,6 +21,9 @@ Each guest has a private single-occupancy bedroom equipped with:
 * central air conditioning
 * smart thermostat to adjust the heat in the room
 * lighting with adjustable brightness and color balance
+* top-down-bottom-up window shades
+
+We do not provide hotel-style room cleaning services. Linens and towels can be exchanged for clean items as needed.
 
 [Click here to see the full gallery of room photos](/photos)
 
@@ -28,7 +31,7 @@ Each guest has a private single-occupancy bedroom equipped with:
 
 ## Common Rooms
 
-There are 2 larger common rooms where guests are encouraged to work in a collaborative atmosphere. Each guest's desk and chair are on wheels so they are easy to move back and forth between the common rooms and bedrooms at will. There are some larger tables for working together as well.
+There are 2 larger common rooms where guests are encouraged to work in a collaborative atmosphere. Each guest's desk and chair are on wheels so they are easy to move back and forth between the common rooms and bedrooms at will. There are some larger tables for working together as well. We adjust and tailor the furniture layout to best suite each retreat.
 
 {{ photo(src="common-room.jpg" caption="Common room first floor") }}
 
@@ -48,9 +51,11 @@ The main building has 6 total guest bathrooms that are shared. 4 are off the com
 
 ## Meals
 
-Meals are served in our dining room which can seat an entire retreat group at the same time. The dinner menu is chef-chosen,  prepared for the group, and served buffet style. Lunch is typically based around sandwiches, soups, and salads. Breakfast is either cooked-to-order diner fare: eggs, pancakes, etc or continental style: oatmeal, cereal, yogurt, fruit, etc.
+Meals are served in our dining room which can seat an entire retreat group at the same time. Breakfast is either cooked-to-order diner fare: eggs, pancakes, etc or continental style: oatmeal, cereal, yogurt, fruit, etc. Lunch is typically based around sandwiches, soups, and salads. The dinner menu is chef-chosen, prepared for the group, and served buffet style.
 
 Self-serve coffee, tea, snacks and leftovers are available to guests at all times. Bread, cookies, and assorted delicious pastries are baked fresh almost every day. There is a large refrigerator named "Chilly McChillface" in the dining room where guests can keep a small amount of supplemental personal food items. There's a few appliances available for continental style use by guests for snacks outside of mealtime including a microwave, toaster, and egg cookers.
+
+We do not provide nor serve alcoholic beverages, but guests are welcome to buy their own, store them in the dining room refrigerator, and consume on premises in moderation.
 
 {{ photo(src="dining.jpg" caption="Guests enjoying dinner in the dining room") }}
 
@@ -64,11 +69,11 @@ FRC has blazing fast (900+Mbps) Internet and WiFi6 access points throughout the 
 
 ## Laundry
 
-There is a laundry facility on site with free washing machines, driers, and unscented detergent. Guests may wash their own clothes as needed. Bed linens and bath towels can be exchanged for fresh clean items as needed. We encourage guests to use towels and linens for a week before exchanging for laundry.
+There is a laundry facility on site with free washing machines, driers, and detergent. Guests may wash their own clothes as needed. Bed linens and bath towels can be exchanged for fresh clean items as needed. We encourage guests to use towels and linens for a week before exchanging for laundry.
 
 ## Parking
 
-FRC has private off-street parking available on our property. There's additional parking available as needed in the church parking lot next door as well. Of course guests are encouraged to carpool as much as possible in transit to FRC.
+FRC has private off-street parking available on our property. There's additional parking available as needed in the church parking lot next door as well. Guests are encouraged to carpool as much as possible in transit to FRC.
 
 ## Porch and Yard
 
@@ -91,3 +96,7 @@ Details of each retreat will vary, but we lean toward self-directed activities. 
 We are located just at the northern edge of Adirondack Park. It's the largest system of hiking trails in the nation with over 2000 miles of trail. There are thousands upon thousands of lakes, rivers, and streams among 6 million acres of forest land. It is very large and very beautiful. Retreat guests are encouraged to explore and to self-organize and carpool for excursions into the park. The towns of Lake Placid, Saranac Lake, and Tupper Lake all have interesting things to see and do as well.
 
 {{ photo(src="hiking.jpg" caption="View from Azure Mountain Fire Tower") }}
+
+## Transportation
+
+See [our travel page](/travel) for full details around transportation to FRC.
