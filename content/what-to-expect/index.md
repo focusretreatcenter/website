@@ -77,13 +77,13 @@ FRC has private off-street parking available on our property. There's additional
 
 ## Porch and Yard
 
-There's a sun porch adjacent to the dining room available for chatting over coffee, working, etc. We have adirondack chairs, a hammock, blankets, etc for use in the back yard. There's also a fire pit that's lovely to sit around in the evenings.
+There's a sun porch adjacent to the dining room available for chatting over coffee, working, etc. We have adirondack chairs, a hammock, blankets, etc for use in the back yard. There's also a fire pit that's lovely to sit around in the evenings under the stars.
 
 {{ photo(src="fire-pit.jpg" caption="Relaxing around a fire") }}
 
 ## The Village of Malone
 
-FRC is located in the heart of the Village of Malone, NY. All of your basic needs are easy to meet nearby including pharmacies, convenience stores, grocery stores, liquor stores, Walmart, hiking outfitters, etc. We are in a historic district that is lovely to walk around the residential streets, or head over to the Recreation Park for nature trails. Most cellular providers have plenty of signal in the village. Directly in front of FRC is a small lovely park called Arsenal Green full of mature trees and benches with plenty of good squirrel watching.
+FRC is located in the heart of the Village of Malone, NY. All of your basic needs are easy to meet nearby including pharmacies, convenience stores, grocery stores, liquor stores, Walmart, hiking outfitters, etc. We are in a historic district that is lovely to walk around the residential streets, or head over to the Recreation Park for nature trails right in the village. Most cellular providers have plenty of signal in the village. Directly in front of FRC is a small lovely park called Arsenal Green full of mature trees and benches with plenty of good squirrel watching.
 
 {{ photo(src="arsenal-green.jpg" caption="Arsenal Green park right out our front door") }}
 

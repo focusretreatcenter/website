@@ -3,16 +3,43 @@
 
 <section class="grid hero">
   <img src="/images/frc-logo@2x.png" alt="{{ config.extra.company_name }}" />
-  <h2>{{ config.extra.tag_line }}</h2>
+  <h2>Inspire. Create. Collaborate.</h2>
 </section>
 
 <section class="grid bg-dark-blue callout-text" id="intro">
-  {{ load_data(path="copy/intro.md") | markdown | safe }}
+  <h3>
+    Focus Retreat Center runs retreats for coding, illustration, writing,
+    learning new skills, or working groups. Free yourself from distractions and
+    work with like-minded people. This is the perfect place to focus.
+  </h3>
+
+  <h4>Located in Malone, NY just north of Adirondack Park.</h4>
 </section>
 
 <section class="grid imagine">
   <h2>Imagine how much you can achieve</h2>
-  {{ load_data(path="copy/imagine.md") | markdown | safe }}
+
+  <p>
+    Totally immerse in your project, sharing supportive work and living spaces
+    with a select group of peers, away from daily responsibilities - located in
+    New York's beautiful North Country, close to Adirondack Park, the Saint
+    Lawrence River, and Canada.
+  </p>
+
+  <p>
+    We offer retreats focused on individual projects that benefit from a
+    community of peers doing similar work and substantial focused time.
+  </p>
+
+  <p>
+    We provide room, board, a curated environment, carefully screened peers, and
+    light-touch facilitation. Guests get a level of depth of focus that is
+    exceedingly rare in modern life's hustle and bustle. The retreat center
+    offers a reprieve from the appointments, obligations, chores, routines and
+    distractions of everyday life. We provide a space tailored for personal
+    development and a right-sized group of peers to enrich and support each
+    other’s experiences and develop life-long friendships.
+  </p>
   <img
     src="/images/frc-building-front-20220504.jpg"
     alt="Our building in May 2022"
@@ -20,12 +47,33 @@
 </section>
 
 <section class="grid bg-img-forest">
-  {{ load_data(path="copy/experience.md") | markdown | safe }}
+  <h2>The Retreat Experience</h2>
+
+  <p>
+    Focus Retreat Center offers a quiet environment to focus on deep,
+    self-directed project work. There are common areas suitable for idea sharing
+    and team work as well as private rooms for solitary work. There are about 14
+    guests per retreat, usually for 1 week. An online community connects you
+    during and after the retreat. Friendships and connections made here can last
+    a lifetime.
+  </p>
+
+  <p>
+    We provide room, board, a curated environment, carefully screened peers, and
+    light-touch facilitation. Guests get a level of depth of focus that is
+    exceedingly rare in modern life's hustle and bustle. The retreat center
+    offers a reprieve from the appointments, obligations, chores, routines and
+    distractions of everyday life. We provide a space tailored for personal
+    development and a right-sized group of peers to enrich and support each
+    other’s experiences and develop life-long friendships.
+  </p>
 </section>
 
 <section class="grid">
   <blockquote>
-"It's been so amazing and I feel so happy because it's not just I got the goal done, but you were all supporting me. I've been doing InkTober since at least 2016 and I've never gotten 31 drawings done before." &mdash;Denise
+    "It's been so amazing and I feel so happy because it's not just I got the
+    goal done, but you were all supporting me. I've been doing InkTober since at
+    least 2016 and I've never gotten 31 drawings done before." &mdash;Denise
   </blockquote>
 </section>
 
@@ -54,7 +102,29 @@
 </section>
 
 <section class="grid callout-text bg-light-blue">
-  <h3>Get away from your daily grind, and accelerate your project or learning to the next level.</h3>
+  <h3>
+    Get away from your daily grind, and accelerate your project or learning to
+    the next level.
+  </h3>
+</section>
+
+<section class="grid values bg-honey">
+  <h2>Our Values and Retreats</h2>
+
+  FRC's mission is to foster our core values of sabattical, deep work, and
+  creative collaboration. The best way to understand what we do and whether it
+  fits what you need is…
+
+  <ol>
+    <li>Learn <a href="/values">Our Values</a></li>
+    <li>Check out <a href="/values">The Retreat Recipe</a></li>
+    <li>Know <a href="/what-to-expect">What to Expect on Your Retreat</a></li>
+  </ol>
+
+  <img
+    src="photos/retreats-2022/cinnamon-tear-and-share.jpg"
+    alt="Freshly baked cinnamon tear and share"
+  />
 </section>
 
 <section class="hosts grid bg-dark-blue" id="hosts">
@@ -64,7 +134,31 @@
       src="/images/photoshoot-202205/ck-pl-hex01-crop.jpg"
       alt="Pete and Stella"
     />
-    {{ load_data(path="copy/hosts.md") | markdown | safe }}
+    <h2>About Your Hosts</h2>
+
+    <p>
+      Hi! We are Christella Kay and Pete Lyons! We are life partners running
+      this business together. We decided to build our lives with intention and
+      in a way that lets us work for ourselves while helping others. We have a
+      special fondness for Adirondack Park and are happy to be living here with
+      nature at our doorstep.
+    </p>
+
+    <p>
+      Christella is an innovative thinker with a business degree and restaurant
+      experience. She enjoys being around enthusiastic geeks and is excited to
+      be fostering community and creating a curated ‘focus intensive vibe’ at
+      our facility.
+    </p>
+
+    <p>
+      Pete has over 20 years experience in software development, and a deep
+      appreciation for the value of personal development retreats. In his youth
+      Pete spent 6 consecutive summers at an immersive music institute at
+      Hartwick College in Oneonta, NY - a formative and wonderful experience
+      he's delighted to share a flavor of with others.
+    </p>
+
     <div class="social">
       <p>
         <a href="https://twitter.com/focusretreats" target="_blank">
@@ -115,57 +209,77 @@
   </div>
 </section>
 
-<section class="grid about-our-center grid bg-img-hills" id="center">
-  <div>
-  <img
-    src="/images/frc-building-side.jpg"
-    alt="{{ config.extra.company_name }} Building"
-  />
-  {{ load_data(path="copy/about-our-center.md") | markdown | safe }}
-  <div>
-</section>
-
-<section class="offer grid bg-pine" id="offer">
+<section class="grid about-our-center bg-img-hills" id="center">
   <div>
     <img
-      src="/images/frc-building-rear.jpg"
-      alt="Our Building, rear view with lot"
+      src="/images/frc-building-side.jpg"
+      alt="{{ config.extra.company_name }} Building"
     />
-    {{ load_data(path="copy/what-we-offer.md") | markdown | safe }}
+    <h2>About Our Center</h2>
+    <p>
+      Our retreat center is located in the heart of the Village of Malone. All
+      modern amenities are nearby such as convenience stores, pharmacies, a
+      Walmart, etc. But we are also adjacent to Adirondack Park and thousands of
+      lakes, rivers, mountains, and hiking trails just a short drive to the
+      south. We sit directly facing a lovely small park.
+    </p>
+    <p>
+      Our facility is two connected buildings. The fieldstone farmhouse building
+      to the rear dates circa 1891 and serves as our dining room and kitchen.
+      The large brick building to the front dates from the 1930s and was
+      originally constructed as a school building. The property has been through
+      several uses and renovations during more than a century of service. We are
+      located in a NY state historic district and the residential neighborhood
+      around us includes many lovely examples of Victorian era homes.
+    </p>
   </div>
-</section>
-
-<section class="grid bg-honey">
-    <div>{{ load_data(path="copy/amenities.md") | markdown | safe }}</div>
-    <img
-      src="photos/retreats-2022/cinnamon-tear-and-share.jpg "
-      alt="Freshly baked cinnamon tear and share treat made with love by Stella"
-    />
-</section>
-
-<section class="grid bg-sage">
-  {{ load_data(path="copy/what-we-dont-offer.md") | markdown | safe }}
 </section>
 
 <section class="grid">
   <blockquote>
-"I learned a lot from everybody. A little thing here, a little thing there. I'll never forget any of you guys or any of this experience. It's so frickin' cool. My soul thanks you." &mdash;Mike S
+    "I learned a lot from everybody. A little thing here, a little thing there.
+    I'll never forget any of you guys or any of this experience. It's so
+    frickin' cool. My soul thanks you." &mdash;Mike S
   </blockquote>
 </section>
 
 <section class="gallery">
-  <img src="photos/retreats-2022/inktober-certificates.jpg" alt="Guests celebrating completing the InkTober illustration challenge" />
-  <img src="azure-mountain-fire-tower.jpg" alt="Stunning view of the mountains, forest, and lakes from Azure Mountain">
-  <img src="crumb-cake.jpg" alt="Home made crumb cake fresh from the oven">
-  <img src="inktober-common-room.jpg" alt="Guests working on InkTober illustrations together">
-  <img src="denise-dining.jpg" alt="Guests conduct a social media workshop in the dining room">
-  <img src="photos/retreats-2022/pad-thai-prep.jpg" alt="Ingredients prepped for pad thai night">
-  <img src="photos/retreats-2022/programming-usie.jpg" alt="Creative Coding Retreat guests">
-  <img src="cinnamon-rolls.jpg" alt="Home made cinnamon rolls">
-  <img src="megan-laugh.jpg" alt="Guest laughs while sketching on a hike">
-  <img src="photos/retreats-2022/hike-lake-overlook.jpg" alt="Scenic view of mountains and lakes from a hiking trail">
-  <img src="/images/gallery/hike-selfie.jpg" alt="hiking selfie">
-  <img src="hike-boulder-autumn.jpg" alt="Climbing around some boulders on an autumn hike">
+  <img
+    src="photos/retreats-2022/inktober-certificates.jpg"
+    alt="Guests celebrating completing the InkTober illustration challenge"
+  />
+  <img
+    src="azure-mountain-fire-tower.jpg"
+    alt="Stunning view of the mountains, forest, and lakes from Azure Mountain"
+  />
+  <img src="crumb-cake.jpg" alt="Home made crumb cake fresh from the oven" />
+  <img
+    src="inktober-common-room.jpg"
+    alt="Guests working on InkTober illustrations together"
+  />
+  <img
+    src="denise-dining.jpg"
+    alt="Guests conduct a social media workshop in the dining room"
+  />
+  <img
+    src="photos/retreats-2022/pad-thai-prep.jpg"
+    alt="Ingredients prepped for pad thai night"
+  />
+  <img
+    src="photos/retreats-2022/programming-usie.jpg"
+    alt="Creative Coding Retreat guests"
+  />
+  <img src="cinnamon-rolls.jpg" alt="Home made cinnamon rolls" />
+  <img src="megan-laugh.jpg" alt="Guest laughs while sketching on a hike" />
+  <img
+    src="photos/retreats-2022/hike-lake-overlook.jpg"
+    alt="Scenic view of mountains and lakes from a hiking trail"
+  />
+  <img src="/images/gallery/hike-selfie.jpg" alt="hiking selfie" />
+  <img
+    src="hike-boulder-autumn.jpg"
+    alt="Climbing around some boulders on an autumn hike"
+  />
 </section>
 
 <section class="grid bg-honey">{% include "mailchimp.html" %}</section>

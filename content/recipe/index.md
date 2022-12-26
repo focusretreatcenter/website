@@ -42,3 +42,7 @@ Hey, we're modeled kind of like a kid's summer camp after all! We work hard, and
 ## Considering a Retreat?
 
 {{ mailchimp() }}
+
+## Next: What to Expect
+
+Curious about the daily experience at FRC? Read about [what to expect on retreat](/what-to-expect).

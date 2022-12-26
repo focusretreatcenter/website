@@ -4,9 +4,9 @@ title = "Our Values"
 
 # Retreat as Sabbatical
 
-Meaningful work can’t flourish and thrive when squeezed into the margins of overscheduled busy lives. Our retreats and residencies take inspiration from academic sabbatical to provide an extended but bounded time to do your deepest, most creative work.
+Meaningful work can’t flourish and thrive when squeezed into the margins of over-scheduled busy lives. Our retreats and residencies take inspiration from academic sabbatical to provide an extended but bounded time to do your deepest, most creative work.
 
-![stencil lettering for spraypaint: LET GO OF THE BUSYNESS](busyness.jpg)
+![stencil lettering for spray paint: LET GO OF THE BUSYNESS](busyness.jpg)
 
 In order to create space, we must pause and set aside our normal lifestyle. Guests at FRC a given a rest from…
 
@@ -35,7 +35,7 @@ See also: [Unschooling](https://unschoolers.org/what-is-unschooling/), but carri
 
 # Focused Work
 
-We value deep work and believe it should be provided with ample time and focus so it can fully flourish. We believe in single-tasking for long periods. We reject multitasking as a harmful and counterproductive time management hack. We reject “busyness” culture and by-the-minute accounting and overscheduling. We curate our environment to reduce distractions and irritants that hinder access to a flow state.
+We value deep work and believe it should be provided with ample time and focus so it can fully flourish. We believe in single-tasking for long periods. We reject multitasking as a harmful and counterproductive time management hack. We reject “busyness” culture and by-the-minute accounting and over-scheduling. We curate our environment to reduce distractions and irritants that hinder access to a flow state.
 
 We value systems and habits over specific goals and deliverables. Put in the time and trust the process. The results will appear.
 
@@ -43,6 +43,6 @@ We value systems and habits over specific goals and deliverables. Put in the tim
 
 See also writing by [Cal Newport](https://www.goodreads.com/book/show/66354.Flow), [Derek Sivers](https://sive.rs/h), and [Mihaly Csikszentmihalyi](https://www.goodreads.com/book/show/66354.Flow)
 
-# Next, The Recipe… 
+# Next: The Recipe… 
 
-Now go read about how we live these values with [The Retreat Recipe](../recipe).
+Read about how we live these values with [The Retreat Recipe](../recipe).
