@@ -1,4 +1,22 @@
 @import "colors";
+@import "core-layout";
+
+@mixin big-bold-blue {
+  font-size: 32px;
+  text-decoration: none;
+  font-weight: bolder;
+  color: $brand-dark-blue;
+  &:visited {
+    color: $brand-dark-blue;
+  }
+}
+
+@mixin blue-border {
+  border: 6px solid white;
+  &:hover {
+    border: 6px solid $brand-dark-blue;
+  }
+}
 
 section.gallery {
   padding: 0;
@@ -7,20 +25,30 @@ section.gallery {
 }
 
 section.photo-galleries {
+  @include centered-column;
+
   a {
-    text-decoration: none;
-    color: $brand-dark-blue;
-    &:visited {color: $brand-dark-blue;}
+    @include big-bold-blue;
   }
+
   figure.photo {
-    border: 6px solid white;
+    margin-bottom: 2rem; // override
+    @include blue-border;
     &:hover {
       opacity: 60%;
-      border: 6px solid $brand-dark-blue;
     }
+
     figcaption {
       text-align: center;
-      font-size: 150%;
+    }
+  }
+
+  figure.instagram {
+    @include blue-border;
+    // margin: 0;
+    padding: 1em;
+    a {
+      @include big-bold-blue;
     }
   }
 }
