@@ -1,13 +1,14 @@
 @import "core-layout";
 @import "colors";
 
+$big: 48px;
 .open-nav {
   position: fixed;
   top: 0;
   right: 0;
   margin-right: 5px;
   border: none;
-  font-size: 48px;
+  font-size: $big;
   background: transparent;
   line-height: 0.8em;
   text-decoration: none;
@@ -38,7 +39,7 @@ nav.menu {
     line-height: 0.8em;
     border: none;
     background: transparent;
-    font-size: 48px;
+    font-size: $big;
     &:hover {
       cursor: pointer;
     }
