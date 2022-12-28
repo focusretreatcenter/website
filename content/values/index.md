@@ -8,7 +8,7 @@ Meaningful work can’t flourish and thrive when squeezed into the margins of ov
 
 ![stencil lettering for spray paint: LET GO OF THE BUSYNESS](busyness.jpg)
 
-In order to create space, we must pause and set aside our normal lifestyle. Guests at FRC a given a rest from…
+In order to create space, we must pause and set aside our normal lifestyle. Guests at FRC are given a rest from…
 
 * child, family, and pet care
 * chores and errands
