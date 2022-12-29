@@ -17,11 +17,10 @@
 
     {% endblock meta -%} {# Formatting is weird here to avoid leading/trailing
     whitespace within tags #}
-    <title>
-      {% block title -%}{% if page.title is defined -%}{{ page.title }}{%- endif
-      -%}{% if section.title is defined -%}{{ section.title }}{% endif -%}|{{
-      config.extra.company_name }}{% endblock title -%}
-    </title>
+    <title>{% block title -%}
+    {% if page.title is defined and page.title -%}{{ page.title }}|{%- endif -%}
+    {% if section.title is defined and section.title -%}{{ section.title }}|{% endif -%}
+    {{ config.extra.company_name }}{% endblock title -%}</title>
 
     {% include "partials/google-fonts.html" %}
     <link rel="stylesheet" href="/screen.css" />
@@ -100,8 +99,37 @@
       <button class="close-nav">&times;</button>
       {% include "partials/nav.html" -%}
     </nav>
+    {% block header %}
+    <header class="grid">
+      <a href="/">
+        <img
+          class="logo-inline"
+          src="/images/frc-logo-inline-color-500.png"
+          alt="Focus Retreat Center Logo"
+        />
+      </a>
+      {% if page is defined %}
+      <h1>{{ page.title }}</h1>
 
-    <main>{% block main -%} {% endblock -%}</main>
+      {% if page.date %}
+      <div class="author">
+        {% if page.extra.author %} {{ page.extra.author }}{% endif %}
+      </div>
+      <div class="post-date">
+        {{ page.date | date(format="%B %e, %Y", timezone="America/New_York") }}
+      </div>
+      <hr />
+      {% endif %}
+      {% endif -%}
+    </header>
+    {% endblock -%}
+
+    <main>
+      {% block main -%}
+       {%if section.content is defined -%} {{ section.content | safe }}{% endif -%}
+       {%if page.content is defined -%} {{ page.content | safe }}{% endif -%}
+      {% endblock -%}
+    </main>
 
     <footer class="grid bg-light-blue">
       {% block footer -%}

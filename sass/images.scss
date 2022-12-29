@@ -18,7 +18,13 @@
   }
 }
 
-section.gallery {
+section.gallery-gap {
+  padding: 1em;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+}
+
+section.gallery-nogap {
   padding: 0;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));

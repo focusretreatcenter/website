@@ -5,7 +5,7 @@ p {
   margin-bottom: 0.6em;
 }
 
-section.grid {
+section.grid, header.grid {
   @include centered-column;
   img {
     margin-bottom: $pad;

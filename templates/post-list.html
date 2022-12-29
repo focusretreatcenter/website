@@ -1,12 +1,6 @@
-{% extends "layout.html" %} {% block main %} {{ super() }}
-<section class="grid">
-  <img
-    class="logo-inline"
-    src="/images/frc-logo-inline-color-500.png"
-    alt="Focus Retreat Center Logo"
-  />
-</section>
-
+{% extends "1-column.html" -%}
+{% block header -%} {{ super() }} {% endblock -%}
+{% block main -%} {{ super() }}
 <section class="blog-post-list">
   <h1>
     Blog

@@ -1,4 +1,4 @@
-<div>
+<section class="gallery-gap">
 {% for asset in page.assets | sort -%}
   {%- if asset is matching("[.](jpg|png)$") -%}
     {% set image = resize_image(path=asset, width=800, height=800, op="fit") %}
@@ -10,4 +10,4 @@
     </figure>
     {%- endif %}
 {%- endfor %}
-</div>
+</section>

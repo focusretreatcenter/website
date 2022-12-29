@@ -1,5 +1,7 @@
-{% extends "layout.html" -%} {% block title -%} {{ config.extra.company_name }}
-{% endblock title -%} {% block main -%} {{ super() }}
+{% extends "layout.html" -%}
+{# Intentionally no header block on the home page #}
+
+{% block main -%} {{ super() }}
 
 <section class="grid hero">
   <img src="/images/frc-logo@2x.png" alt="{{ config.extra.company_name }}" />
@@ -248,7 +250,7 @@
   </div>
 </section>
 
-<section class="gallery">
+<section class="gallery-nogap">
   <img
     src="photos/retreats-2022/inktober-certificates.jpg"
     alt="Guests celebrating completing the InkTober illustration challenge"
