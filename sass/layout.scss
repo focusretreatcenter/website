@@ -5,14 +5,14 @@ p {
   margin-bottom: 0.6em;
 }
 
-section.grid, header.grid {
+section.centered-column, header.centered-column {
   @include centered-column;
   img {
     margin-bottom: $pad;
   }
 }
 
-footer.grid {
+footer.centered-column {
   @include centered-column;
 }
 

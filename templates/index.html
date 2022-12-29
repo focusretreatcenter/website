@@ -1,14 +1,13 @@
 {% extends "layout.html" -%}
-{# Intentionally no header block on the home page #}
-
+{# Intentionally no header block super() on the home page #}
+{% block header -%}{% endblock -%}
 {% block main -%} {{ super() }}
-
-<section class="grid hero">
+<section class="centered-column hero">
   <img src="/images/frc-logo@2x.png" alt="{{ config.extra.company_name }}" />
   <h2>Inspire. Create. Collaborate.</h2>
 </section>
 
-<section class="grid bg-dark-blue callout-text" id="intro">
+<section class="centered-column bg-dark-blue callout-text" id="intro">
   <h3>
     Creativity flourishes at Focus Retreat Center. With support and inspiration
     from your retreat peers you'll do your most meaningful work. Find the relief
@@ -23,7 +22,7 @@
   <h4>Located in Malone, NY just north of Adirondack Park.</h4>
 </section>
 
-<section class="grid imagine">
+<section class="centered-column imagine">
   <h2>Imagine how much you can achieve</h2>
 
   <p>
@@ -53,7 +52,7 @@
   />
 </section>
 
-<section class="grid bg-img-forest">
+<section class="centered-column bg-img-forest">
   <h2>The Retreat Experience</h2>
 
   <p>
@@ -76,7 +75,7 @@
   </p>
 </section>
 
-<section class="grid">
+<section class="centered-column">
   <blockquote>
     "It's been so amazing and I feel so happy because it's not just I got the
     goal done, but you were all supporting me. I've been doing InkTober since at
@@ -84,7 +83,7 @@
   </blockquote>
 </section>
 
-<section class="grid bg-img-hills" id="program">
+<section class="centered-column bg-img-hills" id="program">
   <h2 id="program">2023 Retreat Programs</h2>
   <ul class="programs">
     <li><a href="/2023/programming/">Programming Retreats for 2023</a></li>
@@ -108,14 +107,14 @@
   </p>
 </section>
 
-<section class="grid callout-text bg-light-blue">
+<section class="centered-column callout-text bg-light-blue">
   <h3>
     Get away from your daily grind, and accelerate your project or learning to
     the next level.
   </h3>
 </section>
 
-<section class="grid values bg-honey">
+<section class="centered-column values bg-honey">
   <h2>Our Values and Retreats</h2>
 
   FRC's mission is to foster our core values of sabattical, deep work, and
@@ -134,7 +133,7 @@
   />
 </section>
 
-<section class="grid">
+<section class="centered-column">
   <blockquote>
     "I learned a lot from everybody. A little thing here, a little thing there.
     I'll never forget any of you guys or any of this experience. It's so
@@ -142,7 +141,7 @@
   </blockquote>
 </section>
 
-<section class="hosts grid bg-dark-blue" id="hosts">
+<section class="hosts centered-column bg-dark-blue" id="hosts">
   <div>
     <img
       class="hosts"
@@ -224,7 +223,7 @@
   </div>
 </section>
 
-<section class="grid about-our-center bg-img-hills" id="center">
+<section class="centered-column about-our-center bg-img-hills" id="center">
   <div>
     <img
       src="/images/frc-building-side.jpg"
@@ -289,9 +288,9 @@
   />
 </section>
 
-<section class="grid bg-honey">{% include "mailchimp.html" %}</section>
+<section class="centered-column bg-honey">{% include "mailchimp.html" %}</section>
 
-<section class="grid bg-light-blue">
+<section class="centered-column bg-light-blue">
   <h2>More Info</h2>
   <a class="phone" href="tel:+15183108879">518-310-8879</a>
   <a
@@ -301,7 +300,7 @@
   >
 </section>
 
-<section class="grid bg-dark-blue" id="signin">
+<section class="centered-column bg-dark-blue" id="signin">
   <h2>Need to...?</h2>
   <ul>
     <li>Make a payment</li>
