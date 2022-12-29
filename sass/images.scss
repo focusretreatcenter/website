@@ -51,7 +51,7 @@ section.photo-galleries {
     margin-bottom: 2rem; // override
     @include blue-border;
     &:hover {
-      opacity: 60%;
+      opacity: 80%;
     }
 
     figcaption {
