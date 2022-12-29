@@ -20,7 +20,13 @@
 
 section.gallery-gap {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+  // For mobile first, aim for single column and decently wide photos
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  // Once screen will fit 2 side by side at decent size,
+  // let photos get bigger
+  @media (min-width: 900px) {
+    grid-template-columns: repeat(auto-fill, minmax(425px, 1fr));
+  }
   figure {
     margin: 0.4rem;
     margin-bottom: 2rem;
