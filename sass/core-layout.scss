@@ -14,8 +14,8 @@ $pad: 1em;
     padding-left: $pad;
   }
 
-
-  p, blockquote {
+  p,
+  blockquote {
     // This only applies for tiny paragraphs that don't even
     // fill their first line. They look a bit weird, so
     // left align them.
@@ -52,4 +52,8 @@ img,
 video,
 svg {
   max-width: 100%;
+}
+
+hr {
+  width: 100%;
 }

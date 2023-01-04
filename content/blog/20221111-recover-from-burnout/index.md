@@ -23,7 +23,22 @@ Louie Bacaj expressed this in a tweet recently:
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">There is no better feeling than being able to:<br><br>– work on what you want to work on<br>– chase what you want to chase<br>– write what you want to write<br>– build what you want to build<br><br>I’m thankful that the majority of my time this year was spent that way.</p>&mdash; Louie Bacaj (@LBacaj) <a href="https://twitter.com/LBacaj/status/1595488098426798092?ref_src=twsrc%5Etfw">November 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Here's a tweet with some companies hiring now.
+ThePrimeagen on Youtube posted this fantastic short video. The script is completely aligned with [our values here at FRC](/values).
+
+* "Side projects can prevent and even cure burnout"
+* The importance of intrinsic motivation. Following your own excitement and curiosity. "Do it because you want to do it".
+* The power of sabbatical
+* Skill building by cranking out projects
+* "Find that joy again"
+* "It's 2023 - take the time. Invest in your creativity. Invest in passion. Invest in desire."
+
+We love to see this more reflective content on a youtube channel that's normally very technical stuff about vim and coding.
+
+{{ youtube(id="nMHxdz-N7EU") }}
+
+<hr/>
+
+In the tweet below, Gergely Oroz links to companies that are hiring now.
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">BREAKING: companies are hiring software engineers and engineering managers.<br><br>More than 750 of them! Thanks to everyone who contributed to this list. See the full one here:<a href="https://t.co/4cHeharzeH">https://t.co/4cHeharzeH</a><br><br>(Using the &#39;breaking&#39; part to highlight some good news for a change!) <a href="https://t.co/3pc0LPdPHx">pic.twitter.com/3pc0LPdPHx</a></p>&mdash; Gergely Orosz (@GergelyOrosz) <a href="https://twitter.com/GergelyOrosz/status/1593536296965865473?ref_src=twsrc%5Etfw">November 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
