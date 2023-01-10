@@ -1,7 +1,5 @@
-{% extends "layout.html" -%}
-{# Intentionally no header block super() on the home page #}
-{% block header -%}{% endblock -%}
-{% block main -%} {{ super() }}
+{% extends "layout.html" -%} {# Intentionally no header block super() on the
+home page #} {% block header -%}{% endblock -%} {% block main -%} {{ super() }}
 <section class="centered-column hero">
   <img src="/images/frc-logo@2x.png" alt="{{ config.extra.company_name }}" />
   <h2>Inspire. Create. Collaborate.</h2>
@@ -38,13 +36,9 @@
   </p>
 
   <p>
-    We provide room, board, a curated environment, carefully screened peers, and
-    light-touch facilitation. Guests get a level of depth of focus that is
-    exceedingly rare in modern life's hustle and bustle. The retreat center
-    offers a reprieve from the appointments, obligations, chores, routines and
-    distractions of everyday life. We provide a space tailored for personal
-    development and a right-sized group of peers to enrich and support each
-    other’s experiences and develop life-long friendships.
+    Here you can flourish in your most creative, most effective, most productive
+    form. You'll build lifelong friendships and connections to a network of
+    interesting and creative people.
   </p>
   <img
     src="/images/frc-building-front-20220504.jpg"
@@ -288,7 +282,9 @@
   />
 </section>
 
-<section class="centered-column bg-honey">{% include "mailchimp.html" %}</section>
+<section class="centered-column bg-honey">
+  {% include "mailchimp.html" %}
+</section>
 
 <section class="centered-column bg-light-blue">
   <h2>More Info</h2>
