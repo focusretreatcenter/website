@@ -4,7 +4,7 @@ title = "Tech Zines Retreat"
 
 ## What is it?
 
-This is a retreat for authors working on zines, cartoons, videos, animations, and other **creative documentation of technical subject matter**. It's a week to gather in person, learn from each other, and let fun collaborations and cross-pollinations bloom.
+This is a retreat for authors working on zines, cartoons, infographics, videos, animations, and other **creative documentation of technical subject matter**. It's a week to gather in person, learn from each other, and let fun collaborations and cross-pollinations bloom.
 
 ## Why should I participate?
 
