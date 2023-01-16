@@ -93,7 +93,7 @@ Details of each retreat will vary, but we lean toward self-directed activities. 
 
 ## Hiking and Nature
 
-We are located just at the northern edge of Adirondack Park. It's the largest system of hiking trails in the nation with over 2000 miles of trail. There are thousands upon thousands of lakes, rivers, and streams among 6 million acres of forest land. It is very large and very beautiful. Retreat guests are encouraged to explore and to self-organize and carpool for excursions into the park. The nearby towns of Lake Placid, Saranac Lake, and Tupper Lake all have interesting things to see and do as well.
+We are located just at the northern edge of Adirondack Park. It's the largest system of hiking trails in the nation with over 2000 miles of trail. There are thousands upon thousands of lakes, rivers, and streams among 6 million acres of forest land. It is very large (bigger than the state of New Hampshire) and very beautiful. Retreat guests are encouraged to explore and to self-organize and carpool for excursions into the park. The nearby towns of Lake Placid, Saranac Lake, and Tupper Lake all have interesting things to see and do as well.
 
 {{ photo(src="hiking.jpg" caption="View from Azure Mountain Fire Tower") }}
 
