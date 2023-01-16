@@ -8,7 +8,7 @@ This is a retreat for authors working on zines, cartoons, videos, animations, an
 
 ## Why should I participate?
 
-It's going to be super fun! You'll get to work on your projects, collaborate with brilliant creative people working on similar projects, visit a lovely wilderness area, and enjoy a restorative retreat.
+It's going to be super fun! You'll get to work on your projects, collaborate with brilliant creative people working on similar projects, visit a lovely wilderness area, make new friends, and enjoy a restorative retreat.
 
 ----
 
