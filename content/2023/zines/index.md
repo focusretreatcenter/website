@@ -22,7 +22,7 @@ The best way to understand what we are about, whether it's what you need, and wh
 
 The dates are still to be determined. This retreat is being planned in a phased approach:
 
-* **Phase 1**: Initial Outreach and Interest Gathering
+* ➡**Phase 1**: Initial Outreach and Interest Gathering
   * We are in this phase currently, January 2023
   * An initial set of people have been contacted and are reaching out to their networks for others who might also be interested.
 * **Phase 2**: Refine and Plan
