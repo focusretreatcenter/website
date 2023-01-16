@@ -2,7 +2,7 @@
 title = "The Retreat Recipe"
 +++
 
-The following three ingredients are the core essence of what we combine together to produce the noursishing experience of a Focus Retreat.
+The following ingredients are the core essence of what we combine together to produce the nourishing experience of a Focus Retreat.
 
 ![Stella preparing home made pizzas on pizza night](recipe.jpg)
 
