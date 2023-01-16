@@ -38,3 +38,10 @@ The dates are still to be determined. This retreat is being planned in a phased 
 ## How much does it cost?
 
 Pricing is not yet finalized but we aim to ensure the retreat is financially accessible to as many guests as possible while also being sustainable for FRC to operate. We are generally able to keep our costs for combined food and lodging below what a typical airbnb or hotel stay would cost for lodging alone.
+
+## OK I'm interested. Now what?
+
+* Email **team@focusretreatcenter.com** to let us know you are possibly interested
+  * There is no commitment associated with this. OK if you are just curious.
+* We'll send you an invite to slack where there's a channel about this retreat
+* You'll work with the group to refine the retreat experience and plans
