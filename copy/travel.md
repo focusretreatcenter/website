@@ -14,7 +14,7 @@ Malone, NY 12953-1603
 
 ### Car
 
-Malone, NY is drive-able in a day  or less from NYC, Philadelphia, Boston, Montréal, or Toronto. If you plan to drive a private car just let us know. We have private off-street parking available for a limited number of guests. If you are willing to offer carpool rides to other guests, that's fantastic. Let us know and we can help coordinate.
+Malone, NY is reachable by car in a day or less from NYC, Philadelphia, Boston, Montréal, or Toronto. If you plan to drive a private car just let us know. We have private off-street parking available for a limited number of guests. If you are willing to offer carpool rides to other guests, that's fantastic. Let us know and we can help coordinate.
 
 ### Bus
 
