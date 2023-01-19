@@ -36,6 +36,8 @@ The best way to understand what we are about, whether it's what you need, and wh
 1. [The Retreat Recipe](/recipe)
 1. [What to Expect](/what-to-expect)
 
+![One of Chelsea's abstract paintings](painting1.png)
+
 ## What are the dates?
 
 We are planning for a 1-week retreat April 2023, but exact dates are not yet finalized. This retreat is being planned in a phased approach. We will gauge interest with email first, then a small refundable deposit, then proceeding with full ticket sales.
