@@ -1,32 +1,19 @@
 +++
-title = "Technical Debt: An Analytical Approach"
+title = "Technical Education Summit"
 +++
 
 ## What is it?
 
-This retreat will be lead in person by Chelsea Troy, and focus on developing skills around
+This retreat is a gathering of technical educators and trainers looking to expand their skills and refine their offerings. This retreat will be facilitated in person by Chelsea Troy.
 
-* Reducing Technical Debt
-* Code Stewardship
+Chelsea is a powerhouse educator. She works as a Staff Engineer at Mozilla,teaches mobile development at the University of Chicago, runs workshops on topics including debugging, reducing technical debt, and analyzing risk, writes prolifically with over 400 blog posts written, and speaks at tech conferences.
 
-Chart a course for your team out of tech debt chaos! Learn to measure tech debt, prioritize the areas of highest need, and identify high leverage code changes. Then, build skills that you and your tech team can use to **prevent and reduce tech debt**.
-
-
-You will develop a more complete and nuanced understanding of technical debt through its full lifecycle. You will practice code stewardship skills including:
-
-
-* Writing Discoverable Code
-* Writing Flexible Code
-* Documenting Code
-* Context Transfer
-
-Chelsea is a powerhouse educator and her approach teaches enduring technical skills that are based on principles and not tied to langues or versions.
 
 ![Chelsea Troy headshot](chelsea.webp)
 
 ## Why should I participate?
 
-It's going to be super fun! You'll get to learn in an immersive setting - to engage deeply with the material without rushing. Chelsea will be here providing detailed guidance through all the workshops and exercises. You'll develop skills that will make your job more enjoyable by fixing the unpleasant parts of the systems you work in. You'll meet other engineers who are motivated to leave their projects better than they found them. You'll visit a lovely wilderness area, make new friends, and enjoy a restorative retreat.
+It's going to be super fun! You'll get to learn in an immersive setting - to improve your materials and presentation without rushing. You'll meet other trainers who are motivated to do truly outstanding work. You'll visit a lovely wilderness area, make new friends, and enjoy a restorative retreat.
 
 ## What should I expect at Focus Retreat Center?
 
