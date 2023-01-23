@@ -1,20 +1,19 @@
 +++
-title = "Tech Zines Retreat"
+title = "Technical Education Summit"
 +++
 
 ## What is it?
 
-This is a retreat for authors working on zines, cartoons, infographics, videos, animations, and other **creative documentation of technical subject matter**. It's a week to gather in person, learn from each other, and let fun collaborations and cross-pollinations bloom.
+This retreat is a gathering of technical educators and trainers looking to expand their skills and refine their offerings. This retreat will be facilitated in person by Chelsea Troy.
+
+Chelsea is a powerhouse educator. She works as a Staff Engineer at Mozilla,teaches mobile development at the University of Chicago, runs workshops on topics including debugging, reducing technical debt, and analyzing risk, writes prolifically with over 400 blog posts written, and speaks at tech conferences.
+
+
+![Chelsea Troy headshot](chelsea.webp)
 
 ## Why should I participate?
 
-It's going to be super fun! You'll get to work on your projects, collaborate with brilliant creative people working on similar projects, visit a lovely wilderness area, make new friends, and enjoy a restorative retreat.
-
-----
-
-![Take on hard projects](take-on-hard-projects.png)
-
-Web comic by [Julia Evans, @b0rk](https://wizardzines.com/comics/take-on-hard-projects/), used with permission.
+It's going to be super fun! You'll get to learn in an immersive setting - to improve your materials and presentation without rushing. You'll meet other trainers who are motivated to do truly outstanding work. You'll visit a lovely wilderness area, make new friends, and enjoy a restorative retreat.
 
 ## What should I expect at Focus Retreat Center?
 
@@ -24,21 +23,25 @@ The best way to understand what we are about, whether it's what you need, and wh
 1. [The Retreat Recipe](/recipe)
 1. [What to Expect](/what-to-expect)
 
+![One of Chelsea's abstract paintings](painting1.png)
 ## What are the dates?
 
-The dates are still to be determined. This retreat is being planned in a phased approach, with people first and dates last:
+We are planning for a 1-week retreat April 2023, but exact dates are not yet finalized. This retreat is being planned in a phased approach. We will gauge interest with email first, then a small refundable deposit, then proceeding with full ticket sales.
 
 * ➡**Phase 1**: Initial Outreach and Interest Gathering
   * We are in this phase currently, January 2023
-  * An initial set of people have been contacted and are reaching out to their networks for others who might also be interested.
-* **Phase 2**: Refine and Plan
+  * Chelsea and FRC will promote the retreat, answer questions, and gather feedback
+  * As the number of interested people crosses a threshold, we'll move to Phase 2
+  * Folks can indicate interest with an email and there's no commitment associated with this.
+* **Phase 2**: Reservations
   * Once we have a critical mass of interested people, we can…
-    * Refine the details of the retreat itself. This is **your** retreat.
-    * Do the calendar calculus spreadsheet to find the most workable date
-  * This will happen mostly over slack and email
+    * Finalize the proposed dates
+    * Start accepting reservations. This will be in the form of a refundable deposit.
+    * The retreat is still tentative in this phase. Deposits will be fully refunded if the retreat does not happen. Do not book travel yet in this phase.
 * **Phase 3**: Book the retreat
-  * Confirm final dates, book FRC for this event
-  * Purchase tickets
+  * As sufficient ticket reservation deposits are made, the retreat will be formally booked.
+  * Reservations will be able to be confirmed to full event tickets by paying the remaining ticket price balance.
+  * General ticket sales will open for any seats still available.
   * Book travel. [Details on travel to FRC are here.](/travel)
 
 ## How much does it cost?
@@ -73,7 +76,7 @@ Put your email address below and we'll mark you down as interested in this retre
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
 	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
 </div>
-<div hidden="true"><input type="hidden" name="tags" value="12505738"></div>
+<div hidden="true"><input type="hidden" name="tags" value="12505746"></div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>

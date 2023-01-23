@@ -1,20 +1,32 @@
 +++
-title = "Tech Zines Retreat"
+title = "Technical Debt: An Analytical Approach"
 +++
 
 ## What is it?
 
-This is a retreat for authors working on zines, cartoons, infographics, videos, animations, and other **creative documentation of technical subject matter**. It's a week to gather in person, learn from each other, and let fun collaborations and cross-pollinations bloom.
+This retreat will be lead in person by Chelsea Troy, and focus on developing skills around
+
+* Reducing Technical Debt
+* Code Stewardship
+
+Chart a course for your team out of tech debt chaos! Learn to measure tech debt, prioritize the areas of highest need, and identify high leverage code changes. Then, build skills that you and your tech team can use to **prevent and reduce tech debt**.
+
+
+You will develop a more complete and nuanced understanding of technical debt through its full lifecycle. You will practice code stewardship skills including:
+
+
+* Writing Discoverable Code
+* Writing Flexible Code
+* Documenting Code
+* Context Transfer
+
+Chelsea is a powerhouse educator and her approach teaches enduring technical skills that are based on principles and not tied to langues or versions.
+
+![Chelsea Troy headshot](chelsea.webp)
 
 ## Why should I participate?
 
-It's going to be super fun! You'll get to work on your projects, collaborate with brilliant creative people working on similar projects, visit a lovely wilderness area, make new friends, and enjoy a restorative retreat.
-
-----
-
-![Take on hard projects](take-on-hard-projects.png)
-
-Web comic by [Julia Evans, @b0rk](https://wizardzines.com/comics/take-on-hard-projects/), used with permission.
+It's going to be super fun! You'll get to learn in an immersive setting - to engage deeply with the material without rushing. Chelsea will be here providing detailed guidance through all the workshops and exercises. You'll develop skills that will make your job more enjoyable by fixing the unpleasant parts of the systems you work in. You'll meet other engineers who are motivated to leave their projects better than they found them. You'll visit a lovely wilderness area, make new friends, and enjoy a restorative retreat.
 
 ## What should I expect at Focus Retreat Center?
 
@@ -24,21 +36,26 @@ The best way to understand what we are about, whether it's what you need, and wh
 1. [The Retreat Recipe](/recipe)
 1. [What to Expect](/what-to-expect)
 
+![One of Chelsea's abstract paintings](painting1.png)
+
 ## What are the dates?
 
-The dates are still to be determined. This retreat is being planned in a phased approach, with people first and dates last:
+We are planning for a 1-week retreat April 2023, but exact dates are not yet finalized. This retreat is being planned in a phased approach. We will gauge interest with email first, then a small refundable deposit, then proceeding with full ticket sales.
 
 * ➡**Phase 1**: Initial Outreach and Interest Gathering
   * We are in this phase currently, January 2023
-  * An initial set of people have been contacted and are reaching out to their networks for others who might also be interested.
-* **Phase 2**: Refine and Plan
+  * Chelsea and FRC will promote the retreat, answer questions, and gather feedback
+  * As the number of interested people crosses a threshold, we'll move to Phase 2
+  * Folks can indicate interest with an email and there's no commitment associated with this.
+* **Phase 2**: Reservations
   * Once we have a critical mass of interested people, we can…
-    * Refine the details of the retreat itself. This is **your** retreat.
-    * Do the calendar calculus spreadsheet to find the most workable date
-  * This will happen mostly over slack and email
+    * Finalize the proposed dates
+    * Start accepting reservations. This will be in the form of a refundable deposit.
+    * The retreat is still tentative in this phase. Deposits will be fully refunded if the retreat does not happen. Do not book travel yet in this phase.
 * **Phase 3**: Book the retreat
-  * Confirm final dates, book FRC for this event
-  * Purchase tickets
+  * As sufficient ticket reservation deposits are made, the retreat will be formally booked.
+  * Reservations will be able to be confirmed to full event tickets by paying the remaining ticket price balance.
+  * General ticket sales will open for any seats still available.
   * Book travel. [Details on travel to FRC are here.](/travel)
 
 ## How much does it cost?
@@ -73,7 +90,7 @@ Put your email address below and we'll mark you down as interested in this retre
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
 	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
 </div>
-<div hidden="true"><input type="hidden" name="tags" value="12505738"></div>
+<div hidden="true"><input type="hidden" name="tags" value="12505742"></div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
@@ -87,4 +104,3 @@ Put your email address below and we'll mark you down as interested in this retre
 <!--End mc_embed_signup-->
 
 **OR** send an email **team@focusretreatcenter.com** to let us know you are possibly interested.
-
