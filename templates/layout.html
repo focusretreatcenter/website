@@ -119,25 +119,26 @@
         {{ page.date | date(format="%B %e, %Y", timezone="America/New_York") }}
       </div>
       <hr />
-      {% endif -%}
-      {% endif -%}
+      {% endif -%} {% endif -%}
     </header>
     {% endblock -%}
 
     <main>
-      {% block main -%}
-       {%if section.content is defined -%} {{ section.content | safe }}{% endif -%}
-       {%if page.content is defined -%} {{ page.content | safe }}{% endif -%}
-      {% endblock -%}
+      {% block main -%} {%if section.content is defined -%} {{ section.content |
+      safe }}{% endif -%} {%if page.content is defined -%} {{ page.content |
+      safe }}{% endif -%} {% endblock -%}
     </main>
 
     <footer class="centered-column bg-light-blue">
       {% block footer -%}
-      <img
-        class="logo-inline"
-        src="/images/frc-logo-inline-color-500.png"
-        alt="Focus Retreat Center Logo"
-      />
+      <a href="/"
+        ><img
+          class="logo-inline"
+          src="/images/frc-logo-inline-color-500.png"
+          alt="Focus Retreat Center Logo"
+        />
+      </a>
+
       <nav>{% include "partials/nav.html" -%}</nav>
       {% endblock -%}
     </footer>
