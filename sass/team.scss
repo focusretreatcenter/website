@@ -9,11 +9,16 @@
     color: $brand-charcoal-grey;
     line-height: 80%;
   }
+
   &.pete img, &.percy img {
     @include float(left);
   }
 
   &.stella img {
     @include float(right);
+  }
+
+  .pronouns {
+    font-size: 50%;
   }
 }

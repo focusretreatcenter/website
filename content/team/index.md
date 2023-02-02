@@ -3,7 +3,7 @@ title = "Our Team"
 +++
 
 <section class="team-member pete">
-      <h2>Peter Lyons</h2>
+      <h2>Peter Lyons <span class="pronouns">(he/him)</span></h2>
       <h3>President</h3>
     <img
       src="/team/pl-hex-01-crop.jpg"
@@ -21,7 +21,7 @@ title = "Our Team"
   </section>
 
   <section class="team-member stella">
-      <h2>Christella Kay</h2>
+      <h2>Christella Kay <span class="pronouns">(she/her)</span></h2>
       <h3>Director of Operations</h3>
     <img
       src="/team/ck-hex-01-crop.jpg"
