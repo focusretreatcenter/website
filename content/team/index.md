@@ -38,30 +38,3 @@ title = "Our Team"
         vibe’ to the facility.
       </p>
   </section>
-
-  <section class="team-member percy">
-      <h2>Perçin İmrek</h2>
-      <h3>Director of Marketing</h3>
-    <img
-      class="four columns"
-      src="/team/percin.jpg"
-      alt="Perçin İmrek"
-    />
-      <p>
-        Perçin İmrek is a 35 year old entrepreneur, public speaker, traveller,
-        author, TEDX speaker and an English tutor. Publishing 8 books on
-        Entrepreneurship, His Travel Memoirs, Learning English, Crowdfunding and
-        Public Speaking, Perçin has his own soft skills training company called
-        ''Bosphorus Story House'', delivering global trainings and seminars with
-        a team of 20 people. He has delivered more than 400 trainings and
-        seminars in his professional career, mainly focusing on the topics of
-        entrepreneurship, public speaking, english teaching and traveling.
-      </p>
-      <p>
-        Having been to 80+ countries, his dream is to work globally, while
-        contributing to making the world a better place. Perçin speaks Turkish,
-        English, French, German and Spanish, meanwhile learning Chinese, Italian
-        and Russian this year. He is a massive travel enthusiast, a karaoke
-        singer and a big fan of video games.
-      </p>
-  </section>
