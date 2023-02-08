@@ -29,3 +29,6 @@ I am genuinely excited to host next summer's events with generous authority!
 
 > Generous Authority is not a pose. It’s not the appearance of power.  It is using power to achieve outcomes that are generous, that are for others.  The authority is justified by the generosity. --Priya Parker
 
+This post is first in a series on The Art of Gathering.
+
+* [Don't Be a Chill Host](/blog/dont-be-a-chill-host/)

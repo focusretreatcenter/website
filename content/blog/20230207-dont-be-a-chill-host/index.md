@@ -34,3 +34,5 @@ Guest-to-guest connections rarely happen all on their own.  It is the job of the
 The idea of trading in my old, comfortable ‘chill’ attitude and adopting the use of Generous Authority is daunting!  This change lies near the core of my personal identity, it forces me to look at my attitudes in a different way and will challenge me greatly.  I don’t expect that I will get it perfectly right every time, but having these goals in mind should help me in making these new ideas become second nature.
 
 > YOU ARE THE BOSS.  Hosting is not democratic, just like design isn't.  Structure helps good parties, like restrictions help good design. --Priya Parker
+
+This post belongs to a [series of posts about The Art of Gathering](/blog/the-art-of-gathering-introduction/).
