@@ -1,12 +1,12 @@
 +++
-title = "Technical Debt: An Analytical Approach"
+title = "Tackling Technical Debt: An Analytical Approach"
 +++
 
 ## What is it?
 
 This retreat will be lead in person by Chelsea Troy, and focus on developing skills around
 
-* Reducing Technical Debt
+* Tackling Technical Debt
 * Code Stewardship
 
 Chart a course for your team out of tech debt chaos! Learn to measure tech debt, prioritize the areas of highest need, and identify high leverage code changes. Then, build skills that you and your tech team can use to **prevent and reduce tech debt**.
