@@ -8,7 +8,7 @@ author = "Christella Kay"
 
 # Impact of this book
 
-> Having a purpose simply means knowing why you’re gathering and doing your participants the honor of being convened for a reason. And once you have that purpose in mind, you will suddenly find it easier to make all the decisions that a gathering requires. ―Priya Parker
+> Having a purpose simply means knowing why you’re gathering and doing your participants the honor of being convened for a reason. And once you have that purpose in mind, you will suddenly find it easier to make all the decisions that a gathering requires. &mdash;Priya Parker
 
 I read a book last fall that has had a significant impact on my identity as a host at the Focus Retreat Center. The book is called “The Art of Gathering: How We Meet and Why it Matters” by Priya Parker. The author’s perspective and thoughts on what it means to host meaningful, intentional gatherings has followed me on my winter travels - causing me to refine in my mind my role at FRC.
 
@@ -27,7 +27,7 @@ I will be writing a series of blog posts on the subjects covered in this book, t
 
 I am genuinely excited to host next summer's events with generous authority!
 
-> Generous Authority is not a pose. It’s not the appearance of power. It is using power to achieve outcomes that are generous, that are for others. The authority is justified by the generosity. ―Priya Parker
+> Generous Authority is not a pose. It’s not the appearance of power. It is using power to achieve outcomes that are generous, that are for others. The authority is justified by the generosity. &mdash;Priya Parker
 
 ## More in this Series
 

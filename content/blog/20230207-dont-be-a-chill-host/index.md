@@ -6,7 +6,7 @@ date = 2023-02-07
 author = "Christella Kay"
 +++
 
-> ‘Chill’ is selfishness disguised as kindness. ―Priya Parker
+> ‘Chill’ is selfishness disguised as kindness. &mdash;Priya Parker
 
 The chapter titled, “Don’t Be A Chill Host” in Priya Parkers book “The Art of Gathering: How We Meet and Why it Matters”, spoke to me in such a specific and personal way that I actually felt bad for the guests I had assembled at past gatherings, sigh. I was definitely guilty of being a ‘Chill Host’.
 
@@ -33,6 +33,6 @@ Guest-to-guest connections rarely happen all on their own. It is the job of the 
 
 The idea of trading in my old, comfortable ‘chill’ attitude and adopting the use of Generous Authority is daunting! This change lies near the core of my personal identity, it forces me to look at my attitudes in a different way and will challenge me greatly. I don’t expect that I will get it perfectly right every time, but having these goals in mind should help me in making these new ideas become second nature.
 
-> YOU ARE THE BOSS. Hosting is not democratic, just like design isn't. Structure helps good parties, like restrictions help good design. ―Priya Parker
+> YOU ARE THE BOSS. Hosting is not democratic, just like design isn't. Structure helps good parties, like restrictions help good design. &mdash;Priya Parker
 
 This post belongs to a [series of posts about The Art of Gathering](/blog/the-art-of-gathering-introduction/#more-in-this-series).
