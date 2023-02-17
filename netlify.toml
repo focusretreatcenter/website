@@ -102,3 +102,9 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
   to = "https://focusretreatcenter.com"
   status = 301
   force = true
+
+[[redirects]]
+  from = "*"
+  to = "/404/index.html"
+  status = 404
+  force = false
