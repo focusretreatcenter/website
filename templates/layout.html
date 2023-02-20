@@ -2,18 +2,16 @@
 <html lang="en">
   <head>
     {% block meta -%}
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta
       name="description"
-      content="{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions."
-    />
+      content="{{ config.extra.company_name }} is a space for personal growth, surrounded by supportive peers, free from distractions.">
     <meta
       name="keywords"
-      content="retreats programming adirondacks coding illustration drawing writing immersive malone ny"
-    />
-    <meta name="msapplication-TileColor" content="#da532c" />
-    <meta name="theme-color" content="#ffffff" />
+      content="retreats programming adirondacks coding illustration drawing writing immersive malone ny">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
 
     {% endblock meta -%} {# Formatting is weird here to avoid leading/trailing
     whitespace within tags #}
@@ -23,18 +21,17 @@
     {% if section.title is defined and section.title -%}{% set title = section.title ~ "|" ~ config.extra.company_name %}{%- endif -%}
     <title>{% block title -%}{{ title }}{% endblock title -%}</title>
     {% include "partials/google-fonts.html" %}
-    <link rel="stylesheet" href="/screen.css" />
+    <link rel="stylesheet" href="/screen.css">
     <link
       rel="preload"
       as="image"
-      href="images/FocusRetreat-topimage-1600.jpg"
-    />
-    <link rel="preload" as="image" href="images/frc-logo@2x.png" />
+      href="images/FocusRetreat-topimage-1600.jpg">
+    <link rel="preload" as="image" href="images/frc-logo@2x.png">
     <!-- Favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
 
     {% include "partials/mailchimp-head.html" %}
     <script>
@@ -44,31 +41,28 @@
     {% block opengraph -%}
 
     <!-- Twitter -->
-    <meta name="twitter:site" content="@focusretreats" />
-    <meta name="twitter:creator" content="@focusretreats" />
-    <meta name="twitter:card" content="summary_image_large" />
+    <meta name="twitter:site" content="@focusretreats">
+    <meta name="twitter:creator" content="@focusretreats">
+    <meta name="twitter:card" content="summary_image_large">
     {# Formatting is weird here to avoid leading/trailing whitespace within tags
     #}
-    <meta name="twitter:title" content="{{ title }}" />
+    <meta name="twitter:title" content="{{ title }}">
     <meta
       name="twitter:description"
-      content="{{ config.extra.company_name }} runs retreats for coding, illustration, writing, learning new skills, and working groups.}}"
-    />
-    <meta name="twitter:image" content="/images/frc-logo.jpg" />
-    <meta name="twitter:site" content="@focusretreats" />
+      content="{{ config.extra.company_name }} runs retreats for coding, illustration, writing, learning new skills, and working groups.}}">
+    <meta name="twitter:image" content="/images/frc-logo.jpg">
+    <meta name="twitter:site" content="@focusretreats">
 
     <!-- Facebook -->
-    <meta property="og:url" content="https://focusretreatcenter.com" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:url" content="https://focusretreatcenter.com">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ title }}">
     <meta
       property="og:description"
-      content="{{ config.extra.company_name }} runs retreats for coding, illustration, writing, learning new skills, and working groups.}}"
-    />
+      content="{{ config.extra.company_name }} runs retreats for coding, illustration, writing, learning new skills, and working groups.}}">
     <meta
       property="og:image"
-      content="{{ config.base_url| safe }}/images/frc-logo.jpg"
-    />
+      content="{{ config.base_url| safe }}/images/frc-logo.jpg">
     {% endblock opengraph -%}
   </head>
   <body>
@@ -83,8 +77,7 @@
         <img
           class="logo-inline"
           src="/images/frc-logo-inline-color-500.png"
-          alt="Focus Retreat Center Logo"
-        />
+          alt="Focus Retreat Center Logo">
       </a>
       {% if page is defined %}
       <h1>{{ page.title }}</h1>
@@ -96,7 +89,7 @@
       <div class="post-date">
         {{ page.date | date(format="%B %e, %Y", timezone="America/New_York") }}
       </div>
-      <hr />
+      <hr>
       {% endif -%} {% endif -%}
     </header>
     {% endblock -%}
@@ -113,8 +106,7 @@
         ><img
           class="logo-inline"
           src="/images/frc-logo-inline-color-500.png"
-          alt="Focus Retreat Center Logo"
-        />
+          alt="Focus Retreat Center Logo">
       </a>
 
       <nav>{% include "partials/nav.html" -%}</nav>
