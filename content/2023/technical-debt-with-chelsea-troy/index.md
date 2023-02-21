@@ -11,18 +11,17 @@ This retreat will be lead in person by Chelsea Troy, and focus on developing ski
 
 Chart a course for your team out of tech debt chaos! Learn to measure tech debt, prioritize the areas of highest need, and identify high leverage code changes. Then, build skills that you and your tech team can use to **prevent and reduce tech debt**.
 
-
 You will develop a more complete and nuanced understanding of technical debt through its full lifecycle. You will practice code stewardship skills including:
 
+- Writing Discoverable Code
+- Writing Flexible Code
+- Documenting Code
+- Context Transfer
 
-* Writing Discoverable Code
-* Writing Flexible Code
-* Documenting Code
-* Context Transfer
+Chelsea is a powerhouse educator and her approach teaches enduring technical skills that are based on principles and not tied to languages or versions.
 
-Chelsea is a powerhouse educator and her approach teaches enduring technical skills that are based on principles and not tied to langues or versions.
+{{ youtube(id="f-C_uEg_sGI") }}
 
-![Chelsea Troy headshot](chelsea.webp)
 
 ## Why should I participate?
 
@@ -40,37 +39,56 @@ The best way to understand what we are about, whether it's what you need, and wh
 
 ## What are the dates?
 
-We are planning for a 1-week retreat April 2023, but exact dates are not yet finalized. This retreat is being planned in a phased approach. We will gauge interest with email first, then a small refundable deposit, then proceeding with full ticket sales.
+**May 8 to 14, 2023**
 
-* ➡**Phase 1**: Initial Outreach and Interest Gathering
-  * We are in this phase currently, January 2023
-  * Chelsea and FRC will promote the retreat, answer questions, and gather feedback
-  * As the number of interested people crosses a threshold, we'll move to Phase 2
-  * Folks can indicate interest with an email and there's no commitment associated with this.
-* **Phase 2**: Reservations
-  * Once we have a critical mass of interested people, we can…
-    * Finalize the proposed dates
-    * Start accepting reservations. This will be in the form of a refundable deposit.
-    * The retreat is still tentative in this phase. Deposits will be fully refunded if the retreat does not happen. Do not book travel yet in this phase.
-* **Phase 3**: Book the retreat
-  * As sufficient ticket reservation deposits are made, the retreat will be formally booked.
-  * Reservations will be able to be confirmed to full event tickets by paying the remaining ticket price balance.
-  * General ticket sales will open for any seats still available.
-  * Book travel. [Details on travel to FRC are here.](/travel)
+- Monday May 8
+  - Travel & arrival
+  - Check-in between 3:00 PM and 5:30 PM if logistically feasible
+- Workshop and course material Tuesday through Friday
+- Saturday is dedicated to unscheduled socializing and outdoor recreation
+- Check-out Sunday May 14 by 11:00 AM
+
+## Phased Planning and Quorum
+
+This retreat is being planned in a phased approach. We will gauge interest with email first, then a small refundable deposit, then proceeding with full ticket sales.
+
+- ✓ **Phase 1**: Initial Outreach and Interest Gathering
+  - Chelsea and FRC will promote the retreat, answer questions, and gather feedback
+  - Folks can indicate interest with an email and there's no commitment associated with this.
+  - This phase was completed January/February 2023
+- ➡**Phase 2**: Reservations
+  - We are in this phase currently, February 2023
+  - We are accepting refundable deposits to establish a quorum of participants.
+    - The retreat is still tentative in this phase. Deposits will be fully refunded if the retreat does not happen. Do not book travel yet in this phase.
+- **Phase 3**: Book the retreat
+  - As sufficient ticket reservation deposits are made, the retreat will be formally booked.
+  - Reservations will be able to be confirmed to full event tickets by paying the remaining ticket price balance.
+  - General ticket sales will open for any seats still available.
+  - Book travel. [Details on travel to FRC are here.](/travel)
 
 ## How much does it cost?
 
-Pricing is not yet finalized but we aim to ensure the retreat is financially accessible to as many guests as possible while also being sustainable for FRC to operate. We are generally able to keep our costs for combined food and lodging below what a typical hotel or airbnb stay would cost for lodging alone. If your employer will count the retreat as Professional Development and cover costs or count it as a work trip to save your PTO, that's great!
+Retreat tickets are $3600 per person. That price includes all of the following:
 
+- Lodging in a private bedroom at Focus Retreat Center
+- All meals, snacks, coffee, & tea
+- Tackling Technical Debt workshop led in-person by Chelsea Troy
+- Code Stewardship workshops led by Chelsea
+
+We accept payment via installments so you can make 6 smaller monthly payments.
+
+Keep your eye on Chelsea's email list and patreon for special deals exclusive to supporters and subscribers.
+
+If your employer will count the retreat as Professional Development and cover costs or count it as a work trip to save your PTO, that's great!
+
+![Chelsea Troy headshot](chelsea.webp)
 
 ## OK I'm interested. Now what?
 
 Put your email address below and we'll mark you down as interested in this retreat.
 
-* There is no commitment associated with this. OK if you are just curious.
-* We'll send you an invite to slack where there's a channel about this retreat
-* You'll work with the group to refine the retreat experience and plans
-* We'll announce as the event progresses to the next phase
+- There is no commitment associated with this. OK if you are just curious.
+- We'll announce as the event progresses to the next phase
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
