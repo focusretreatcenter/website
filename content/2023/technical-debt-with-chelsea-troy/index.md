@@ -2,7 +2,7 @@
 title = "Tackling Technical Debt: An Analytical Approach"
 description = "Chart a course for your team out of tech debt chaos!"
 [extra]
-image = "chelsea.webp"
+image = "chelsea.jpg"
 +++
 
 ## What is it?
@@ -25,7 +25,7 @@ You will develop a more complete and nuanced understanding of technical debt thr
 
 Chelsea is a powerhouse educator and her approach teaches enduring technical skills that are based on principles and not tied to langues or versions.
 
-![Chelsea Troy headshot](chelsea.webp)
+![Chelsea Troy headshot](chelsea.jpg)
 
 ## Why should I participate?
 
