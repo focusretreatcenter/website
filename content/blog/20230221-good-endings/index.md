@@ -4,6 +4,7 @@ slug = "/good-endings"
 date = 2023-02-21
 [extra]
 author = "Christella Kay"
+image = "path.jpg"
 +++
 
 > The first step to closing a gathering well is less practical than it is spiritual or metaphysical: Your must, before anything, accept that there is an end. You must accept your gathering’s mortality. &mdash;Priya Parker

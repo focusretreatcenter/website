@@ -1,5 +1,8 @@
 +++
 title = "Tackling Technical Debt: An Analytical Approach"
+description = "Chart a course for your team out of tech debt chaos!"
+[extra]
+image = "chelsea.webp"
 +++
 
 ## What is it?

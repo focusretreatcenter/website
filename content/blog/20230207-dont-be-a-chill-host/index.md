@@ -4,6 +4,7 @@ slug = "/dont-be-a-chill-host"
 date = 2023-02-07
 [extra]
 author = "Christella Kay"
+image = "hammock.png"
 +++
 
 > ‘Chill’ is selfishness disguised as kindness. &mdash;Priya Parker

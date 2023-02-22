@@ -1,9 +1,11 @@
 +++
 title = "The Art of Gathering: Introduction"
+description = "Series of posts on key takeaways from the book The Art of Gathering"
 slug = "/the-art-of-gathering-introduction"
 date = 2023-02-01
 [extra]
 author = "Christella Kay"
+image = "taog-book-cover.jpg"
 +++
 
 # Impact of this book
