@@ -2,6 +2,7 @@
 title = "Startup Incubation Retreat"
 slug = "/startup-incubation-retreat"
 date = 2022-11-18
+description = "Could your startup use a boost out of the gate by working together on a retreat?"
 [extra]
 author = "Pete Lyons"
 +++

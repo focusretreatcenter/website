@@ -1,5 +1,6 @@
 +++
 title = "Code of Conduct"
+description = "How we expect all FRC guests to behave and treat each other"
 +++
 
 Focus Retreat Center (FRC) is a space for participants to explore and learn, and that cannot happen if we don’t ensure our environment is free from harassment, where people show respect and courtesy to each other.

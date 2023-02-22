@@ -1,5 +1,6 @@
 +++
 title = "Inktober Challenge Retreat"
+description = "A retreat specificlly for artists tackling the InkTober challenge"
 +++
 
 ![InkTober 2022 Logo](/2022/inktober/inktober-2022.png)

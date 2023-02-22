@@ -2,6 +2,7 @@
 title = "InkTober Congratulations"
 slug = "/inktober-congratulations"
 date = 2022-10-31
+description = "Congratulations to all of our illustrators on great work during the InkTober challenge"
 [extra]
 author = "Pete Lyons"
 +++

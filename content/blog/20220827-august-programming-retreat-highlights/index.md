@@ -2,6 +2,7 @@
 title = "August Programming Retreat Highlights"
 slug = "/august-programming-retreat-highlights"
 date = 2022-08-27
+description = "Some of our favorite moments from the August 2022 Programming Retreat"
 [extra]
 author = "Pete Lyons"
 +++

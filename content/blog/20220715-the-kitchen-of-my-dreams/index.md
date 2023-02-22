@@ -1,6 +1,7 @@
 +++
 title = "The Kitchen of My Dreams"
 date = 2022-07-15T13:55:11Z
+description = "Stella's thoughts on cooking without being a mean jerk"
 [extra]
 author = "Christella Kay"
 +++

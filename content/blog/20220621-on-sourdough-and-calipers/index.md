@@ -2,6 +2,7 @@
 title = "On Sourdough and Calipers"
 slug = "/on-sourdough-and-calipers"
 date = 2022-06-21T18:06:16Z
+description = "Two ways to approach problems"
 [extra]
 author = "Stella Kay"
 +++

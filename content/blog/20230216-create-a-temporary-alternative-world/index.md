@@ -2,6 +2,7 @@
 title = "Create a Temporary Alternative World"
 slug = "/create-a-temporary-alternative-world"
 date = 2023-02-16
+description = "How we try to create a feeling of being in an alternate world while on retreat"
 [extra]
 author = "Christella Kay"
 image = "library.jpg"

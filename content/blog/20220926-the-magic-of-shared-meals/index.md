@@ -2,6 +2,7 @@
 title = "The Magic of Shared Meals"
 slug = "/the-magic-of-shared-meals"
 date = 2022-09-26
+description = "Why group meals are a foundational part of the FRC retreat experience"
 [extra]
 author = "Pete Lyons"
 +++

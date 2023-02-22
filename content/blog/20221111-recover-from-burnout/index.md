@@ -2,6 +2,7 @@
 title = "Recover from Burnout"
 slug = "/recover-from-burnout"
 date = 2022-11-11
+description = "Thoughts on burnout and layoffs for tech workers"
 [extra]
 author = "Pete Lyons"
 +++

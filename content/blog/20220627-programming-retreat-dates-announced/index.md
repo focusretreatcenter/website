@@ -2,6 +2,7 @@
 title = "Programming Retreat Dates Announced"
 slug = "/programming-retreat-dates-announced"
 date = 2022-06-27T14:20:30Z
+description = "Dates announced for our immersive project/learning retreat for coders"
 [extra]
 author = "Pete Lyons"
 +++

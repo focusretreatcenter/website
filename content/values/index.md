@@ -1,5 +1,6 @@
 +++
 title = "Our Values"
+description = "These are the core values that drive what we offer at FRC"
 +++
 
 # Retreat as Sabbatical

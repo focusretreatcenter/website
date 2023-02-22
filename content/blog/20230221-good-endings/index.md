@@ -2,6 +2,7 @@
 title = "Good Endings"
 slug = "/good-endings"
 date = 2023-02-21
+description = "The importance of curating how an retreat comes to a close"
 [extra]
 author = "Christella Kay"
 image = "path.jpg"

@@ -2,6 +2,7 @@
 title = "Residency Program"
 slug = "/residency-program"
 date = 2022-06-16T19:30:40Z
+description = "FRC's 2022 Residency Program"
 [extra]
 author = "Pete Lyons"
 +++

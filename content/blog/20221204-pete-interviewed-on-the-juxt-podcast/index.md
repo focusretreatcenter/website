@@ -2,6 +2,7 @@
 title = "Pete Interviewed on the JUXT Podcast"
 slug = "/pete-interviewed-on-the-juxt-podcast"
 date = 2022-12-04
+description = "A podcast interview where Pete talks about FRC and the kinds of work people do while on retreat"
 [extra]
 author = "Pete Lyons"
 +++

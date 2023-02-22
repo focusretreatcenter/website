@@ -2,6 +2,7 @@
 title = "Five Books: Rhonda Rosenheck's Writing Residency"
 slug = "/five-books-rhonda-rosenhecks-writing-residency"
 date = 2023-01-09
+description = "Rhonda tells us about her big undertaking translating the Five Books of Moses"
 [extra]
 author = "Pete Lyons & Rhonda Rosenheck"
 +++

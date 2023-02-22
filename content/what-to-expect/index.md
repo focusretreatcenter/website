@@ -1,5 +1,6 @@
 +++
 title = "What to Expect on Retreat"
+description = "Exactly what you will experience as a guest at FRC, so you can plan and pack properly"
 +++
 
 This page outlines the essential details of our facilities and daily life on retreat. Prior to their arrival, retreat guests are also sent the FRC Handbook which has even more detail. Email us at team@focusretreatcenter.com if you have any questions!
