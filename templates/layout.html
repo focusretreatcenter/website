@@ -41,7 +41,7 @@
     {% if section.description is defined and section.description -%}{% set description = section.description %}{%- endif -%}
 
     {# fallback default image #}
-    {% set image = "/images/frc-logo.jpg" %}
+    {% set image = "/images/frc-logo-inline-color-white-bg-500.png" %}
     {% if page.extra.image is defined and page.extra.image -%}{% set image = page.path ~ page.extra.image %}{%- endif -%}
     {% if section.extra.image is defined and section.extra.image -%}{% set image = section.slug ~ section.extra.image %}{%- endif -%}
     <!-- Twitter -->
