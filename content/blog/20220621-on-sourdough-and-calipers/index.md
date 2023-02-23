@@ -5,6 +5,7 @@ date = 2022-06-21T18:06:16Z
 description = "Two ways to approach problems"
 [extra]
 author = "Stella Kay"
+image = "baking-loaf-board.jpg"
 +++
 
 Pete and Stella often describe themselves as *Calipers* and *Curves*.  They have very different approaches to problems and projects. But they have discovered that by combining these two points of view they often come up with unique and interesting solutions. These solutions tend to be something that neither of them would be capable of on their own.  

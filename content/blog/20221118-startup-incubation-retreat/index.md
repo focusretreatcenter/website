@@ -5,6 +5,7 @@ date = 2022-11-18
 description = "Could your startup use a boost out of the gate by working together on a retreat?"
 [extra]
 author = "Pete Lyons"
+image = "fire.jpg"
 +++
 
 In our last post we talked about the large layoffs we've seen this year from big tech companies and how that might catalyse personal change. In this post we want to talk about how this effects the scene for brand new small startups. There could be as many as 100,000 tech workers who unexpectedly and suddenly lost their jobs. We wish each of you success in responding to that, whether it's finding another job, taking some time off, changing course to do something else, or perhaps gathering a few friends and starting a new company.
