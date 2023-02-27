@@ -1,5 +1,6 @@
 +++
 title = "2023 Programming Retreats"
+description = "Immersive project/learning retreats for software developers of all levels"
 +++
 
 <img alt="Nat's habit puzzle app" src="puzzle-habits.jpg" />

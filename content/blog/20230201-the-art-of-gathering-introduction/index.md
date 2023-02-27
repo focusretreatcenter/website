@@ -1,9 +1,11 @@
 +++
 title = "The Art of Gathering: Introduction"
+description = "Series of posts on key takeaways from the book The Art of Gathering"
 slug = "/the-art-of-gathering-introduction"
 date = 2023-02-01
 [extra]
 author = "Christella Kay"
+image = "taog-book-cover.jpg"
 +++
 
 # Impact of this book
@@ -35,3 +37,5 @@ This post is first in a series on The Art of Gathering.
 
 * [Don't Be a Chill Host](/blog/dont-be-a-chill-host/)
 * [Create a Temporary Alternative World](/blog/create-a-temporary-alternative-world/)
+* [Good Endings](/blog/good-endings/)
+* [How Lessons from TAoG Will Impact FRC](/blog/gathering-at-frc/)

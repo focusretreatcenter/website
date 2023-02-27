@@ -1,5 +1,6 @@
 +++
 title = "Inktober 2023 Retreat"
+description = "A retreat for artists tackling the InkTober illustration challenge"
 +++
 
 <img alt="Chloe of Longstride Illustrations working diligently at her desk" src="chloe-desk.jpg" />

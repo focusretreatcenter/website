@@ -2,8 +2,10 @@
 title = "Create a Temporary Alternative World"
 slug = "/create-a-temporary-alternative-world"
 date = 2023-02-16
+description = "How we try to create a feeling of being in an alternate world while on retreat"
 [extra]
 author = "Christella Kay"
+image = "library.jpg"
 +++
 
 > A gathering's blandness is a symptom of a disease. We must treat the disease. And what is the disease? That the gathering makes no effort to do what the best gatherings do: transport us to a temporary alternative world. &mdash;Priya Parker

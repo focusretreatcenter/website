@@ -2,8 +2,10 @@
 title = "Pete Interviewed on the JUXT Podcast"
 slug = "/pete-interviewed-on-the-juxt-podcast"
 date = 2022-12-04
+description = "A podcast interview where Pete talks about FRC and the kinds of work people do while on retreat"
 [extra]
 author = "Pete Lyons"
+image = "juxtcast.jpg"
 +++
 
 In September, Pete attended the [Strange Loop](https://thestrangeloop.com/) Tech Conference held in St. Louis. One of the sponsoring tech companies, [JUXT](https://www.juxt.pro/) had a booth and conducted a series of short interviews/chats with attendees for their podcast, the JUXT Cast. JUXT is a consultancy bringing great people and innovative technologies together. They do a lot of clojure, have a super cool bitemporal database product called XTBD, and have been longtime participants and sponsors with Strange Loop.

@@ -2,8 +2,10 @@
 title = "Recover from Burnout"
 slug = "/recover-from-burnout"
 date = 2022-11-11
+description = "Thoughts on burnout and layoffs for tech workers"
 [extra]
 author = "Pete Lyons"
+image = "coffee-mug-on-park-bench.jpg"
 +++
 
 There has been a series of large layoffs in tech recently: Meta, Twitter, Stripe, Lyft, Shopify, NetFlix, Snap, and many others. There are also larger trends and a confluence of challenging and stressful circumstances that have contributed to burnout and have also peaked in the past few years:

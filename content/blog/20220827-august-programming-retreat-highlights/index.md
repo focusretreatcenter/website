@@ -2,8 +2,10 @@
 title = "August Programming Retreat Highlights"
 slug = "/august-programming-retreat-highlights"
 date = 2022-08-27
+description = "Some of our favorite moments from the August 2022 Programming Retreat"
 [extra]
 author = "Pete Lyons"
+image = "puzzle-habits.jpg"
 +++
 
 In August we had generative artists, game developers, VR developers, data scientists, and programmers here working on their projects. This retreat was 3 weeks during the peak of the summer season.

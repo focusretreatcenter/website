@@ -2,6 +2,7 @@
 title = "I Get Distracted Too Easily. This Is How I Focus."
 slug = "/i-get-distracted-too-easily-this-is-how-i-focus"
 date = 2022-05-08T14:59:04Z
+description = "How Perçin has stayed focused and written 7 books"
 [extra]
 author = "Perçin İmrek"
 +++

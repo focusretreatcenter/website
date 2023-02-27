@@ -1,5 +1,8 @@
 +++
 title = "Technical Education Summit"
+description = "A gathering of technical educators and trainers looking to expand their skills and refine their offerings"
+[extra]
+image = "chelsea.jpg"
 +++
 
 ## What is it?
@@ -9,7 +12,7 @@ This retreat is a gathering of technical educators and trainers looking to expan
 Chelsea is a powerhouse educator. She works as a Staff Engineer at Mozilla,teaches mobile development at the University of Chicago, runs workshops on topics including debugging, reducing technical debt, and analyzing risk, writes prolifically with over 400 blog posts written, and speaks at tech conferences.
 
 
-![Chelsea Troy headshot](chelsea.webp)
+![Chelsea Troy headshot](chelsea.jpg)
 
 ## Why should I participate?
 

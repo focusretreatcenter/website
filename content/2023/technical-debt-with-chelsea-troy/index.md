@@ -1,5 +1,8 @@
 +++
 title = "Tackling Technical Debt: An Analytical Approach"
+description = "Chart a course for your team out of tech debt chaos!"
+[extra]
+image = "chelsea.jpg"
 +++
 
 ## Leveraging Legacy Code on Teams
@@ -24,6 +27,8 @@ You'll develop a **more complete and nuanced understanding of software maintenan
 You’ll also walk away with new techniques and activities to apply with your software teams to help them collaborate on the challenges of maintaining large, high-impact code bases.
 
 Chelsea is a powerhouse educator and her approach teaches enduring technical skills that are based on principles and not tied to languages or versions.
+
+![Chelsea Troy headshot](chelsea.jpg)
 
 ## Why should I participate?
 
@@ -82,8 +87,6 @@ We accept payment via installments so you can make **6 smaller monthly payments*
 Keep your eye on Chelsea's email list and patreon for special deals exclusive to supporters and subscribers.
 
 If your employer will count the retreat as Professional Development and cover costs or count it as a work trip to save your PTO, that's great!
-
-![Chelsea Troy headshot](chelsea.webp)
 
 ## OK I'm interested. Now what?
 

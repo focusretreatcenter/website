@@ -1,5 +1,6 @@
 +++
 title = "The Retreat Recipe"
+description = "FRC's recipe for a powerful retreat experience"
 +++
 
 The following ingredients are the core essence of what we combine together to produce the nourishing experience of a Focus Retreat.

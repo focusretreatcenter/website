@@ -1,5 +1,8 @@
 +++
 title = "Tech Zines Retreat"
+description = "A retreat for authors working on zines, cartoons, infographics, videos, animations, and other creative documentation of technical subject matter"
+[extra]
+image = "take-on-hard-projects.png"
 +++
 
 ## What is it?

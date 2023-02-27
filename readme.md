@@ -4,7 +4,6 @@
 
 This is a static website generated with the [zola](https://getzola.org) static site generator. We use zola primarily because Pete likes the rust programming language and it has a nice template inheritance system and nice features like shortcodes, image processing, hot reloading, good documentation. It is definitely a more niche tool and there are many more popular alternatives we could use.
 
-
 * HTML is plain but marked up with the [tera template language](https://tera.netlify.app).  
 * CSS uses the [SASS/SCSS](https://sass-lang.com) preprocessor with SCSS syntax for nesting
 * Content is primarily [markdown](https://www.markdownguide.org/)
@@ -22,6 +21,10 @@ This is a static website generated with the [zola](https://getzola.org) static s
 **bin/** has some basic scripts for deploying and running in development.
 
 **static/** has assorted other files and images that get copied into the website root directory.
+
+## Blog Post Guidelines
+
+Try to have at least on image in each blog post. The image file can go in the blog post's directory. Reference the image file name in the markdown frontmatter under `[extra]` as `image = "photo.jpg"`.
 
 ## Code Formatting
 

@@ -45,8 +45,10 @@ cat <<EOF >"${dest_path}"
 title = "$@"
 slug = "/${name}"
 date = ${publish_date}
+description = ""
 [extra]
 author = "Pete Lyons"
+image = ""
 +++
 EOF
 "${EDITOR}" "${dest_path}"

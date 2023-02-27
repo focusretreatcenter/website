@@ -1,5 +1,6 @@
 +++
 title = "Programming Retreat"
+description = "An immersive project/learning retreat for software developers, game developers, and creative coders"
 +++
 
 This is an immersive project/learning retreat for software developers, game developers, creative coders, generative artists. You will spend your time on retreat working on a specific project or learning a particular subject. You will be surrounded by a community of supportive peers doing similar work.

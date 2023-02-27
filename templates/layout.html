@@ -13,8 +13,7 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
-    {% endblock meta -%} {# Formatting is weird here to avoid leading/trailing
-    whitespace within tags #}
+    {% endblock meta -%}
     {# fallback default #}
     {% set title = config.extra.company_name %}
     {% if page.title is defined and page.title -%}{% set title = page.title ~ "|" ~ config.extra.company_name %}{%- endif -%}
@@ -22,11 +21,8 @@
     <title>{% block title -%}{{ title }}{% endblock title -%}</title>
     {% include "partials/google-fonts.html" %}
     <link rel="stylesheet" href="/screen.css">
-    <link
-      rel="preload"
-      as="image"
-      href="images/FocusRetreat-topimage-1600.jpg">
-    <link rel="preload" as="image" href="images/frc-logo@2x.png">
+    <link rel="preload" as="image" href="/images/FocusRetreat-topimage-1600.jpg">
+    <link rel="preload" as="image" href="/images/frc-logo@2x.png">
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -39,30 +35,30 @@
       {% endblock scripts -%}
     </script>
     {% block opengraph -%}
+    {# fallback default description #}
+    {% set description = config.extra.company_name ~ " runs retreats for coding, illustration, writing, learning new skills, and working groups." %}
+    {% if page.description is defined and page.description -%}{% set description = page.description %}{%- endif -%}
+    {% if section.description is defined and section.description -%}{% set description = section.description %}{%- endif -%}
 
+    {# fallback default image #}
+    {% set image = "/images/FocusRetreat-cover-1200.jpg" %}
+    {% if page.extra.image is defined and page.extra.image -%}{% set image = page.path ~ page.extra.image %}{%- endif -%}
+    {% if section.extra.image is defined and section.extra.image -%}{% set image = section.slug ~ section.extra.image %}{%- endif -%}
     <!-- Twitter -->
     <meta name="twitter:site" content="@focusretreats">
     <meta name="twitter:creator" content="@focusretreats">
-    <meta name="twitter:card" content="summary_image_large">
-    {# Formatting is weird here to avoid leading/trailing whitespace within tags
-    #}
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ title }}">
-    <meta
-      name="twitter:description"
-      content="{{ config.extra.company_name }} runs retreats for coding, illustration, writing, learning new skills, and working groups.}}">
-    <meta name="twitter:image" content="/images/frc-logo.jpg">
+    <meta name="twitter:description" content="{{description}}">
+    <meta name="twitter:image" content="{{image|safe}}">
     <meta name="twitter:site" content="@focusretreats">
 
     <!-- Facebook -->
     <meta property="og:url" content="https://focusretreatcenter.com">
     <meta property="og:type" content="website">
     <meta property="og:title" content="{{ title }}">
-    <meta
-      property="og:description"
-      content="{{ config.extra.company_name }} runs retreats for coding, illustration, writing, learning new skills, and working groups.}}">
-    <meta
-      property="og:image"
-      content="{{ config.base_url| safe }}/images/frc-logo.jpg">
+    <meta property="og:description" content="{{description}}">
+    <meta property="og:image" content="{{image|safe}}">
     {% endblock opengraph -%}
   </head>
   <body>

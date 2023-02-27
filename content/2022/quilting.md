@@ -1,5 +1,6 @@
 +++
 title = "Quilting Retreat"
+description = "A private retreat event for quilters"
 +++
 
 This is a private quilting retreat.

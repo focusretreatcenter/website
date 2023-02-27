@@ -1,5 +1,6 @@
 +++
 title = "Photo Galleries"
+description = "Photos from FRC Retreats"
 +++
 
 <section class="photo-galleries">

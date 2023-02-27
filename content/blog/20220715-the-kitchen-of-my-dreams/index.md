@@ -1,8 +1,10 @@
 +++
 title = "The Kitchen of My Dreams"
 date = 2022-07-15T13:55:11Z
+description = "Stella's thoughts on cooking without being a mean jerk"
 [extra]
 author = "Christella Kay"
+image = "kitchen.jpg"
 +++
 
 I have always loved food.  When I was a kid in the 4H club, the cooking lessons were my favorite.  My first jobs were in food service, and as a teenager I loved the chaos of restaurant kitchens.  As an adult, I taught my kids to cook and to enjoy a wide variety of food and styles of eating.  I guess I am one of those people that lives to eat, rather than eats to live!

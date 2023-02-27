@@ -2,6 +2,7 @@
 title = "Origin Story: The Short Version"
 slug = "/origin-story-the-short-version"
 date = 2022-05-07T15:07:31Z
+description = "How Focus Retreat Center got our start"
 [extra]
 author = "Pete Lyons"
 +++

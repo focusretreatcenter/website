@@ -2,8 +2,10 @@
 title = "The Magic of Shared Meals"
 slug = "/the-magic-of-shared-meals"
 date = 2022-09-26
+description = "Why group meals are a foundational part of the FRC retreat experience"
 [extra]
 author = "Pete Lyons"
+image = "table2.jpg"
 +++
 
 Shared meals are where the community building magic happens at FRC. Meals are such a great time to get to know people, share stories, and enjoy each others' company. Meals foster a sense of abundance, a sense of being cared for, a sense of belonging. There's no substitute. This is one of the key reasons Focus Retreat Center is not a 9-5 coworking setup. A live-in experience elevates the potential of friends and colleagues to have access to cultural experiences that are too often reserved for family and close friends. Every relationship enriches one's life, and deepening one doesn't diminish another, so we gather together every evening to enjoy a delicious meal prepared on site with fresh local ingredients.

@@ -2,6 +2,7 @@
 title = "5 Steps To Work Without Distractions"
 slug = "/5-steps-to-work-without-distractions"
 date = 2022-05-08T15:07:00Z
+description = "Tips for working without distractions"
 [extra]
 author = "Perçin İmrek"
 +++
