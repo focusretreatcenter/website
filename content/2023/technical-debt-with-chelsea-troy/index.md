@@ -2,26 +2,28 @@
 title = "Tackling Technical Debt: An Analytical Approach"
 +++
 
-## What is it?
+## Leveraging Legacy Code on Teams
 
-This retreat will be lead in person by Chelsea Troy, and focus on developing skills around
+{{ youtube(id="f-C_uEg_sGI") }}
 
-* Tackling Technical Debt
-* Code Stewardship
+If everybody in engineering experiences the frustrations of dereliction in legacy code, why do we keep creating that dereliction? And how can we address it more productively on software teams?
 
-Chart a course for your team out of tech debt chaos! Learn to measure tech debt, prioritize the areas of highest need, and identify high leverage code changes. Then, build skills that you and your tech team can use to **prevent and reduce tech debt**.
+Usually the problem isn't the engineers lacking skill: it's no system for managing the tech debt and maintenance challenges of the code base. In this retreat, we'll explore a system for doing that by **working on an app of our very own.**
 
-You will develop a more complete and nuanced understanding of technical debt through its full lifecycle. You will practice code stewardship skills including:
+We'll begin by discussing our maintenance load, noting the misconceptions that allow that load to KEEP accruing even as we try to get rid of it. Then, we'll talk about how to quantify, visualize, and model our maintenance load for prioritization.
+
+We'll **explore an app together**, treating the app as our "legacy" code base with past decisions, a current backlog, and relevance to future product plans. We'll put together some priorities for tech debt reduction and decide how to address them. Finally, we'll make some changes and practice socializing them so the broader team loses as little context on the code base as possible.
+
+You'll develop a **more complete and nuanced understanding of software maintenance**, and you’ll come away with new skills in code stewardship like:
 
 - Writing Discoverable Code
 - Writing Flexible Code
 - Documenting Code
 - Context Transfer
 
+You’ll also walk away with new techniques and activities to apply with your software teams to help them collaborate on the challenges of maintaining large, high-impact code bases.
+
 Chelsea is a powerhouse educator and her approach teaches enduring technical skills that are based on principles and not tied to languages or versions.
-
-{{ youtube(id="f-C_uEg_sGI") }}
-
 
 ## Why should I participate?
 
@@ -57,7 +59,7 @@ This retreat is being planned in a phased approach. We will gauge interest with 
   - Folks can indicate interest with an email and there's no commitment associated with this.
   - This phase was completed January/February 2023
 - ➡**Phase 2**: Reservations
-  - We are in this phase currently, February 2023
+  - We are in this phase currently, March 2023
   - We are accepting refundable deposits to establish a quorum of participants.
     - The retreat is still tentative in this phase. Deposits will be fully refunded if the retreat does not happen. Do not book travel yet in this phase.
 - **Phase 3**: Book the retreat
@@ -75,7 +77,7 @@ Retreat tickets are $3600 per person. That price includes all of the following:
 - Tackling Technical Debt workshop led in-person by Chelsea Troy
 - Code Stewardship workshops led by Chelsea
 
-We accept payment via installments so you can make 6 smaller monthly payments.
+We accept payment via installments so you can make **6 smaller monthly payments**.
 
 Keep your eye on Chelsea's email list and patreon for special deals exclusive to supporters and subscribers.
 
