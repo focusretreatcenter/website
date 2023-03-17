@@ -29,64 +29,32 @@ The best way to understand what we are about, whether it's what you need, and wh
 
 ## What are the dates?
 
-The dates are still to be determined. This retreat is being planned in a phased approach, with people first and dates last:
+Saturday July 8 to Saturday July 15. This retreat is being planned in a phased approach.
 
-* ➡**Phase 1**: Initial Outreach and Interest Gathering
-  * We are in this phase currently, January 2023
-  * An initial set of people have been contacted and are reaching out to their networks for others who might also be interested.
-* **Phase 2**: Refine and Plan
-  * Once we have a critical mass of interested people, we can…
-    * Refine the details of the retreat itself. This is **your** retreat.
-    * Do the calendar calculus spreadsheet to find the most workable date
-  * This will happen mostly over slack and email
+* ✅**Phase 1**: Initial Outreach and Interest Gathering
+  * This phase completed in March 2023
+  * We have a bunch of people in FRC slack helping to shape this retreat
+* ➡**Phase 2**: Accept reservation deposits
+  * We are in this phase of of March 17, 2023
+  * We need a quorum of 6 reservations to run the retreat
+    * If we meet this quorum, the retreat will be confirmed and full ticket sales will commence.
+    * If we do not meet this quorum, the retreat will not run and deposits will be refunded.
 * **Phase 3**: Book the retreat
-  * Confirm final dates, book FRC for this event
   * Purchase tickets
   * Book travel. [Details on travel to FRC are here.](/travel)
 
 ## How much does it cost?
 
-Pricing is not yet finalized but we aim to ensure the retreat is financially accessible to as many guests as possible while also being sustainable for FRC to operate. We are generally able to keep our costs for combined food and lodging below what a typical hotel or airbnb stay would cost for lodging alone. If your employer will count the retreat as Professional Development and cover costs or count it as a work trip to save your PTO, that's great!
-
+This retreat is **$898** which includes lodging in a private bedroom and all your meals, snacks, and coffee/tea for the week. If your employer will count the retreat as Professional Development and cover costs or count it as a work trip to save your PTO, that's great!
 
 ## OK I'm interested. Now what?
 
-Put your email address below and we'll mark you down as interested in this retreat.
+Reserve your spot with a refundable $100 deposit using the button below. If we meet a quorum of reservations, this deposit will count toward your full ticket price. If we do not meet quorum, the retreat will not run and this deposit will be refunded to you.
 
-* There is no commitment associated with this. OK if you are just curious.
-* We'll send you an invite to slack where there's a channel about this retreat
-* You'll work with the group to refine the retreat experience and plans
-* We'll announce as the event progresses to the next phase
-
-<!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-    <form action="https://focusretreatcenter.us14.list-manage.com/subscribe/post?u=a54483dfc73731ced2ff35a04&amp;id=2f34e99ede&amp;f_id=0021fde0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <div id="mc_embed_signup_scroll">
-        <h2>Interested in this retreat?</h2>
-        <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
-	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+<div class="centered-column">
+<a style="display:inline-block;text-decoration:none;background-color:#0044B4;color:#ffffff;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:22px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:24px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" href="" onclick="window.enrollsy.openWidget({type:'ENROLL',slug:'focus-retreat-center',urlOptions:'%7B%22lId%22:%22cl6w7sr5i3h5m0706s5dv3ln9%22,%22pId%22:%22clfb640gct4kp0846od1qh16h%22%7D'});return false;">Reserve Your Spot</a> <script>!function(n,e){var t,s;n.enrollsy||(n.enrollsy={},n.enrollsy._c=[],["init"].forEach(function(e){n.enrollsy[e]=function(){n.enrollsy._c.push([e,arguments])}}),(t=e.createElement("script")).type="text/javascript",t.async=!0,t.src="https://assets.enrollsy.com/external/widget.js",(s=e.getElementsByTagName("script")[0]).parentNode.insertBefore(t,s))}(window,document),window.setTimeout(function(){window.enrollsy.init()},1e3);</script>
 </div>
-<div hidden="true"><input type="hidden" name="tags" value="12505738"></div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a54483dfc73731ced2ff35a04_2f34e99ede" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Register" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[6]='MMERGE6';ftypes[6]='radio';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-<!--End mc_embed_signup-->
 
-**OR** send an email to **team@focusretreatcenter.com** and mention "Tech Zines" to let us know you are possibly interested.
+# Questions? Need help?
+
+Email **team@focusretreatcenter.com** and we can help.
