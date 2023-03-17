@@ -68,6 +68,10 @@ FRC's main menu is omnivorous and varied, emphasizing fresh seasonal ingredients
 
 FRC has blazing fast (900+Mbps) Internet and WiFi6 access points throughout the property. Wireless internet is reliable and fast in every room of the building. If you prefer wired, there is also wired ethernet in all bedrooms and common rooms as another option. 
 
+## Cell Signal
+
+Most carriers have plenty of celluar service in Malone and the surrounding towns. Once you are within Adirondack Park itself, coverage is gone or spotty at best.
+
 ## Laundry
 
 There is a laundry facility on site with free washing machines, driers, and detergent. Guests may wash their own clothes as needed. Bed linens and bath towels can be exchanged for fresh clean items as needed. We encourage guests to use towels and linens for a week before exchanging for laundry.

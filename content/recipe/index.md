@@ -28,7 +28,7 @@ We think the most valuable thing creative people can do is put their best energy
 
 ## 3. Inspiring Peers
 
-A group of like-minded peers with similar interests creates a fun atmosphere and fosters collaboration, inspiration, and friendship.You'll meet wonderful people and get to know them at the dinner table, on the hiking trail, and around the fire pit. Sharing meals and adventures builds a sense of belonging and community. We hope to form many long-lasting friendships at FRC.
+A group of like-minded peers with similar interests creates a fun atmosphere and fosters collaboration, inspiration, and friendship. You'll meet wonderful people and get to know them at the dinner table, on the hiking trail, and around the fire pit. Sharing meals and adventures builds a sense of belonging and community. We hope to form many long-lasting friendships at FRC.
 
 ![FRC Cohort on the front steps](inktober-cohort.jpg)
 
