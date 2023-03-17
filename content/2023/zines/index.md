@@ -29,7 +29,7 @@ The best way to understand what we are about, whether it's what you need, and wh
 
 ## What are the dates?
 
-Saturday July 8 to Saturday July 15. This retreat is being planned in a phased approach.
+Saturday **July 8, 2023** to Saturday **July 15, 2023**. This retreat is being planned in a phased approach.
 
 * ✅**Phase 1**: Initial Outreach and Interest Gathering
   * This phase completed in March 2023
