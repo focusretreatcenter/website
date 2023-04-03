@@ -38,6 +38,23 @@
   }
 }
 
+.brand-button-flat-blue {
+  display: inline-block;
+  padding: 0.5em;
+  margin-top: 1em;
+  border-radius: 8px;
+  color: white;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 120%;
+  background-color: $brand-dark-blue;
+  border: 4px solid $brand-charcoal-grey;
+  &:hover {
+    background: linear-gradient(to bottom, #925d0d 5%, #dec247 100%);
+    // background-color: #925d0d;
+  }
+}
+
 blockquote {
   background-color: $brand-light-blue;
   font-style: italic;
