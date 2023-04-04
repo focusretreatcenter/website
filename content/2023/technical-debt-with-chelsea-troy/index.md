@@ -88,15 +88,13 @@ Keep your eye on Chelsea's email list and patreon for special deals exclusive to
 
 If your employer will count the retreat as Professional Development and cover costs or count it as a work trip to save your PTO, that's great!
 
-## Any other questions?
-
-
-Send an email to **team@focusretreatcenter.com** and we can get you answers.
-
 ## OK I'm interested. Now what?
 
-Reserve your ticket for a spot on this retreat using the button below. This reservation is refundable if the retreat does not runand your deposit will count toward your full ticket cost when full ticket sales begin.
+Reserve your ticket for a spot on this retreat using the button below. This reservation is refundable if the retreat does not run and your deposit will count toward your full ticket cost when full ticket sales begin.
 
 <div class="centered">
 <a style="display:inline-block;text-decoration:none;background-color:#0044B4;color:#ffffff;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:22px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:24px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" href="" onclick="window.enrollsy.openWidget({type:'ENROLL',slug:'focus-retreat-center'});return false;">Reserve Your Ticket</a> <script>!function(n,e){var t,s;n.enrollsy||(n.enrollsy={},n.enrollsy._c=[],["init"].forEach(function(e){n.enrollsy[e]=function(){n.enrollsy._c.push([e,arguments])}}),(t=e.createElement("script")).type="text/javascript",t.async=!0,t.src="https://assets.enrollsy.com/external/widget.js",(s=e.getElementsByTagName("script")[0]).parentNode.insertBefore(t,s))}(window,document),window.setTimeout(function(){window.enrollsy.init()},1e3);</script>
 </div>
+
+
+{{ questions() }}

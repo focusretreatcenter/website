@@ -56,3 +56,9 @@ blockquote {
   display: grid;
   align-content: center;
 }
+
+a[href^="tel:"] , a[href^="mailto:"] {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
