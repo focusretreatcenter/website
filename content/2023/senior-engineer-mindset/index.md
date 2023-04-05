@@ -69,6 +69,8 @@ This is where you’d expect to read a bunch of testimonials espousing the virtu
 
 > I had no hesitation joining this workshop. It taught me to put more emphasis on selling yourself publicly. Swizec created a comfortable environment for discussions and shared relatable examples that reinforced some of my existing thoughts / practices. The workshop gives a good insight on how to think about development outside of the technical things. &mdash; Greg
 
+> I thought that it was going to be very technical, and I am not yet a senior so I was nervous. But we learned about ownership and impact, how to be a leader, that technical skills matter less than I think and I enjoyed the open forum with great visual examples. The workshop gave me more confidence in my path toward a senior role. It encouraged me to utilize my personal strengths in a way to help the team, lead, and deliver value &mdash; Sydney
+
 After the retreat you will:
 
 - have new mental frameworks to apply in your career
@@ -85,7 +87,8 @@ Pricing includes
 
 - lodging in a private room
 - all inclusive home-cooked meals
-- workshops + life-time access to content
+- workshops
+- lifetime access to digital content
 
 Super early bird (3 tickets) – $4000
 
