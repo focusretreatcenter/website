@@ -29,6 +29,11 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
   status = 302
 
 [[redirects]]
+  from = "https://focusretreatcenter.com/2023/tickets/senior-engineer-mindset"
+  to = "https://app.enrollsy.com/enroll/focus-retreat-center?lId=cl6w7sr5i3h5m0706s5dv3ln9&pId=clg3z4wfcpfwk08902sq84mv5"
+  status = 302
+
+[[redirects]]
   from = "https://focusretreatcenter.com/2022/bar-exam"
   to = "https://focusretreatcenter.com"
   status = 301
