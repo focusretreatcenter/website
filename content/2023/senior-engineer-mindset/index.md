@@ -81,7 +81,9 @@ After the retreat you will:
 - work as a trusted peer with product and your manager
 - have a new cluster of trusted friends and peers for your professional support network
 
-## Pricing
+## Dates & Pricing
+
+The retreat will run: **Saturday August 12, 2023** through **Saturday August 19, 2023**.
 
 Pricing includes
 
