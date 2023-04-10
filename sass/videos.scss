@@ -20,6 +20,13 @@
   }
 }
 
+.youtube-video-container.portrait {
+  iframe {
+    width: 75%;
+    height: 75%;
+  }
+}
+
 // The syntax to nest this with SCSS is pretty confusing,
 // so fall back to unnested CSS
 .youtube-video-container.portrait:after {
