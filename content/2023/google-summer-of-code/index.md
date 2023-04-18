@@ -16,7 +16,7 @@ This is a special intensive retreat for anyone participating in Google Summer of
 
 ## Why should I participate?
 
-It's going to be super **fun!** You'll have quality focus time to work on your GSoC project. You can pair in-person with experienced GSoC mentors. You'll get raid feedback on your work. You will explore a lovely wilderness area, make new friends, strengthen the OSS community, have fun doing outdoor adventures in a gorgeous setting, and enjoy a restorative retreat.
+It's going to be super **fun!** You'll have quality focus time to work on your GSoC project. You can pair in-person with experienced GSoC mentors. You'll get rapid feedback on your work. You will explore a lovely wilderness area, make new friends, strengthen the OSS community, have fun doing outdoor adventures in a gorgeous setting, and enjoy a restorative retreat.
 
 ## What should I expect at Focus Retreat Center?
 
