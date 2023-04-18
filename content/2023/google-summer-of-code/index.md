@@ -13,6 +13,8 @@ This is a special intensive retreat for anyone participating in Google Summer of
 * Mentors
 * Organization Administrators
 * Program Administrators
+* OSS Maintainers and Contributors
+  * (even if you are not directly involved with a GSoC project this year)
 
 ## Why should I participate?
 
