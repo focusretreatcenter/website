@@ -42,7 +42,7 @@ The plan looks like this:
 - late summer
 - upstate New York
 - Senior Mindset workshop
-- Resume polishing workshop
+- Positioning workshop
 - 1-on-1 time with Swiz
 - hardcover copy of Senior Engineer Mindset
 - guest talk from Josh Doody, a salary negotiation coach
