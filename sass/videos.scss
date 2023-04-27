@@ -14,16 +14,37 @@
   iframe {
     position: absolute;
     top: 0;
-    left: 0;
     width: 100%;
     height: 100%;
+    left: calc(
+      (100% - 95%) / 2
+    ); // center this horizontally by half of remaining space
   }
 }
 
 .youtube-video-container.portrait {
   iframe {
-    width: 75%;
-    height: 75%;
+    // on small screens like phones, portrait videos can
+    // fill most of the screen and should fit OK
+    width: 95%;
+    height: 95%;
+    // on larger screen like tablets, reduce size so
+    // the full video height fits on the screen
+    @media (min-width: 700px) {
+      width: 80%;
+      height: 80%;
+      left: calc(
+        (100% - 80%) / 2
+      ); // center this horizontally by half of remaining space
+    }
+    // desktops even smaller so it fits vertically
+    @media (min-width: 1000px) {
+      width: 70%;
+      height: 70%;
+      left: calc(
+        (100% - 70%) / 2
+      ); // center this horizontally by half of remaining space
+    }
   }
 }
 

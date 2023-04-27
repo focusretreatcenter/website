@@ -11,7 +11,7 @@ The following ingredients are the core essence of what we combine together to pr
 
 Personal wellness is a foundational value for both happiness and creativity. While we appreciate the great works of music, art, and literature, we reject the self-destructive lifestyle that is far too common among brilliantly creative people. At FRC, self-care and personal wellness take first priority.
 
-* Eat nutritious food that has been prepared with care from fresh ingredients
+* Eat nutritious food that has been prepared with care from fresh ingredients sourced from local farms
 * Catch up on sleep and learn to recognize your personal sleep needs
 * Unplug and slow down in a sleepy rural town setting
 * De-stress by hiking through forests and mountains
