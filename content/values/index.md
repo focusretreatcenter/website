@@ -40,7 +40,7 @@ We value deep work and believe it should be provided with ample time and focus s
 
 We value systems and habits over specific goals and deliverables. Put in the time and trust the process. The results will appear.
 
-![George working on his InkTober illustrations](george-drawing.jpg)
+![George working on his Inktober illustrations](george-drawing.jpg)
 
 See also writing by [Cal Newport](https://www.goodreads.com/book/show/66354.Flow), [Derek Sivers](https://sive.rs/h), and [Mihaly Csikszentmihalyi](https://www.goodreads.com/book/show/66354.Flow)
 

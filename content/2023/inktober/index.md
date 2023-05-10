@@ -1,18 +1,18 @@
 +++
 title = "Inktober 2023 Retreat"
-description = "A retreat for artists tackling the InkTober illustration challenge"
+description = "A retreat for artists tackling the Inktober illustration challenge"
 +++
 
-We are excited to be running our second year of artist retreats in partnership with InkTober!
+We are excited to be running our second year of artist retreats in partnership with Inktober!
 
 
 {{ youtube(id="Zqxf0b07xYk" orientation="portrait") }}
 
-## What is the InkTober Challenge?
+## What is the Inktober Challenge?
 
-You probably already know about InkTober if you are here, but just in case, InkTober is a daily drawing challenge where thousands of artists are given a single-word prompt and are challenged to complete an illustration each and every day for the entire month of October. It's a chance to be consistently creative, practice artistic skills, learn discipline, and participate in a huge online community event.
+You probably already know about Inktober if you are here, but just in case, Inktober is a daily drawing challenge where thousands of artists are given a single-word prompt and are challenged to complete an illustration each and every day for the entire month of October. It's a chance to be consistently creative, practice artistic skills, learn discipline, and participate in a huge online community event.
 
-> "It's been so amazing and I feel so happy because it's not just I got the goal done, but you were all supporting me. I've been doing InkTober since at least 2016 and I've never gotten 31 drawings done before." &mdash;Denise
+> "It's been so amazing and I feel so happy because it's not just I got the goal done, but you were all supporting me. I've been doing Inktober since at least 2016 and I've never gotten 31 drawings done before." &mdash;Denise
 
 ## What should I expect at Focus Retreat Center?
 
@@ -24,9 +24,9 @@ The best way to understand what we are about, whether it's what you need, and wh
 
 <img alt="Chloe of Longstride Illustrations working diligently at her desk" src="chloe-desk.jpg" />
 
-## What happens during the InkTober Retreat?
+## What happens during the Inktober Retreat?
 
-You hang out with other artists and spend each day working on the InkTober illustration prompt. Your peers help keep you on track, and maybe even inspire you to get ahead of schedule. Last year one guest completed 25 illustrations in a single week! You eat delicious meals freshly prepared from local ingredients. You don't do any chores, cooking, or dishes. It's a time to give yourself a break. To rest. To re-energize.
+You hang out with other artists and spend each day working on the Inktober illustration prompt. Your peers help keep you on track, and maybe even inspire you to get ahead of schedule. Last year one guest completed 25 illustrations in a single week! You eat delicious meals freshly prepared from local ingredients. You don't do any chores, cooking, or dishes. It's a time to give yourself a break. To rest. To re-energize.
 
 > "I needed a rest or I needed something; I needed a reboot and I needed to meet people and I wanted to meet artists, especially people who like ink." &mdash;Chloe
 
@@ -58,7 +58,7 @@ October in northern New York is peak leaf peepin' season and the foliage is gorg
 
 ## Retreat to Grow
 
-Jake Parker's original InkTober challenge in 2009 was something he imposed on himself specifically to improve his pen and ink skills, which were not his strength at the time. Take inspiration from Jake and put in the deliberate practice that will give you new and improved skills that will last forever.
+Jake Parker's original Inktober challenge in 2009 was something he imposed on himself specifically to improve his pen and ink skills, which were not his strength at the time. Take inspiration from Jake and put in the deliberate practice that will give you new and improved skills that will last forever.
 
 > "You've also just taught me so much in terms of not just art technique but almost like life in general." &mdash;Audrey
 
@@ -72,8 +72,8 @@ The cost is **$898** all inclusive for the event. This includes:
 
 * Six nights lodging in a private bedroom
 * All your meals, snacks, coffee and tea
-* Gift bags with awesome supplies and goodies from InkTober sponsors
-* An exclusive masterclass video session with Jake Parker, creator of InkTober
+* Gift bags with awesome supplies and goodies from Inktober sponsors
+* An exclusive masterclass video session with Jake Parker, creator of Inktober
 
 **Payment in installments is available** so you can spread the cost out evenly over 6 affordable monthly payments.
 
