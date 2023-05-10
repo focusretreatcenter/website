@@ -6,6 +6,8 @@ description = "A retreat for artists tackling the InkTober illustration challeng
 We are excited to be running our second year of artist retreats in partnership with InkTober!
 
 
+{{ youtube(id="Zqxf0b07xYk" orientation="portrait") }}
+
 ## What is the InkTober Challenge?
 
 You probably already know about InkTober if you are here, but just in case, InkTober is a daily drawing challenge where thousands of artists are given a single-word prompt and are challenged to complete an illustration each and every day for the entire month of October. It's a chance to be consistently creative, practice artistic skills, learn discipline, and participate in a huge online community event.
