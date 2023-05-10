@@ -28,6 +28,7 @@
     // fill most of the screen and should fit OK
     width: 95%;
     height: 95%;
+    margin-bottom: 0;
     // on larger screen like tablets, reduce size so
     // the full video height fits on the screen
     @media (min-width: 700px) {
