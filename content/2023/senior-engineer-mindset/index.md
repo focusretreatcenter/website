@@ -92,9 +92,9 @@ Pricing includes
 - workshops
 - lifetime access to digital content
 
-Super early bird (3 tickets) – $4000
+Super early bird (3 tickets) – $3000
 
-Early bird (3 tickets) – $4500
+Early bird (3 tickets) – $4000
 
 Regular (7 tickets) – $5000
 
