@@ -86,3 +86,13 @@ If you buy a ticket by May 31, you save $100 off your ticket price with our spec
 </div>
 
 {{ questions() }}
+
+<hr>
+
+# Explore Adirondack Frontier
+
+Inktober at Focus Retreat Center is made possible in part by a grant from the Franklin County Government Office of Economic Development and Tourism. We encourage everyone to explore the many sites and destinations throughout Franklin County!
+
+<div class="centered">
+<a href="https://www.exploreadirondackfrontier.com" target="_blank"><img src="explore-adirondack-frontier.png" alt="Explore Adirondack Frontier Badge"></a>
+</div>
