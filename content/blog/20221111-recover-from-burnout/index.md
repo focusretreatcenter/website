@@ -36,7 +36,7 @@ ThePrimeagen on Youtube posted this fantastic short video. The script is complet
 
 We love to see this more reflective content on a youtube channel that's normally very technical stuff about vim and coding.
 
-{{ youtube(id="nMHxdz-N7EU") }}
+{{ youtube(id="nMHxdz-N7EU" orientation="landscape") }}
 
 <hr/>
 

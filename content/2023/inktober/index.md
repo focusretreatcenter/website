@@ -1,6 +1,7 @@
 +++
 title = "Inktober 2023 Retreat"
 description = "A retreat for artists tackling the Inktober illustration challenge"
+image = "inktober2023.png"
 +++
 
 We are excited to be running our second year of artist retreats in partnership with Inktober!
@@ -10,7 +11,10 @@ We are excited to be running our second year of artist retreats in partnership w
 
 ## What is the Inktober Challenge?
 
+![Inktober 2023 Logo](inktober2023.png)
+
 You probably already know about Inktober if you are here, but just in case, Inktober is a daily drawing challenge where thousands of artists are given a single-word prompt and are challenged to complete an illustration each and every day for the entire month of October. It's a chance to be consistently creative, practice artistic skills, learn discipline, and participate in a huge online community event.
+
 
 > "It's been so amazing and I feel so happy because it's not just I got the goal done, but you were all supporting me. I've been doing Inktober since at least 2016 and I've never gotten 31 drawings done before." &mdash;Denise
 

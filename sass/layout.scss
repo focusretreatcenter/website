@@ -1,6 +1,6 @@
 @import "core-layout";
 
-p {
+p, .video-portrait, .video-landscape {
   margin: 0;
   margin-bottom: 0.6em;
 }
@@ -9,6 +9,10 @@ section.centered-column, header.centered-column {
   @include centered-column;
   img {
     margin-bottom: $pad;
+  }
+
+  > p > img {
+    margin-bottom: 0;
   }
 }
 
