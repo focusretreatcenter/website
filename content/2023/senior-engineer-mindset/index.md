@@ -7,79 +7,76 @@ image = "workshop.jpg"
 
 From the folks behind the international Senior Engineer Mindset workshop and bestselling <a href="https://seniormindset.com" target="_blank">Senior Engineer Mindset book</a> comes the Senior Mindset Retreat &mdash; a week in nature to focus on your career with a small group of peers.
 
-## A week in nature to focus on your career
+A strong career is about more than your hands-on tech skills. After the first few years tech becomes necessary, but not sufficient.
 
-**Picture this:**
+Here's what people care about when you go beyond mid-level engineer:
 
-You’re in a renovated historic mansion. The sun is shining, birds are singing. Nearby there’s a lake.
+*   Do you ship?
+*   Do you flag issues early?
+*   Do you find ways to go fast without hurting quality?
+*   Do you leave a mess?
+*   Can you guide a team?
+*   Does every team you're on "magically" become better?
+*   How well do you work with others?
+*   Do you have ideas?
+*   Do you find and suggest improvements?
+*   Do you dig until the problem is solved or do you give up?
+*   Can you be trusted to make the right call?
+*   Can you be trusted to realize when it's not your call to make?
+*   Are you a good inputter or do you hold back?
+*   Can we let you own a thing and trust you'll make it happen?
+*   Does it feel like you want to be here?
 
-![FRC overhead shot](/images/frc-building-side.jpg)
+_That_'s the job. We all know you can code and ... meh, lots of people can code. What's impressive is when you can deliver! The outcome, not the code. Code is easy.
 
-You walk down to the kitchen where a delicious home-cooked breakfast awaits. Everyone sitting around the table chatting. Relaxed. You’re engineers with plenty to talk about. The energy is palpable. Good vibes.
+## Soft skills limit your career
 
-After breakfast you sit on the couch for a workshop focused on career growth and the mindset of a senior engineer. No laptops, just friendly conversation and thought-provoking ideas.
+The graph drawn in Senior Mindset workshops to illustrate this concept looks something like this:
 
-In the afternoon, you have time to process. Relax with your thoughts. Maybe go hiking, canoeing on the lake, or just enjoy the summer weather in upstate New York.
+<figure>
+<img alt="Career goodness over time" src="career.webp">
+<figcaption>Career goodness over time</figcaption>
+</figure>
 
-For dinner, more delicious food and deep conversation before you relax into bed in your private room.
+Your soft skills start way better than your tech skills. Unless you're like Swizec – a massive nerd who loves computers. In the beginning your career grows fast as you get better at everything.
 
-Sounds nice eh? I would ****love**** that. My best ideas for career growth always come from a week of zero obligation and lots of unstructured time.
+But as your tech skills keep growing (because that's easy), your career starts bouncing off the glass ceiling of your soft skills. Like an engine off a rev limiter.
 
-And that’s what the **Senior Mindset Retreat** is all about.
+You keep pushing and pushing on your tech skills, but the engine just can't rev any faster. You need a better engine!
+
+## The Senior Mindset Retreat helps you build a better engine
+
+The Senior Mindset Retreat is structured around a multi-day version of the international Senior Mindset workshop.
+
+The workshop has been a great success. Here's what an attendee had to say:
+
+> i was excited for this workshop! It reinforced several points but the main point i learned was the path to seniority lies more in teamwork than technical skill. The comfortability and closeness allowed us all to participate, unlike what you may find in a conference presentation. It's great to align yourself with the views of peers and those with experience — Brandon
+
+But attendees consistently give this feedback: _"Can we take more breaks? You packed a lot of insight into my brain, I need time to process"_.
+
+And no wonder! The Senior Mindset packs 10+ years of insights and experiments into a short amount of time. The reading list shared after will keep you busy for months, if not years.
+
+That's where the retreat comes in.
+
+The Senior Mindset Retreat takes that jam-packed workshop and expands it into several days.
+
+You get 5 modules:
+
+*   Growing your career
+*   The goal of engineering
+*   Ownership
+*   Teamwork
+*   Theory of constraints
+
+Spread over a few days with plenty of unstructured time to process. That processing is the secret sauce. Swiz says "My best life decisions come from packing my brain full of an idea, then going out into nature and away from screens to think."
+
+In the evenings, we'll discuss.
+
+![Discussing ideas around the campire](fire-pit.jpg)
 
 {{ applyswiz() }}
 
-## What is the Senior Mindset Retreat
-
-A week of gently structured time and workshops to focus on your career with plenty of thinking time to process. You can turn that into a huge raise, new opportunity, or just loving your job *today*.
-
-![Workshop participants pose with Swiz](workshop.jpg)
-
-The plan looks like this:
-
-- 7 days
-- historic mansion
-- late summer
-- upstate New York
-- Senior Mindset workshop
-- Positioning workshop
-- 1-on-1 time with Swiz
-- hardcover copy of Senior Engineer Mindset
-- guest talk from Josh Doody, a salary negotiation coach
-- full access to Josh Doody’s <a target="_blank" href="https://fearlesssalarynegotiation.com/salary-negotiation-mastery/">Salary Negotiation Mastery</a> course
-- 2 followup calls with Swiz at 3 and 6 weeks out
-- a lifetime of memories
-- carefully curated group of folks
-
-We are expecting up to 13 folks and want to ensure a welcoming atmosphere with matching goals and priorities. Everyone will be held to a code-of-conduct and in similar stages of their career.
-
-Some folks have said that just the application form has been a valuable exercise ❤️
-
-{{ applyswiz() }}
-
-## Why join the Senior Mindset Retreat
-
-This is where you’d expect to read a bunch of testimonials espousing the virtues of the Senior Mindset retreat, but it’s our first time doing the retreat format. Instead, here’s what people had to say after reading the book or joining an in-person workshop.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just finished “Senior Engineer Mindset” book by <a href="https://twitter.com/Swizec?ref_src=twsrc%5Etfw">@Swizec</a>. Any developer wanting to grow in seniority would benefit from it. Simple. Actionable. No BS. Derived from the author’s wide reading and significant experience. <a href="https://t.co/5xdVy2UUnB">https://t.co/5xdVy2UUnB</a></p>&mdash; Samuel Path (@smlpth) <a href="https://twitter.com/smlpth/status/1637536050305277952?ref_src=twsrc%5Etfw">March 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-![i was in a job interview today that went well](interview.jpg)
-
-> i was excited for this workshop! It reinforced several points but the main point i learned was the path to seniority lies more in teamwork than technical skill. The comfortability and closeness allowed us all to participate, unlike what you may find in a conference presentation. It's great to align yourself with the views of peers and those with experience &mdash; Brandon
-
-> I had no hesitation joining this workshop. It taught me to put more emphasis on selling yourself publicly. Swizec created a comfortable environment for discussions and shared relatable examples that reinforced some of my existing thoughts / practices. The workshop gives a good insight on how to think about development outside of the technical things. &mdash; Greg
-
-> I thought that it was going to be very technical, and I am not yet a senior so I was nervous. But we learned about ownership and impact, how to be a leader, that technical skills matter less than I think and I enjoyed the open forum with great visual examples. The workshop gave me more confidence in my path toward a senior role. It encouraged me to utilize my personal strengths in a way to help the team, lead, and deliver value &mdash; Sydney
-
-After the retreat you will:
-
-- have new mental frameworks to apply in your career
-- feel more confident and comfortable leading ambitious projects
-- have bigger impact on your company
-- get recognized and promoted faster
-- stand out to recruiters and hiring managers
-- work as a trusted peer with product and your manager
-- have a new cluster of trusted friends and peers for your professional support network
+These are real applications. We only invite people who feel like a good match.
 
 ## Dates & Pricing
 
