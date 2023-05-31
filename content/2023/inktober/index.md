@@ -1,24 +1,25 @@
 +++
-title = "Inktober 2023 Retreat"
+title = "Inktober2023 Retreat"
 description = "A retreat for artists tackling the Inktober illustration challenge"
 image = "inktober2023.png"
 +++
 
 We are excited to be running our second year of artist retreats in partnership with Inktober!
 
-
 {{ youtube(id="Zqxf0b07xYk" orientation="portrait") }}
-
-## What is the Inktober Challenge?
 
 ![Inktober 2023 Logo](inktober2023.png)
 
-You probably already know about Inktober if you are here, but just in case, Inktober is a daily drawing challenge where thousands of artists are given a single-word prompt and are challenged to complete an illustration each and every day for the entire month of October. It's a chance to be consistently creative, practice artistic skills, learn discipline, and participate in a huge online community event.
+## What is the Inktober Challenge?
+
+Inktober is a drawing challenge where thousands of artists worldwide are given a single-word prompt then challenged to complete an illustration each and every day during the entire month of October. It's a chance to be consistently creative, improve artistic skills, practice discipline, while participating in a huge online community event.
 
 
 > "It's been so amazing and I feel so happy because it's not just I got the goal done, but you were all supporting me. I've been doing Inktober since at least 2016 and I've never gotten 31 drawings done before." &mdash;Denise
 
-## What should I expect at Focus Retreat Center?
+## What to expect at the Inktober2023 Retreat
+
+You hang out with other artists and spend each day working on the Inktober2023 illustration prompt. Your peers help keep you on track, and maybe even inspire you to get ahead of schedule. Last year one guest completed 25 illustrations in a single week! You eat delicious meals freshly prepared from local ingredients. You **don't** do any chores, cooking, or dishes. It's a time to give yourself a break. To rest. To re-energize.
 
 The best way to understand what we are about, whether it's what you need, and what your daily experience here will be like is to check out these pages:
 
@@ -28,11 +29,12 @@ The best way to understand what we are about, whether it's what you need, and wh
 
 <img alt="Chloe of Longstride Illustrations working diligently at her desk" src="chloe-desk.jpg" />
 
-## What happens during the Inktober Retreat?
-
-You hang out with other artists and spend each day working on the Inktober illustration prompt. Your peers help keep you on track, and maybe even inspire you to get ahead of schedule. Last year one guest completed 25 illustrations in a single week! You eat delicious meals freshly prepared from local ingredients. You don't do any chores, cooking, or dishes. It's a time to give yourself a break. To rest. To re-energize.
-
 > "I needed a rest or I needed something; I needed a reboot and I needed to meet people and I wanted to meet artists, especially people who like ink." &mdash;Chloe
+
+## Who should attend the Inktober2023 Retreat?
+
+All are welcome! Inktober's mission is to awaken the artist inside of every human being. Focus Retreat Center is the perfect environment for artists to focus on their deepest, most creative work surrounded by other artists and peers. The retreat is a personalized experience open to any artist looking to improve, connect with themselves, build community and have fun. Join us, we look forward to meeting you!
+many people are still suffering and recovering from the social isolation of the pandemic lockdown quarantine and extended changes to how we socialize as a community. This is a chance to meet new people and spend time making friends over shared meals in a relaxed and scenic setting.
 
 ## Retreat to Flourish
 
@@ -46,7 +48,8 @@ There is no better catalyst for artistic output than being surrounded by other i
 
 ## Retreat to Reconnect
 
-So many people are still suffering and recovering from the social isolation of the pandemic lockdown quarantine and extended changes to how we socialize as a community. This is a chance to meet new people and spend time making friends over shared meals in a relaxed and scenic setting.
+Being a creative person can be an isolating experience, especially if you are self-employed, work from home or still recovering from the social isolation of the pandemic lockdown. Attending the Inktober2023 Retreat is a chance to meet new people and spend time making friends over shared meals in a relaxed, scenic setting.
+
 
 > "I just felt really at home and really welcomed and it was really cool." &mdash;Gina
 
@@ -76,14 +79,14 @@ The cost is **$898** all inclusive for the event. This includes:
 
 * Six nights lodging in a private bedroom
 * All your meals, snacks, coffee and tea
-* Gift bags with awesome supplies and goodies from Inktober sponsors
+* Gift bags with awesome supplies and goodies from Inktober2023 sponsors
 * An exclusive masterclass video session with Jake Parker, creator of Inktober
 
 **Payment in installments is available** so you can spread the cost out evenly over 6 affordable monthly payments.
 
 ### Book early and save $100
 
-If you buy a ticket by June 31 with our special Early Bird Discount.
+Purchase your ticket by June 31 and save $100 with our special Early Bird Discount.
 
 <div class="centered">
 <a style="display:inline-block;text-decoration:none;background-color:#0044B4;color:#ffffff;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:22px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:24px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" href="" onclick="window.enrollsy.openWidget({type:'ENROLL',slug:'focus-retreat-center',urlOptions:'%7B%22lId%22:%22cl6w7sr5i3h5m0706s5dv3ln9%22,%22pId%22:%22clfo48ybczqff0846v1l9dc4c%22%7D'});return false;">Book Now</a> <script>!function(n,e){var t,s;n.enrollsy||(n.enrollsy={},n.enrollsy._c=[],["init"].forEach(function(e){n.enrollsy[e]=function(){n.enrollsy._c.push([e,arguments])}}),(t=e.createElement("script")).type="text/javascript",t.async=!0,t.src="https://assets.enrollsy.com/external/widget.js",(s=e.getElementsByTagName("script")[0]).parentNode.insertBefore(t,s))}(window,document),window.setTimeout(function(){window.enrollsy.init()},1e3);</script>
@@ -95,7 +98,7 @@ If you buy a ticket by June 31 with our special Early Bird Discount.
 
 # Explore Adirondack Frontier
 
-Inktober at Focus Retreat Center is made possible in part by a grant from the Franklin County Government Office of Economic Development and Tourism. We encourage everyone to explore the many sites and destinations throughout Franklin County!
+Inktober2023 at Focus Retreat Center is made possible in part by a grant from the Franklin County Government Office of Economic Development and Tourism. We encourage everyone to explore the many sites and destinations throughout Franklin County!
 
 <div class="centered">
 <a href="https://www.exploreadirondackfrontier.com" target="_blank"><img src="explore-adirondack-frontier.png" alt="Explore Adirondack Frontier Badge"></a>
