@@ -19,7 +19,7 @@ Inktober is a drawing challenge where thousands of artists worldwide are given a
 
 ## What to expect at the Inktober2023 Retreat
 
-You hang out with other artists and spend each day working on the Inktober2023 illustration prompt. Your peers help keep you on track, and maybe even inspire you to get ahead of schedule. Last year one guest completed 25 illustrations in a single week! You eat delicious meals freshly prepared from local ingredients. You **don't** do any chores, cooking, or dishes. It's a time to give yourself a break. To rest. To re-energize.
+You hang out with other artists and spend each day working on the Inktober2023 illustration prompts. Your peers help keep you on track, and maybe even inspire you to get ahead of schedule. Last year one guest completed 25 illustrations in a single week! You eat delicious meals freshly prepared from local ingredients. You **don't** do any chores, cooking, or dishes. It's a time to give yourself a break. To rest. To re-energize.
 
 The best way to understand what we are about, whether it's what you need, and what your daily experience here will be like is to check out these pages:
 
@@ -34,7 +34,6 @@ The best way to understand what we are about, whether it's what you need, and wh
 ## Who should attend the Inktober2023 Retreat?
 
 All are welcome! Inktober's mission is to awaken the artist inside of every human being. Focus Retreat Center is the perfect environment for artists to focus on their deepest, most creative work surrounded by other artists and peers. The retreat is a personalized experience open to any artist looking to improve, connect with themselves, build community and have fun. Join us, we look forward to meeting you!
-many people are still suffering and recovering from the social isolation of the pandemic lockdown quarantine and extended changes to how we socialize as a community. This is a chance to meet new people and spend time making friends over shared meals in a relaxed and scenic setting.
 
 ## Retreat to Flourish
 
