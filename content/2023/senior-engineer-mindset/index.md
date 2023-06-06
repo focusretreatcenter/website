@@ -78,7 +78,7 @@ In the evenings, we'll discuss.
 
 These are real applications. We only invite people who feel like a good match.
 
-## Dates & Pricing
+## Dates, Pricing, & Travel
 
 The retreat will run: **Saturday August 12, 2023** through **Saturday August 19, 2023**.
 
@@ -98,5 +98,9 @@ Regular (7 tickets) – $5000
 We can help you get employer sponsorship from your professional development budget.
 
 {{ applyswiz() }}
+
+### How to get to FRC
+
+All your travel details on on our [travel page](/travel).
 
 {{ questions() }}
