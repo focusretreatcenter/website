@@ -36,6 +36,6 @@ Here is a screenshot of the details of this route from the Trailways site for re
 
 * **Adirondack Regional Airport** (SLK) in Saranac Lake, NY is about 45 minutes south of Malone and the nearest airport. There are daily flights on Cape Air from JFK airport in New York City. Jet Blue also has some flights.
 * **Burlington, VT** (BTV) is just over 2 hours drive from Malone and has some flights landing there.
+* **Montréal-Trudeau International Airport** (YUL) is about 1.5 hours drive from Malone, and connects to many international airports directly with good prices and times. However, you will need to plan for crossing the border between Canada and the US. Be sure to bring your passport and allow extra time for customs.
 * **Albany International Airport** (ALB) in NY is the nearest large international airport with many flights, but it is still a 3.5 hour drive to Malone.
   * From the Albany airport if you can take rideshare/taxi to Albany Greyhound bus station, you can take the bus on to Plattsburgh, NY and we can coordinate a ride from Plattsburgh to Malone for you.
-* **Montréal-Trudeau International Airport** (YUL) is about 1.5 hours drive from Malone, but you will need to plan for crossing the border between Canada and the US. Be sure to bring your passport and allow extra time for customs.
