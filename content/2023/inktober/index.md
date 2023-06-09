@@ -6,9 +6,11 @@ image = "inktober2023.png"
 
 We are excited to be running our second year of artist retreats in partnership with Inktober!
 
+Jump directly to…[dates](#when-where-and-how-much) or [tickets](#book-early-and-save-100).
+
 {{ youtube(id="Zqxf0b07xYk" orientation="portrait") }}
 
-![Inktober 2023 Logo](inktober2023.png)
+<img alt="Inktober 2023 Logo" src="inktober2023.png">
 
 ## What is the Inktober Challenge?
 
