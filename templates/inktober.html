@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+{% block style -%}
+{{ super() }}
+{# as per special request from Mattie #}
+@media (min-width: 700px) {
+  section.inktober img {
+    max-width: 60%;
+  }
+}
+{% endblock -%}
+{% block main -%}
+<section class="centered-column inktober">
+  {% if page.content is defined -%}{{ page.content | safe }}{% endif -%}
+  {% if section.content is defined -%}{{ section.content | safe }}{% endif -%}
+</section>
+{% endblock -%}

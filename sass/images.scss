@@ -46,20 +46,6 @@ section.gallery-nogap {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 }
 
-.centered-column img {
-  /* on small screens like phones, images can
-   * fill most of the screen and should fit OK
-   */
-  max-width: 100%;
-
-  /* on larger screen like tablets, reduce size so
-   * content above and below fits in the viewport
-   */
-  @media (min-width: 700px) {
-    max-width: 60%;
-  }
-}
-
 section.photo-galleries {
   @include centered-column;
 
