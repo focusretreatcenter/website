@@ -12,7 +12,7 @@ image = "hammock.png"
 
 The chapter titled, “Don’t Be A Chill Host” in Priya Parkers book “The Art of Gathering: How We Meet and Why it Matters”, spoke to me in such a specific and personal way that I actually felt bad for the guests I had assembled at past gatherings, sigh. I was definitely guilty of being a ‘Chill Host’.
 
-![Stella's legs up in a hammock](hammock.png)
+<img alt="Stella's legs up in a hammock" src="hammock.png">
 
 Parker defines ‘Chill’ as “...the idea that it’s better to be relaxed and low-key, better not to care, better not to make a big deal.” I really thought at the time I was being chill that it was what my guests preferred and wanted from their host. I now understand that this is often very uncomfortable for guests and that a host assuming power and control is a welcome trait. Leadership is critical. When you abdicate leadership, you do not eradicate power. You just hand the opportunity to take charge to someone else!
 
