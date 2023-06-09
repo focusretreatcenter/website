@@ -19,7 +19,7 @@ There has been a series of large layoffs in tech recently: Meta, Twitter, Stripe
 
 If you were laid off from your tech job, we're sorry you have to experience that and wish you the best in responding to that unexpected change. Job changes and feelings of burnout are circumstances we feel can often benefit from taking a retreat to process, heal, and re-energize. We think working on one's own creative work without external pressures and deadlines can be a cure for burnout. One of our driving motivators here is seeing creative people flourish and do their best work.
 
-![Coffee mug on a park bench with leafy trees in the background](coffee-mug-on-park-bench.jpg)
+<img alt="Coffee mug on a park bench with leafy trees in the background" src="coffee-mug-on-park-bench.jpg">
 
 Louie Bacaj expressed this in a tweet recently:
 

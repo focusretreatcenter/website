@@ -7,7 +7,7 @@ description = "These are the core values that drive what we offer at FRC"
 
 Meaningful work can’t flourish and thrive when squeezed into the margins of over-scheduled busy lives. Our retreats and residencies take inspiration from academic sabbatical to provide an extended but bounded time to do your deepest, most creative work.
 
-![stencil lettering for spray paint: LET GO OF THE BUSYNESS](busyness.jpg)
+<img alt="stencil lettering for spray paint: LET GO OF THE BUSYNESS" src="busyness.jpg">
 
 In order to create space, we must pause and set aside our normal lifestyle. Guests at FRC are given a rest from…
 
@@ -19,13 +19,13 @@ In order to create space, we must pause and set aside our normal lifestyle. Gues
 * washing dishes
 * the decision fatigue of complex life
 
-![Mike taking a moment to be mindful](mike-calm.jpg)
+<img alt="Mike taking a moment to be mindful" src="mike-calm.jpg">
 
 # Intrinsic Motivation
 
 A creator's innate motivation is the most powerful force. We value this above external forces like top-down curricula, cookie-cutter courses, micromanagement, and achievement based on comparison to others.
 
-![Megan laughs while sketching in a notebook during a hike](megan-laugh.jpg)
+<img alt="Megan laughs while sketching in a notebook during a hike" src="megan-laugh.jpg">
 
 * Make what you are inspired to make
 * Learn what is interesting to you
@@ -40,7 +40,7 @@ We value deep work and believe it should be provided with ample time and focus s
 
 We value systems and habits over specific goals and deliverables. Put in the time and trust the process. The results will appear.
 
-![George working on his Inktober illustrations](george-drawing.jpg)
+<img alt="George working on his Inktober illustrations" src="george-drawing.jpg">
 
 See also writing by [Cal Newport](https://www.goodreads.com/book/show/66354.Flow), [Derek Sivers](https://sive.rs/h), and [Mihaly Csikszentmihalyi](https://www.goodreads.com/book/show/66354.Flow)
 

@@ -16,7 +16,7 @@ Stella's *Curves* approach is all about intuition.  She feels each situation as 
 
 Precision and intuition are often at odds.  It seems that we are so often forced to choose between being precise and being intuitive but when it comes to sourdough bread, we can be both!
 
-![bread loaf size mat](baking-loaf-board.jpg)
+<img alt="bread loaf size mat" src="baking-loaf-board.jpg">
 
 The creation of sourdough bread is an exercise in patience, science and magic.  Harvesting the wild yeast from a kitchen and teaching them how to help us bake fantastic loaves of bread is a long journey, but the rewards are unachievable through any other means.  Sure, we could quickly bake bread using store bought yeast, but the loaves would be commonplace and highly reproducible.  
 

@@ -13,7 +13,7 @@ Rhonda Rosenheck is a poet, humorist and bible-translator from New York’s Capi
 
 The work-in-progress I brought with me to FRC is a fresh English translation of the book of Genesis. The work is detailed and sometimes tedious; I need large blocks of time to stay with it through frustration. 
 
-![Rhonda Rosenheck](rosenheck.jpg)
+<img alt="Rhonda Rosenheck" src="rosenheck.jpg">
 
 ## What's your hope for the project long term?
 
@@ -31,7 +31,7 @@ Bills. Dust bunnies. The garden and the invasive vines I battle. My beloved in t
 
 ## What's your ideal cozy/productive setup look like? 
 
-![Rhonda's cozy writing setup](mirror.jpg)
+<img alt="Rhonda's cozy writing setup" src="mirror.jpg">
 
 There must be coffee, tea or fizzy water – often more than one. Beverages are the main reason I don’t write at the library. Desk and chair are usually my least favorite way to sit, but with this project, they facilitate the shifting around screens and tabs and programs I need to research before deciding each word’s translation. Even so, I must sometimes lounge, laptop perched above the throw blanket on my knees, and a snack on the side table. I work well in quiet and with the hum of other people working on their own stuff around me. Either way, I love to commune with others working on utterly different creative work than mine. That’s why shared dinners and clean-up at FRC have been a huge pleasure and inspiration for me. 
 

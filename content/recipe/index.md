@@ -5,7 +5,7 @@ description = "FRC's recipe for a powerful retreat experience"
 
 The following ingredients are the core essence of what we combine together to produce the nourishing experience of a Focus Retreat.
 
-![Stella preparing home made pizzas on pizza night](recipe.jpg)
+<img alt="Stella preparing home made pizzas on pizza night" src="recipe.jpg">
 
 ## 1. Personal Wellness
 
@@ -18,19 +18,19 @@ Personal wellness is a foundational value for both happiness and creativity. Whi
 * Tune your body with yoga and exercise
 * Break unhealthy relationship patterns by taking time away from home
 
-![2 guests sitting on a rock outcropping during an autumn hike](hike.jpg)
+<img alt="2 guests sitting on a rock outcropping during an autumn hike" src="hike.jpg">
 
 ## 2. Deep Creative Work
 
 We think the most valuable thing creative people can do is put their best energy into their work in a focused way. Creative work takes second priority at FRC. Your project is prioritized for many hours a day and many days in a row. Your internal motivations can shine through and provide direction to your work.
 
-![Guest working on illustrations](chloe-desk.jpg)
+<img alt="Guest working on illustrations" src="chloe-desk.jpg">
 
 ## 3. Inspiring Peers
 
 A group of like-minded peers with similar interests creates a fun atmosphere and fosters collaboration, inspiration, and friendship. You'll meet wonderful people and get to know them at the dinner table, on the hiking trail, and around the fire pit. Sharing meals and adventures builds a sense of belonging and community. We hope to form many long-lasting friendships at FRC.
 
-![FRC Cohort on the front steps](inktober-cohort.jpg)
+<img alt="FRC Cohort on the front steps" src="inktober-cohort.jpg">
 
 The energy of a group working together is palpable and powerful. Your retreat cohort will help hold you accountable for the systems and habits you choose as you work. You'll find connections to each others' projects and ways to collaborate and help each other.
 

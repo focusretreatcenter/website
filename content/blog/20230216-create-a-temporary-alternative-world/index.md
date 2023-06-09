@@ -18,7 +18,7 @@ The reason we need pop-up rules to have satisfying gatherings lies in the notion
 
 “Etiquette allows people to gather because they are the same. Pop-up rules allow people to gather because they are different - yet open to having the same experience.”, says Parker. One of my primary goals at Focus Retreat Center is to be welcoming and accommodating to many different types of people. These differences might be cultural, or neurological, or just generalized strangeness. I sincerely want even the most awkward of humans to find a way to be nurtured at FRC. By being clear and explicit about the social expectations and rules of the gathering (and then enforcing those rules by exercising generous authority!) a host can provide a level playing field for all their guests to interact on. This act of leveling will then allow interactions between guests that are meaningful, profound - and satisfying!
 
-![Image of library maker space](library.jpg)
+<img alt="Image of library maker space" src="library.jpg">
 
 It is my intention to be as clear as possible about the house rules and to help people understand that the rules that are being presented are not meant to restrict the gathering, but rather to contain it. By enforcing the rules I will create an environment of trust that helps guests feel safe. These rules allow us to collectively build a temporary alternative world where we can share information without the clutter of old-fashioned etiquette and confusing social cues.
 

@@ -13,7 +13,7 @@ Interested?
 
 <a class="brand-button" href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more info!</a>
 
-![](/images/gallery/retreat0-hike.jpg)
+<img src="/images/gallery/retreat0-hike.jpg" alt="Retreat Hike">
 
 ## What is a self-directed programming retreat?
 

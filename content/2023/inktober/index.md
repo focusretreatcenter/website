@@ -2,8 +2,8 @@
 title = "Inktober2023 Retreat"
 description = "A retreat for artists tackling the Inktober illustration challenge"
 image = "inktober2023.png"
+template = "inktober.html"
 +++
-
 We are excited to be running our second year of artist retreats in partnership with Inktober!
 
 Jump directly to…[dates](#when-where-and-how-much) or [tickets](#book-early-and-save-100).

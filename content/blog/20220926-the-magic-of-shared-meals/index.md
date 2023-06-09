@@ -14,4 +14,6 @@ Shared meals are where the community building magic happens at FRC. Meals are su
 
 The power of the meal is beautifully portrayed in one of my favorite films: [Big Night](https://www.rottentomatoes.com/m/big_night). This 1996 movie stars Stanley Tucci, Tony Shalhoub, and Minnie Driver. It's a great story and beautifully crafted film. The film centers around an elaborate meal of Italian food that is my favorite food scene ever. I love this movie more each time I watch it. It strikes close to home for me having grown up in NJ resident with Italian heritage. No spoilers but I'll also say the final scene is absolutely my favorite final scene of any movie.
 
-<a href="https://www.imdb.com/title/tt0115678/"><img src="big-night.jpg" alt="still from Big Night showing people in a restaurant kitchen"></a>
+<div class="centered">
+<a  href="https://www.imdb.com/title/tt0115678/"><img src="big-night.jpg" alt="still from Big Night showing people in a restaurant kitchen"></a>
+</div>

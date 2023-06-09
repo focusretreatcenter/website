@@ -24,7 +24,7 @@ When answering a question about how a group should choose ‘a good, purposeful 
 
 When I consider these ideas of embodiment and displacement as reasons to host gatherings here at FRC, it seems so clear to me that here exists a unique opportunity for personal development with the possibility of getting to host actual life-changing events!
 
-![Stella working on pizza night](pizza.jpg)
+<img alt="Stella working on pizza night" src="pizza.jpg">
 
 Please consider joining us for one of these events! We are open to many types of gatherings from casual co-living arrangements to very formal and structured workshops. Whether you would like to host an event, or be a guest at someone else's event, or take up a longer term residency I would love to talk to you. Please email me at **team@focusretreatcenter.com** or join our email list below.
 

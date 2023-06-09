@@ -14,7 +14,7 @@ image = "taog-book-cover.jpg"
 
 I read a book last fall that has had a significant impact on my identity as a host at the Focus Retreat Center. The book is called “The Art of Gathering: How We Meet and Why it Matters” by Priya Parker. The author’s perspective and thoughts on what it means to host meaningful, intentional gatherings has followed me on my winter travels - causing me to refine in my mind my role at FRC.
 
-![Cover of the book The Art of Gathering](taog-book-cover.jpg)
+<img alt="Cover of the book The Art of Gathering" src="taog-book-cover.jpg">
 
 I spent my time during our first retreats last summer acting and reacting with the vague hope of somewhat resembling a host. I bumbled along answering direct questions, making obvious adjustments, and scrambling around the kitchen trying to get everyone fed. It happened. The retreats were largely successful, and I learned a lot about the needs of typical guests. As if there was any such thing as a ‘Typical Guest’, Ha! 😄
 

@@ -14,7 +14,7 @@ We are excited to announce our inaugural Residency program! The following applie
 
 A Residency at Focus Retreat Center is a period of time to work on a creative coding project and prioritize creative project work. The creative work that excites and ignites you may often be relegated to the periphery of your schedule. Jammed in the nooks and crannies here and there on nights and weekends. A Residency is an opportunity to center that work, giving it full priority so it can flourish.
 
-![spirograph](spirograph.jpg)
+<img alt="spirograph" src="spirograph.jpg">
 
 ## Who is eligible to apply for a Residency?
 

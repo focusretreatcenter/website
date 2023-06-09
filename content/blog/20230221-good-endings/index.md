@@ -12,7 +12,7 @@ image = "path.jpg"
 
 Endings are hard. Ending things that are wonderful and satisfying is **really hard**. But all things end and according to Priya Parker in her book “The Art of Gathering: How We Meet and Why it Matters”, accepting the impermanence of our gatherings is part of the art. It is the job of a host to design an ending that allows guests to both look inward &mdash; at how the gathering affected them, and to turn outward to see how the gathering will propel them forward.
 
-![Walking along a path](path.jpg)
+<img alt="Walking along a path" src="path.jpg">
 
 > …gatherings will benefit from a pause to reflect on what happened here. A gathering is a moment of time that has the potential to alter many other moments of time. And for it to have the best chance of doing so, engaging in some meaning-making at the end is crucial. &mdash;Priya Parker
 

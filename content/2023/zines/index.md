@@ -15,7 +15,7 @@ It's going to be super fun! You'll get to work on your projects, collaborate wit
 
 ----
 
-![Take on hard projects](take-on-hard-projects.png)
+<img alt="Take on hard projects" src="take-on-hard-projects.png">
 
 Web comic by [Julia Evans, @b0rk](https://wizardzines.com/comics/take-on-hard-projects/), used with permission.
 

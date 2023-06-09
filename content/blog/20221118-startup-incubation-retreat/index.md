@@ -12,7 +12,7 @@ In our last post we talked about the large layoffs we've seen this year from big
 
 I can imagine scenarios where a small group of folks have experience working closely together at one a big tech company and all got laid off around the same time. Here's a great opportunity to "acquihire" yourselves as a fully-formed team and dive into that idea that you chatted about but could never get started at the big company. It's hard to overstate how valuable it is to have an established team that is gelled and works well together. It's gold.
 
-![A retreat group laughing around the fire pit in FRC's back yard](fire.jpg)
+<img alt="A retreat group laughing around the fire pit in FRC's back yard" src="fire.jpg">
 
 Your group may already be primed with a shared understanding of a problem that needs solving. Maybe now's the time to brainstorm what a solution could look like. Maybe you relied on a great but unpolished internal tool that really should be a commercial offering. This has played out many times such as kubernetes (origins in "borg" internal to Google), prometheus (origins in "borgmon" at Google), kafka (origins at LinkedIn before Confluence spun off as a separate company), and many others.
 
