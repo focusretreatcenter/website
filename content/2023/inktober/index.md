@@ -27,6 +27,7 @@ The best way to understand what we are about, whether it's what you need, and wh
 1. [The Retreat Recipe](/recipe)
 1. [What to Expect](/what-to-expect)
 
+
 <img alt="Chloe of Longstride Illustrations working diligently at her desk" src="chloe-desk.jpg" />
 
 > "I needed a rest or I needed something; I needed a reboot and I needed to meet people and I wanted to meet artists, especially people who like ink." &mdash;Chloe
@@ -43,7 +44,7 @@ There is no better catalyst for artistic output than being surrounded by other i
 
 > "I learned a lot from everybody. A little thing here, a little thing there. I'll never forget any of you guys or any of this experience. It's so frickin' cool. My soul thanks you." &mdash;Mike S
 
-![Sketching](/photos/retreats-2022/inktober-drawing-common-room.jpg)
+<img alt="Sketching" src="/photos/retreats-2022/inktober-drawing-common-room.jpg" />
 
 ## Retreat to Reconnect
 
@@ -54,13 +55,13 @@ Being a creative person can be an isolating experience, especially if you are se
 
 > "I am so grateful to have met each and every one of you. I'm so happy that I took that leap of faith." &mdash;Megan
 
-![fire pit](/photos/retreats-2022/fire-pit.jpg)
+<img alt="fire pit" src="/photos/retreats-2022/fire-pit.jpg" />
 
 ## Retreat to Nature
 
 October in northern New York is peak leaf peepin' season and the foliage is gorgeous. FRC sits adjacent to Adirondack Park, the largest system of hiking trails in America. The park is larger than the state of New Hampshire and boasts thousands of lakes, rivers, and mountains. Guests self-organize hikes and excursions into the park throughout the week.
 
-![Hike like Mike](/photos/retreats-2022/inktober-mike-hike.jpg)
+<img alt="Hike like Mike" src="/photos/retreats-2022/inktober-mike-hike.jpg" />
 
 ## Retreat to Grow
 
@@ -97,8 +98,4 @@ Purchase your ticket by June 31 and save $100 with our special Early Bird Discou
 
 # Explore Adirondack Frontier
 
-Inktober2023 at Focus Retreat Center is made possible in part by a grant from the Franklin County Government Office of Economic Development and Tourism. We encourage everyone to explore the many sites and destinations throughout Franklin County!
-
-<div class="centered">
-<a href="https://www.exploreadirondackfrontier.com" target="_blank"><img src="explore-adirondack-frontier.png" alt="Explore Adirondack Frontier Badge"></a>
-</div>
+<p>Inktober2023 at Focus Retreat Center is made possible in part by a grant from the Franklin County Government Office of Economic Development and Tourism. We encourage everyone to explore the many sites and destinations throughout Franklin County!</p><a href="https://www.exploreadirondackfrontier.com" target="_blank"><img style="display: block; margin: auto;" src="explore-adirondack-frontier.png" alt="Explore Adirondack Frontier Badge"></a>
