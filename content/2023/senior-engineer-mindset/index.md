@@ -72,7 +72,7 @@ Spread over a few days with plenty of unstructured time to process. That process
 
 In the evenings, we'll discuss.
 
-![Discussing ideas around the campire](fire-pit.jpg)
+<img alt="Discussing ideas around the campire" src="fire-pit.jpg">
 
 {{ applyswiz() }}
 
