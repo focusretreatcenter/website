@@ -81,6 +81,10 @@ The cost is **$898** all inclusive for the event. This includes:
 
 * Six nights lodging in a private bedroom
 * All your meals, snacks, coffee and tea
+
+### Extra Bonuses Included With Your Ticket
+
+* 1 month **FREE** subscription to the [School of Visual Storytelling](svslearn.com)'s huge catalog of illustration courses with top instructors and professional artists plus a discount if you later upgrade to a membership.
 * Gift bags with awesome supplies and goodies from Inktober2023 sponsors
 * An exclusive masterclass video session with Jake Parker, creator of Inktober
 
@@ -88,7 +92,7 @@ The cost is **$898** all inclusive for the event. This includes:
 
 ### Book early and save $100
 
-Purchase your ticket by June 31 and save $100 with our special Early Bird Discount.
+Purchase your ticket by July 31 and save $100 with our special Early Bird Discount.
 
 <div class="centered">
 <a style="display:inline-block;text-decoration:none;background-color:#0044B4;color:#ffffff;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:22px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:24px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" href="" onclick="window.enrollsy.openWidget({type:'ENROLL',slug:'focus-retreat-center',urlOptions:'%7B%22lId%22:%22cl6w7sr5i3h5m0706s5dv3ln9%22,%22pId%22:%22clfo48ybczqff0846v1l9dc4c%22%7D'});return false;">Book Now</a> <script>!function(n,e){var t,s;n.enrollsy||(n.enrollsy={},n.enrollsy._c=[],["init"].forEach(function(e){n.enrollsy[e]=function(){n.enrollsy._c.push([e,arguments])}}),(t=e.createElement("script")).type="text/javascript",t.async=!0,t.src="https://assets.enrollsy.com/external/widget.js",(s=e.getElementsByTagName("script")[0]).parentNode.insertBefore(t,s))}(window,document),window.setTimeout(function(){window.enrollsy.init()},1e3);</script>
