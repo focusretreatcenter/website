@@ -2,10 +2,10 @@
 title = "Kitchen 2.0"
 slug = "/kitchen-20"
 date = 2023-06-26
-description = ""
+description = "Key design elements of the new and improved kitchen layout"
 [extra]
 author = "Christella Kay"
-image = "shelving.jpg"
+image = "shelves.jpg"
 +++
 
 Pete and I took a long road trip over the winter. We stayed with friends and family, or in short term rentals all over the country. It was great to take a step back from FRC and get some of that perspective that comes naturally  with distance from a big project.
@@ -14,7 +14,7 @@ While we traveled I had the opportunity to visit several kitchens. I tried to be
 
 When we got back to FRC in the spring, I found myself inspired to reset my workspace. I emptied everything out of my kitchen and then slowly put objects into place using the lessons I had learned on the road. The result is a much better work flow in the kitchen!
 
-{{ photo(src="table-of-stuff.jpg" caption="Tons of kitchen items set aside for the reset") }}
+{{ photo(src=page.path ~ "table-of-stuff.jpg" caption="Tons of kitchen items set aside for the reset")}}
 
 Better flow makes work less stressful and reduces fatigue.  It also makes cooking more fun!
 
@@ -26,7 +26,7 @@ Here is a short list of the changes that were made in v2.
  * No Stacking Allowed!
  * Pots and pans cannot be stored overhead or near the floor as they are just too heavy
 
-{{ photo(src="pot-rack.jpg" caption="Pots hanging on our new pot rack with 3D printed hangers") }}
+{{ photo(src=page.path ~ "pot-rack.jpg" caption="Pots hanging on our new pot rack with 3D printed hangers")}}
 
 ## Our floating kitchen island
 
@@ -36,7 +36,7 @@ Our island is on casters so it can "float" around the kitchen.
  * We have Better access to side storage bins
  * Increases number of workstations available in the kitchen
 
-{{ photo(src="vika-island.jpg" caption="Vika cooking on the moveable island") }}
+{{ photo(src=page.path ~ "vika-island.jpg" caption="Vika cooking on the moveable island")}}
 
 ## Removal of the cupboard doors
 
@@ -46,7 +46,7 @@ Our island is on casters so it can "float" around the kitchen.
  * Mindfully **not** hiding food/brands provides guests the opportunity to observe the ingredients being used to make their meals
  * This style of storage forces frequent purging of pantry and provides incentives to keep supplies orderly
 
-{{ photo(src="shelves.jpg" caption="Stella working on renewing the bottom cabinet shelving") }}
+{{ photo(src=page.path ~ "shelves.jpg" caption="Stella working on renewing the bottom cabinet shelving")}}
 
 ## Boxes instead of more traditional drawers
 
