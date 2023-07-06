@@ -46,4 +46,4 @@ See also writing by [Cal Newport](https://www.goodreads.com/book/show/66354.Flow
 
 # Next: The Recipe… 
 
-Read about how we live these values with [The Retreat Recipe](../recipe).
+Read about how we live these values with [The Retreat Recipe](/recipe/).

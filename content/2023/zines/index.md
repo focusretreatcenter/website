@@ -27,9 +27,9 @@ Web comic by [Julia Evans, @b0rk](https://wizardzines.com/comics/take-on-hard-pr
 
 The best way to understand what we are about, whether it's what you need, and what your daily experience here will be like is to check out these pages:
 
-1. [Our Values](/values)
-1. [The Retreat Recipe](/recipe)
-1. [What to Expect](/what-to-expect)
+1. [Our Values](/values/)
+1. [The Retreat Recipe](/recipe/)
+1. [What to Expect](/what-to-expect/)
 
 ## What are the dates?
 

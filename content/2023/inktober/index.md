@@ -85,8 +85,10 @@ The cost is **$898** all inclusive for the event. This includes:
 ### Extra Bonuses Included With Your Ticket
 
 * 1 month **FREE** subscription to the [School of Visual Storytelling](svslearn.com)'s huge catalog of illustration courses with top instructors and professional artists plus a discount if you later upgrade to a membership.
-* Gift bags with awesome supplies and goodies from Inktober2023 sponsors
 * An exclusive masterclass video session with Jake Parker, creator of Inktober
+* Gift bags with awesome supplies and goodies from Inktober2023 sponsors
+
+<img alt="Art Supplies in your gift bag" src="swag.jpg">
 
 **Payment in installments is available** so you can spread the cost out evenly over 6 affordable monthly payments.
 
