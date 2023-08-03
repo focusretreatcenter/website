@@ -19,6 +19,11 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
 
 # Do these specific first then generic lower down
 [[redirects]]
+  from = "https://focusretreatcenter.com/2023/underdog-devs"
+  to = "https://app.enrollsy.com/enroll/focus-retreat-center?lId=cl6w7sr5i3h5m0706s5dv3ln9&pId=clkvqlrys22jp08666z7s89tq"
+  status = 302
+
+[[redirects]]
   from = "https://focusretreatcenter.com/signin"
   to = "https://app.enrollsy.com/r/gj-62Ur6OcQG7QQRu0VP5"
   status = 302
