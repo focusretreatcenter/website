@@ -14,17 +14,13 @@ Malone, NY 12953-1603
 
 ### Car
 
-Malone, NY is reachable by car in a day or less from NYC, Philadelphia, Boston, Montréal, or Toronto. If you plan to drive a private car just let us know. We have private off-street parking available for a limited number of guests. If you are willing to offer carpool rides to other guests, that's fantastic. Let us know and we can help coordinate.
+Malone, NY is reachable by car in a day or less from NYC, Philadelphia, Boston, Montréal, or Toronto. If you plan to drive a private car just let us know. We have private off-street parking available. If you are willing to offer carpool rides to other guests, that's fantastic. Let us know and we can help coordinate.
 
 ### Bus
 
-**Trailways NYC to Malone** runs from Port Authority daily departing 11:00 AM and arriving at 7:50 PM. This is Route 278, runs 7 days a week, and departs from Gate 79. There's a short layover in Albany. We can shuttle groups from the Four Seasons motel in Malone where this bus stops to FRC.
+**Greyhound NYC to Plattsburgh**: runs from either Port Authority or Midtown (31st & 8th Ave) to Plattsburgh, NY a few times a day. The trip takes approximately 6 hours and costs around $75 one way. You arrive at Mountain Mart at 7155 Rte 9, 12901 Plattsburgh, NY. FRC can shuttle groups from Plattsburgh to FRC.
 
-Here is a screenshot of the details of this route from the Trailways site for reference:
-
-<img class="screenshot" alt="Screenshot with details of bus route" src="/images/trailways-bus.png">
-
-**Greyhound NYC to Plattsburgh**: runs from Port Authority to Plattsburgh, NY departing 8:30 AM and arriving at 3:30 PM for $69. We can shuttle groups from Plattsburgh to FRC.
+Coming from other locations look for bus routes to either Plattsburgh NY, Saranac Lake, NY, or Lake Placid, NY.
 
 ### Train
 
