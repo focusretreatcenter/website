@@ -16,6 +16,10 @@ Malone, NY 12953-1603
 
 Malone, NY is reachable by car in a day or less from NYC, Philadelphia, Boston, Montréal, or Toronto. If you plan to drive a private car just let us know. We have private off-street parking available. If you are willing to offer carpool rides to other guests, that's fantastic. Let us know and we can help coordinate.
 
+### Rental Car
+
+A 1-way rental car that you pick up at the airport and return in Plattsburgh is one of the fastest and most convenient options to get to FRC from major airports in the region. If you can coordinate with even 1 other guest to split the cost of a rental car and gas this can be the most affordable option. With a groups of 3 or 4 people the per-person cost gets even lower. FRC can shuttle groups from the rental car return at Plattsburgh airport to FRC.
+
 ### Bus
 
 **Greyhound NYC to Plattsburgh**: runs from either Port Authority or Midtown (31st & 8th Ave) to Plattsburgh, NY a few times a day. The trip takes approximately 6 hours and costs around $75 one way. You arrive at Mountain Mart at 7155 Rte 9, 12901 Plattsburgh, NY. FRC can shuttle groups from Plattsburgh to FRC.
