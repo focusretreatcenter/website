@@ -7,7 +7,7 @@ image = "inktober-adk.jpg"
 +++
 We are excited to be running our second year of artist retreats in partnership with Inktober!
 
-Jump directly to…[dates](#when-where-and-how-much) or [tickets](#book-early-and-save-100).
+Jump directly to…[dates](#when-where-and-how-much) or [tickets](#book-now).
 
 {{ youtube(id="Zqxf0b07xYk" orientation="portrait") }}
 
@@ -93,7 +93,7 @@ The cost is **$898** all inclusive for the event. This includes:
 
 **Payment in installments is available** so you can spread the cost out evenly over 6 affordable monthly payments.
 
-<div class="centered">
+<div id="book-now" class="centered">
 <a style="display:inline-block;text-decoration:none;background-color:#0044B4;color:#ffffff;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:22px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:24px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" href="" onclick="window.enrollsy.openWidget({type:'ENROLL',slug:'focus-retreat-center',urlOptions:'%7B%22lId%22:%22cl6w7sr5i3h5m0706s5dv3ln9%22,%22pId%22:%22clfo48ybczqff0846v1l9dc4c%22%7D'});return false;">Book Now</a> <script>!function(n,e){var t,s;n.enrollsy||(n.enrollsy={},n.enrollsy._c=[],["init"].forEach(function(e){n.enrollsy[e]=function(){n.enrollsy._c.push([e,arguments])}}),(t=e.createElement("script")).type="text/javascript",t.async=!0,t.src="https://assets.enrollsy.com/external/widget.js",(s=e.getElementsByTagName("script")[0]).parentNode.insertBefore(t,s))}(window,document),window.setTimeout(function(){window.enrollsy.init()},1e3);</script>
 </div>
 
