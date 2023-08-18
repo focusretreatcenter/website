@@ -74,7 +74,15 @@ Jake Parker's original Inktober challenge in 2009 was something he imposed on hi
 
 ## When, where and how much?
 
-**Monday Oct 16, 2023** through **Sunday Oct 22, 2023**. This is immediately following NY Comic Con, so if you are traveling into the area for that, tack a retreat onto the end of your trip!
+We are now running **2 Inktober Retreat Events**!
+
+- **Monday Oct 16, 2023** through **Sunday Oct 22, 2023**
+  - Week 3 of the challenge.
+  - This is immediately following NY Comic Con, so if you are traveling into the area for that, tack a retreat onto the end of your trip!
+  - Hurry! Only a few spots left.
+- **Wednesday Oct 25, 2023** through **Thursday Nov 1, 2023** Just Announced!
+  - Week 4 of the challenge.
+  - We'll conclude the challenge with an awesome **Halloween party** 🕷🧹🍬 at FRC! Last year we got TONS of trick-or-treaters and it was super fun.
 
 FRC is in Malone, NY and [all your travel options and details are covered on our travel page](/travel).
 
