@@ -111,6 +111,8 @@ The cost is **$898** all inclusive for the event. This includes:
 
 <hr>
 
+{{ mailchimp() }}
+
 # Explore Adirondack Frontier
 
 <p>Inktober2023 at Focus Retreat Center is made possible in part by a grant from the Franklin County Government Office of Economic Development and Tourism. We encourage everyone to explore the many sites and destinations throughout Franklin County!</p><a href="https://www.exploreadirondackfrontier.com" target="_blank"><img style="display: block; margin: auto;" src="explore-adirondack-frontier.png" alt="Explore Adirondack Frontier Badge"></a>
