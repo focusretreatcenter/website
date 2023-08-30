@@ -1,6 +1,24 @@
+<!-- Event snippet for Subscribe to FRC Newsletter conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+function gtag_report_conversion_subscribe(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-11317191268/3xm8CLHo1NoYEOTEupQq',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
-<form action="https://focusretreatcenter.us14.list-manage.com/subscribe/post?u=a54483dfc73731ced2ff35a04&amp;id=2f34e99ede" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form onsubmit="gtag_report_conversion_subscribe();return true;" action="https://focusretreatcenter.us14.list-manage.com/subscribe/post?u=a54483dfc73731ced2ff35a04&amp;id=2f34e99ede" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
     <div id="mc_embed_signup_scroll">
 	<h2>Join Our Mailing List</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>

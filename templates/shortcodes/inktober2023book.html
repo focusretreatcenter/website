@@ -1,4 +1,20 @@
-<div id="book-now" class="book-now centered">
-<a style="display:inline-block;text-decoration:none;background-color:#0044B4;color:#ffffff;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:22px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:24px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" href="" onclick="window.enrollsy.openWidget({type:'ENROLL',slug:'focus-retreat-center',urlOptions:'%7B%22lId%22:%22cl6w7sr5i3h5m0706s5dv3ln9%22,%22pId%22:%22clfo48ybczqff0846v1l9dc4c%22%7D'});return false;">Book Now</a> <script>!function(n,e){var t,s;n.enrollsy||(n.enrollsy={},n.enrollsy._c=[],["init"].forEach(function(e){n.enrollsy[e]=function(){n.enrollsy._c.push([e,arguments])}}),(t=e.createElement("script")).type="text/javascript",t.async=!0,t.src="https://assets.enrollsy.com/external/widget.js",(s=e.getElementsByTagName("script")[0]).parentNode.insertBefore(t,s))}(window,document),window.setTimeout(function(){window.enrollsy.init()},1e3);</script>
-</div>
+<!-- Event snippet for Book Retreat Start conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-11317191268/J7TOCK7o1NoYEOTEupQq',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
 
+<div id="book-now" class="book-now centered">
+<a style="display:inline-block;text-decoration:none;background-color:#0044B4;color:#ffffff;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:22px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:24px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" href="" onclick="gtag_report_conversion_book();window.enrollsy.openWidget({type:'ENROLL',slug:'focus-retreat-center',urlOptions:'%7B%22lId%22:%22cl6w7sr5i3h5m0706s5dv3ln9%22,%22pId%22:%22clfo48ybczqff0846v1l9dc4c%22%7D'});return false;">Book Now</a> <script>!function(n,e){var t,s;n.enrollsy||(n.enrollsy={},n.enrollsy._c=[],["init"].forEach(function(e){n.enrollsy[e]=function(){n.enrollsy._c.push([e,arguments])}}),(t=e.createElement("script")).type="text/javascript",t.async=!0,t.src="https://assets.enrollsy.com/external/widget.js",(s=e.getElementsByTagName("script")[0]).parentNode.insertBefore(t,s))}(window,document),window.setTimeout(function(){window.enrollsy.init()},1e3);</script>
+</div>

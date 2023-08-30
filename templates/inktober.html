@@ -17,4 +17,21 @@
   {% if page.content is defined -%}{{ page.content | safe }}{% endif -%}
   {% if section.content is defined -%}{{ section.content | safe }}{% endif -%}
 </section>
+<!-- Event snippet for Book Retreat Start conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+function gtag_report_conversion_book(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-11317191268/J7TOCK7o1NoYEOTEupQq',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+
 {% endblock -%}
