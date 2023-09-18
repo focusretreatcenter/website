@@ -30,7 +30,8 @@
     <link rel="manifest" href="/site.webmanifest">
 
     {% include "partials/mailchimp-head.html" %}
-    {% include "partials/google-tag.html" %}
+    {% include "partials/google-gtag.html" %}
+    {% include "partials/google-tag-manager.html" %}
     <script>
       {% block scripts -%}
       {% endblock scripts -%}
@@ -67,6 +68,7 @@
     {% endblock opengraph -%}
   </head>
   <body>
+    {% include "partials/google-tag-manager-body.html" %}
     <button class="open-nav">&equiv;</button>
     <nav class="menu">
       <button class="close-nav">&times;</button>
