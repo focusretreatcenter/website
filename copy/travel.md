@@ -28,6 +28,8 @@ Coming from other locations look for bus routes to either Plattsburgh NY, Sarana
 
 ### Train
 
+**Amtrak NYC to Plattsburgh, NY:** Amtrak's Adirondack Line runs from NYC to Plattsburgh, NY daily. We can shuttle groups from Plattsburgh to FRC. This is the best route by train, but service is limited. If you cannot find a workable itinerary, Burlington, VT is the next best choice.
+
 **Amtrak NYC to Burlington, VT:** Amtrak's [Ethan Allen Express Service](https://www.amtrak.com/ethan-allen-express-train) runs from NYC to Burlington, VT. We can shuttle groups from Burlington to FRC.
 
 **Amtrak NYC to Albany, NY:** will get you about half way to FRC but it's still 3.5 hours to drive from there. You can also take a bus from Albany to Plattsburgh which is much closer to FRC.
