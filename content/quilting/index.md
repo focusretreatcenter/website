@@ -50,5 +50,5 @@ Full meal service features fresh seasonal food sourced locally and prepared by o
 
 # Get in touch and we'll help you plan
 
-Email us at team@focusretreatcenter.com or call 518-310-8879.
+Email us at **team@focusretreatcenter.com** or call 518-310-8879.
 
