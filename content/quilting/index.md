@@ -1,6 +1,8 @@
 +++
 title =  "Quilting Retreats at FRC"
 description = "Fun times quilting together, laughing, and learning."
+[extra]
+image = "group.jpg"
 +++
 
 ![Quilting retreat group proudly displaying their creations](group.jpg)
