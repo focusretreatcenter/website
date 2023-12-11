@@ -20,6 +20,10 @@ $pad: 1em;
     // fill their first line. They look a bit weird, so
     // left align them.
     justify-self: left;
+
+    // necessary for markdown images wrapped in paragraphs
+    // in firefox
+    width: 100%;
   }
 
   // I don't like this but it's necessary to keep stuff like
@@ -27,6 +31,17 @@ $pad: 1em;
   // horizontal scrollbars
   * {
     max-width: unquote("min(100%, 40em)");
+  }
+
+  // Work around markdown wrapping images
+  // in paragraphs. Keep narrow images centered.
+  p > img:only-child {
+    display: block;
+    margin: 0 auto;
+  }
+
+  p:has(img:only-child) {
+    width: 100%;
   }
 }
 
