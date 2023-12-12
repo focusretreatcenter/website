@@ -1,3 +1,7 @@
++++
+title =  "Getting to Malone, NY"
+description = "Detailed travel logistics and information for getting to FRC by car, bus, train, or plane"
++++
 Our address is:
 
 <p class="address">
@@ -28,7 +32,12 @@ Coming from other locations look for bus routes to either Plattsburgh NY, Sarana
 
 ### Train
 
-**Amtrak NYC to Plattsburgh, NY:** Amtrak's Adirondack Line runs from NYC to Plattsburgh, NY daily. We can shuttle groups from Plattsburgh to FRC. This is the best route by train, but service is limited. If you cannot find a workable itinerary, Burlington, VT is the next best choice.
+**Amtrak NYC to Plattsburgh, NY:** Amtrak's Adirondack Line runs from NYC (Moynihan Train Hall at Penn Station) to Plattsburgh, NY daily. We can shuttle groups from Plattsburgh to FRC. This is the best route by train. Coming from NJ, take Amtrak to Moynihan Train Hall at Penn Station then transfer to the Adirondack Line. If you cannot find a workable itinerary, Burlington, VT is the next best choice.
+
+![Exterior of Moynihan Train Hall at Pennsylvania Station](moynihan.jpg)
+
+![Amtrak Signage for the Adirondack Line](adirondack-line.jpg)
+
 
 **Amtrak NYC to Burlington, VT:** Amtrak's [Ethan Allen Express Service](https://www.amtrak.com/ethan-allen-express-train) runs from NYC to Burlington, VT. We can shuttle groups from Burlington to FRC.
 
