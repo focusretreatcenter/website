@@ -1,6 +1,7 @@
 +++
 title =  "Coworking at FRC"
 description = "Work without distractions"
+[extra]
 image = "coworking.jpg"
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Meeting Room Rentals at FRC"
 description = "The perfect space for your next business meeting"
+[extra]
 image = "meeting-2.C.jpg"
 +++
 
