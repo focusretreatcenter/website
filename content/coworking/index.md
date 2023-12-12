@@ -1,7 +1,7 @@
 +++
 title =  "Coworking at FRC"
 description = "Work without distractions"
-image = "/images/map2.png"
+image = "coworking.jpg"
 +++
 
 Coworking day passes are available. We've got everything you need to be productive and none of the things from your home office that make it a challenge!
