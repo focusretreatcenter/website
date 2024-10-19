@@ -20,7 +20,7 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
 # Do these specific first then generic lower down
 [[redirects]]
   from = "https://focusretreatcenter.com/listing"
-  to = "https://www.flexmls.com/share/B7iUe/16-Wheeler-Avenue,-Malone,-NY-12953"
+  to = "https://my.flexmls.com/TracyThompson2/search/listing_categories/Active/listings/20240425140718170865000000"
   status = 302
 
 [[redirects]]
