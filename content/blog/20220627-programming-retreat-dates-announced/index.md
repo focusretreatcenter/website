@@ -23,5 +23,3 @@ This retreat we will have a great mix of programmers, generative artists, commun
 ----
 
 > "it’s 1000% what I need in my life right now."
-
-Please help us spread the word and send anyone who wants to learn more about what a programming retreat is all about to email **team@focusretreatcenter.com** or [contact us through this form](https://focusretreatcenter.com/contact).

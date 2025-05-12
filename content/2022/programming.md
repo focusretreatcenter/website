@@ -9,10 +9,6 @@ This is an immersive project/learning retreat for software developers, game deve
 
 The retreat will run for 3 weeks. Monday August 1 will be a travel/arrival day. Sunday August 21 will be departure and travel home.
 
-Interested?
-
-<a class="brand-button" href="https://us14.list-manage.com/contact-form?u=a54483dfc73731ced2ff35a04&form_id=33ffae0ec11579cdc44c4f30cb839689">Contact us for more info!</a>
-
 <img src="/images/gallery/retreat0-hike.jpg" alt="Retreat Hike">
 
 ## What is a self-directed programming retreat?
